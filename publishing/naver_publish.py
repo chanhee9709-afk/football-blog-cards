@@ -140,7 +140,7 @@ def fill(page, ed, pub, draft, browser, font):
     for i, b in enumerate(pub["blocks"]):
         if b["type"] == "text":
             type_lines(page, b["text"], b.get("bold"))
-            if not b.get("small"):
+            if not b.get("small") and not b.get("tight"):
                 page.keyboard.press("Enter")  # blank line between sentences (one sentence = one paragraph)
                 page.wait_for_timeout(TYPE_PAUSE)
         elif b["type"] == "quote":

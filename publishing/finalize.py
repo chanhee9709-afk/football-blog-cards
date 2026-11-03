@@ -263,10 +263,13 @@ def build(fm, body, draft):
     blocks, img_i, first_h = [], 0, True
     if fm.get("thumbnail_file"):
         blocks.append({"type": "image", "file": fm["thumbnail_file"], "cover": True})
-    for ln in body.splitlines():
+    classic = fm.get("style") == "classic"
+    raw = body.splitlines()
+    for li, ln in enumerate(raw):
         s = ln.rstrip()
         if not s.strip():
             continue
+        nxt = raw[li + 1].strip() if li + 1 < len(raw) else ""
         if s.strip() == "[IMAGE]":
             blocks.append({"type": "image", "file": fm["images"][img_i]["file"],
                            "caption": fm["images"][img_i].get("caption", "")})
@@ -289,6 +292,8 @@ def build(fm, body, draft):
         else:
             bold = bool(re.fullmatch(r"\*\*.*\*\*", s.strip()))
             blocks.append({"type": "text", "text": plain(s), "bold": bold})
+            if classic and nxt and not nxt.startswith(("#", "[IMAGE]", ">", "|")):
+                blocks[-1]["tight"] = True  # classic style: lines of one paragraph stay together, no blank Enter
     blocks.append({"type": "text", "text": footer, "small": True})
     blocks.append({"type": "text", "text": tag_line})
     pub = {k: fm.get(k) for k in ("title", "category", "publish_at", "threads_text", "thumbnail_text")}
@@ -306,7 +311,7 @@ def build(fm, body, draft):
         elif b["type"] == "table":
             paste += [" | ".join(r) for r in b["rows"]] + [""]
         elif b["type"] == "text":
-            paste += [b["text"], ""]
+            paste += [b["text"]] + ([] if b.get("tight") else [""])
     (draft / "post-paste.txt").write_text("\n".join(paste).rstrip() + "\n", encoding="utf-8")
     info = [f"카테고리: {fm['category']}", "", f"제목: {fm['title']}", "",
             f"예약 발행: {fm.get('publish_at') or '바로'}", "", f"태그 ({len(tags)}개)", ", ".join(tags), "",
@@ -324,6 +329,10 @@ def main():
     draft = Path(args[0])
     fm, body = load(draft)
     block, warn, n = check(fm, body, draft)
+    if fm.get("style") == "classic":  # 예전 문체 (11/4 james): 코니 형식 규칙은 경고로만
+        keep = ("정보 칸", "category", "post_type", "베팅", "태그", "제목이")
+        warn += [b for b in block if not b.startswith(keep)]
+        block = [b for b in block if b.startswith(keep)]
     print(f"분량 {n:,}자 · 제목 {len(str(fm.get('title', '')))}자")
     for w in warn:
         print("[경고]", w)
