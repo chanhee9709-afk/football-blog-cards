@@ -17,6 +17,8 @@ images:
     caption: 이강인·김민재 경기 기록
   - file: 2026-11-04-코리안더비평점-fig-4.png
     caption: 11월 1일 프리뷰 채점과 다음 일정
+  - file: 2026-11-04-코리안더비평점-tab-1.png
+    caption: 제임스의 생각, 생각을 바꿀 조건
 thumbnail_prompt: "Two football players walking away from the camera side by side across a floodlit pitch at night right after the final whistle, seen strictly from directly behind, no part of either face, cheek or profile visible, camera low and close behind them, both large in frame from head to mid-thigh, together filling about 70% of the image height. The taller player on the RIGHT rests his left hand on the shorter player's right shoulder in a friendly gesture; the shorter player on the LEFT walks with his head slightly down. LEFT: an East Asian man, 25, 1.73 m, athletic and sturdy (not skinny), light-tan skin, short flat neat black hair with short sides and back, wearing a red and white vertical striped shirt with \"KANG-IN\" in navy capitals across the upper back and a large navy number 7, dark navy shorts, red socks. RIGHT: a Korean man, 29, 1.90 m, broad-shouldered powerful build, light skin, short neat straight black hair short at back and sides, wearing a plain all-red shirt with \"KIM\" in white capitals and a large white number 3, red shorts, red socks. No ball. Huge packed stadium at night, crowd blurred. No logos, no sponsor, no crests, no badges, no ad boards, no national flags, no text other than the names and numbers. Top fifth of the image dark night sky for text. Vertical 4:5."
 thumbnail_text: ["이강인 31분 vs 김민재 11분", "코리안 더비, 웃은 쪽은?"]
 thumbnail_file: "2026-11-04-코리안더비평점-썸네일-AI.png"
@@ -61,13 +63,6 @@ publish_at: ""
 74분에는 케인의 패스를 받은 라이머가 추가골을 넣었어요.
 
 81분 바이에른의 세 번째 골은 반칙으로 취소됐어요(국내 보도).
-
-| 항목 | 아틀레티코 | 바이에른 |
-|---|---|---|
-| 점유율 | 42% | 58% |
-| 슈팅(유효) | 9(3) | 19(5) |
-| 기대 득점(xG) | 0.87 | 1.79 |
-| 파울 | 13 | 3 |
 
 > 아틀레티코 홈에서 슈팅 9개, 바이에른은 그 두 배를 쐈어요
 
@@ -153,11 +148,7 @@ publish_at: ""
 
 다만 김민재도 빅매치 선발에서 다시 밀린 건 분명한 경고예요.
 
-| 이런 일이 생기면 | 이렇게 다시 봐요 |
-|---|---|
-| 김민재가 마인츠전 선발 | 타와 번갈아 쓰는 로테이션으로 |
-| 이강인이 바르셀로나전 선발 | 오늘 벤치는 체력 안배로 |
-| 둘 다 다음 경기도 벤치 | 주전 경쟁 위기로 |
+[IMAGE]
 
 하나만 나오면 지켜보고, 둘 이상 겹치면 생각을 바꿀게요.
 

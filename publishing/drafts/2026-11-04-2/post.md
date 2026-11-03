@@ -17,6 +17,8 @@ images:
     caption: 맨유 주요 선수 기록
   - file: 2026-11-04-맨유로마평점-fig-4.png
     caption: 맨유 최근 공식전 10경기와 다음 일정
+  - file: 2026-11-04-맨유로마평점-tab-1.png
+    caption: 제임스의 생각, 생각을 바꿀 조건
 thumbnail_prompt: "A football forward seen strictly from directly behind, no part of his face, cheek or profile visible, sprinting away from the camera toward a roaring packed stand at night with both arms spread wide in celebration, camera low and close behind him, framed from head to mid-thigh so he fills about 70% of the image height. He is a Brazilian man, 26, 1.84 m, athletic muscular build (not skinny), light-brown skin, short dark brown hair with short faded sides and back, slightly longer textured on top. Kit: plain red shirt with \"CUNHA\" in white capital letters across the upper back and a large white number 10 below it, white shorts, black socks. Teammates in the same red shirts, white shorts and black socks blurred in the background running to join him. Floodlights, crowd blurred in red. No ball. No logos, no sponsor, no crests, no badges, no ad boards, no national flags, no text other than the name and number. Top fifth of the image dark night sky for text. Vertical 4:5."
 thumbnail_text: ["0-2에서 뒤집었다", "쿠냐 2골, 맨유 살아났나?"]
 thumbnail_file: "2026-11-04-맨유로마평점-썸네일-AI.png"
@@ -46,11 +48,9 @@ publish_at: ""
 
 83분 쿠냐가 동점골, 86분 레이시의 패스를 받은 쿠냐가 역전골을 넣었어요.
 
-| 항목 | 맨유 | 로마 |
-|---|---|---|
-| 슈팅(유효) | 15(6) | 7(4) |
-| 기대 득점(xG) | 2.80 | 1.59 |
-| 점유율 | 53% | 47% |
+맨유는 슈팅 15개(유효 6개), 로마는 7개(유효 4개)를 쐈어요.
+
+기대 득점은 2.80 대 1.59였어요.
 
 슈팅 수와 기대 득점 모두 맨유가 두 배 가까이 앞섰어요.
 
@@ -136,6 +136,8 @@ publish_at: ""
 
 맨유는 리그 17위(승점 7)이고, 최근 리그 5경기는 3무 2패예요.
 
+직전 리그 3경기에서는 리즈와 1대 1로 비기고, 본머스(0대 3)와 첼시(0대 2)에 연달아 졌어요.
+
 챔스에서는 2승 2패, 승점 6이 됐어요.
 
 다음 상대는 11월 9일(월) 새벽 1시 30분 홈에서 만나는 애스턴 빌라(10위)예요.
@@ -150,11 +152,7 @@ publish_at: ""
 
 다만 전반 17분 만에 두 골을 내준 수비는 그대로 숙제예요.
 
-| 이런 일이 생기면 | 이렇게 다시 봐요 |
-|---|---|
-| 빌라전에 레이시 선발 | 오늘 교체가 '정답'이었다는 쪽으로 |
-| 빌라전 전반에 또 먼저 실점 | 반등이 아니라 하루짜리 기적으로 |
-| 리그에서도 연승 | 부진의 늪 탈출로 |
+[IMAGE]
 
 하나만 나오면 지켜보고, 둘 이상 겹치면 생각을 바꿀게요.
 

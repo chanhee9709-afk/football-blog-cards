@@ -73,12 +73,11 @@ def table_png(browser, rows, out):
     body = "".join("<tr>" + "".join(f"<td>{c}</td>" for c in r) + "</tr>" for r in rows[1:])
     html = f"""<html><head><meta charset="utf-8"><style>
 {face}
-body{{margin:0;padding:24px;background:#fff;font-family:P,'Malgun Gothic','Apple SD Gothic Neo',sans-serif;width:860px}}
-table{{border-collapse:collapse;width:100%;font-size:22px}}
-th{{background:#0F2A4A;color:#fff;font-weight:700;padding:14px;text-align:left}}
-td{{border-bottom:1px solid #d9dee5;padding:14px;color:#1b1f24}} tr:nth-child(even) td{{background:#f4f6f9}}
+body{{margin:0;padding:0;background:#fff;font-family:P,'Malgun Gothic','Apple SD Gothic Neo',sans-serif;width:693px}}
+table{{border-collapse:collapse;width:100%;font-size:15px}}
+th,td{{border:1px solid #e3e3e3;padding:10px 12px;color:#333;text-align:left}} th{{background:#f7f7f7;font-weight:700}}
 </style></head><body><table><tr>{head}</tr>{body}</table></body></html>"""
-    page = browser.new_page(viewport={"width": 908, "height": 400})
+    page = browser.new_page(viewport={"width": 693, "height": 300}, device_scale_factor=2)
     page.set_content(html)
     page.locator("body").screenshot(path=str(out))
     page.close()
