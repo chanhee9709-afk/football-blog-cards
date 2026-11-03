@@ -27,6 +27,8 @@ BLOG_ID = "chanheejk"
 PROFILE = Path.home() / ".naver-publish-profile"
 WRITE_URL = f"https://blog.naver.com/PostWriteForm.naver?blogId={BLOG_ID}"
 FONT_DIR = Path(__file__).resolve().parent.parent / "assets" / "fonts"
+CHANNEL = "chrome"  # the installed Google Chrome; Windows blocks Playwright's own unsigned Chromium build
+TYPE_PAUSE = 150  # ms; SmartEditor handles inserted text async, an Enter sent too soon splits or misplaces the line
 
 SEL = {
     "frame": "#mainFrame",
@@ -34,16 +36,19 @@ SEL = {
     "help_close": ".se-help-panel-close-button",
     "title": ".se-documentTitle .se-text-paragraph",
     "body_first": ".se-component.se-text .se-text-paragraph",
-    "quote_menu": "button.se-insert-menu-button-quotation, button[data-name='quotation'] + button",
-    "quote_style": {  # SmartEditor quotation layouts
-        "quote": "button[data-value='default']",
-        "line": "button[data-value='quotation_line']",
-        "frame": "button[data-value='quotation_corner']",
+    "quote_menu": "button.se-document-toolbar-select-option-button[data-name='quotation']",  # the ▾ next to 인용구
+    "quote_style": {  # SmartEditor quotation layouts (인용구 1 / 2 / 6 in the ▾ menu)
+        "quote": "button.se-toolbar-option-insert-quotation-default-button",
+        "line": "button.se-toolbar-option-insert-quotation-quotation_line-button",
+        "frame": "button.se-toolbar-option-insert-quotation-quotation_corner-button",
     },
-    "image_button": "button.se-image-toolbar-button, button[data-name='image']",
+    "last_paragraph": ".se-components-wrap > .se-component.se-text:last-child .se-text-paragraph >> nth=-1",
+    "image_component": ".se-components-wrap > .se-component.se-image",
+    "image_button": "button.se-image-toolbar-button",
     "font_button": "button.se-font-family-toolbar-button",
     "font_option": "button.se-toolbar-option-font-family-{name}-button",
     "save": "button[class*='save_btn']",
+    "save_count": "button[class*='save_count_btn']",
     "publish": "button[class*='publish_btn']",
     "category_open": "button[class*='selectbox_button']",
     "category_item": "span[class*='text__']",
@@ -59,13 +64,16 @@ FONT_NAMES = {"마루부리": "maruburi", "나눔고딕": "nanumgothic", "나눔
 
 def table_png(browser, rows, out):
     """SmartEditor tables are fiddly to drive, so draw the table as an image in the blog's style."""
-    font = (FONT_DIR / "Pretendard-Regular.otf").as_uri()
-    bold = (FONT_DIR / "Pretendard-Bold.otf").as_uri()
+    face = ""
+    if (FONT_DIR / "Pretendard-Regular.otf").exists():  # else fall back to a system Korean font
+        font = (FONT_DIR / "Pretendard-Regular.otf").as_uri()
+        bold = (FONT_DIR / "Pretendard-Bold.otf").as_uri()
+        face = f"@font-face{{font-family:P;src:url({font})}} @font-face{{font-family:P;font-weight:700;src:url({bold})}}"
     head = "".join(f"<th>{c}</th>" for c in rows[0])
     body = "".join("<tr>" + "".join(f"<td>{c}</td>" for c in r) + "</tr>" for r in rows[1:])
-    html = f"""<html><head><style>
-@font-face{{font-family:P;src:url({font})}} @font-face{{font-family:P;font-weight:700;src:url({bold})}}
-body{{margin:0;padding:24px;background:#fff;font-family:P;width:860px}}
+    html = f"""<html><head><meta charset="utf-8"><style>
+{face}
+body{{margin:0;padding:24px;background:#fff;font-family:P,'Malgun Gothic','Apple SD Gothic Neo',sans-serif;width:860px}}
 table{{border-collapse:collapse;width:100%;font-size:22px}}
 th{{background:#0F2A4A;color:#fff;font-weight:700;padding:14px;text-align:left}}
 td{{border-bottom:1px solid #d9dee5;padding:14px;color:#1b1f24}} tr:nth-child(even) td{{background:#f4f6f9}}
@@ -80,29 +88,48 @@ def type_lines(page, text, bold=False):
     if bold:
         page.keyboard.press("Control+b")
     page.keyboard.insert_text(text)
+    page.wait_for_timeout(TYPE_PAUSE)
     if bold:
         page.keyboard.press("Control+b")
     page.keyboard.press("Enter")
+    page.wait_for_timeout(TYPE_PAUSE)
+
+
+def keep_paragraph_after(page):
+    """Leave an empty paragraph below the caret so the quote/image lands above it and typing can go on there.
+    Arrow keys out of a quote land in its '출처 입력' line, and '본문 추가' has no box to click."""
+    page.keyboard.press("Enter")
+    page.wait_for_timeout(TYPE_PAUSE)
+    page.keyboard.press("ArrowUp")
+    page.wait_for_timeout(TYPE_PAUSE)
+
+
+def to_end(page, ed):
+    ed.locator(SEL["last_paragraph"]).click()
+    page.keyboard.press("End")
 
 
 def add_quote(page, ed, style, text):
+    keep_paragraph_after(page)
     ed.locator(SEL["quote_menu"]).first.click()
     ed.locator(SEL["quote_style"][style]).first.click()
     time.sleep(0.4)
     page.keyboard.insert_text(text)
-    # leave the quote box: click below the last component, or arrow out
-    page.keyboard.press("ArrowDown")
-    page.keyboard.press("ArrowDown")
-    time.sleep(0.2)
+    to_end(page, ed)
 
 
 def add_image(page, ed, path):
+    before = ed.locator(SEL["image_component"]).count()
+    keep_paragraph_after(page)
     with page.expect_file_chooser() as fc:
         ed.locator(SEL["image_button"]).first.click()
     fc.value.set_files(str(path))
-    page.wait_for_timeout(2500)  # upload
-    page.keyboard.press("End")
-    page.keyboard.press("Enter")
+    for _ in range(60):  # upload: wait until the image component shows up
+        if ed.locator(SEL["image_component"]).count() > before:
+            break
+        page.wait_for_timeout(250)
+    page.wait_for_timeout(800)
+    to_end(page, ed)
 
 
 def fill(page, ed, pub, draft, browser, font):
@@ -116,6 +143,7 @@ def fill(page, ed, pub, draft, browser, font):
             type_lines(page, b["text"], b.get("bold"))
             if not b.get("small"):
                 page.keyboard.press("Enter")  # blank line between sentences (one sentence = one paragraph)
+                page.wait_for_timeout(TYPE_PAUSE)
         elif b["type"] == "quote":
             add_quote(page, ed, b["style"], b["text"])
         elif b["type"] == "image":
@@ -164,7 +192,7 @@ def main():
     ap.add_argument("--font", choices=list(FONT_NAMES), default=None)
     a = ap.parse_args()
     with sync_playwright() as p:
-        ctx = p.chromium.launch_persistent_context(str(PROFILE), headless=False, locale="ko-KR",
+        ctx = p.chromium.launch_persistent_context(str(PROFILE), channel=CHANNEL, headless=False, locale="ko-KR",
                                                    viewport={"width": 1280, "height": 900})
         page = ctx.pages[0] if ctx.pages else ctx.new_page()
         if a.login:
@@ -181,18 +209,33 @@ def main():
         page.goto(WRITE_URL)
         if "nid.naver.com" in page.url:
             sys.exit("로그인이 풀렸어요: --login 으로 다시 로그인해 주세요")
-        ed = page.frame_locator(SEL["frame"])
         page.wait_for_timeout(3000)
+        # PostWriteForm now hosts the editor in the page itself; older layouts put it in #mainFrame
+        ed = page.frame_locator(SEL["frame"]) if page.locator(SEL["frame"]).count() else page
         for key in ("draft_popup_cancel", "help_close"):
-            if ed.locator(SEL[key]).count():
+            if ed.locator(SEL[key]).count() and ed.locator(SEL[key]).first.is_visible():
                 ed.locator(SEL[key]).first.click()
-        browser = ctx.browser or p.chromium.launch()
-        fill(page, ed, pub, draft, browser, a.font)
+                page.wait_for_timeout(500)
+        browser = ctx.browser or p.chromium.launch(channel=CHANNEL)
+        try:
+            fill(page, ed, pub, draft, browser, a.font)
+        except Exception:
+            page.screenshot(path=str(draft / "_error.png"))  # what the editor looked like when a step failed
+            raise
         if a.publish or a.review:
             publish_dialog(page, ed, pub, a.publish)
         else:
+            count = ed.locator(SEL["save_count"]).first
+            before = count.inner_text().strip()
             ed.locator(SEL["save"]).first.click()
-            print("임시저장했어요. 네이버 글쓰기 > 임시저장 글에서 확인해 주세요.")
+            for _ in range(40):  # the save is async: wait until the 임시저장 counter moves
+                page.wait_for_timeout(250)
+                if count.inner_text().strip() != before:
+                    break
+            if count.inner_text().strip() != before:
+                print("임시저장했어요. 네이버 글쓰기 > 임시저장 글에서 확인해 주세요.")
+            else:
+                print("임시저장 숫자가 그대로예요: 창에서 '저장'이 됐는지 직접 확인해 주세요.")
         input("엔터를 누르면 창을 닫아요…")
         ctx.close()
 
