@@ -163,11 +163,7 @@ def publish_dialog(page, ed, pub, really):
     page.wait_for_timeout(800)
     ed.locator(SEL["category_open"]).first.click()
     ed.locator(SEL["category_item"], has_text=pub["category"]).first.click()
-    tag_box = ed.locator(SEL["tag_input"])
-    for t in pub["tags"][:30]:  # Naver allows 30 tags
-        tag_box.click()
-        page.keyboard.insert_text(t)
-        page.keyboard.press("Enter")
+    # tags: Naver fills the tag box from the #tag line at the end of the body, so nothing to type here
     if pub.get("publish_at"):
         day, hm = pub["publish_at"].split()
         h, m = hm.split(":")
