@@ -19,7 +19,7 @@ images:
     caption: 11월 1일 프리뷰 채점과 다음 일정
 thumbnail_prompt: "Two football players walking away from the camera side by side across a floodlit pitch at night right after the final whistle, seen strictly from directly behind, no part of either face, cheek or profile visible, camera low and close behind them, both large in frame from head to mid-thigh, together filling about 70% of the image height. The taller player on the RIGHT rests his left hand on the shorter player's right shoulder in a friendly gesture; the shorter player on the LEFT walks with his head slightly down. LEFT: an East Asian man, 25, 1.73 m, athletic and sturdy (not skinny), light-tan skin, short flat neat black hair with short sides and back, wearing a red and white vertical striped shirt with \"KANG-IN\" in navy capitals across the upper back and a large navy number 7, dark navy shorts, red socks. RIGHT: a Korean man, 29, 1.90 m, broad-shouldered powerful build, light skin, short neat straight black hair short at back and sides, wearing a plain all-red shirt with \"KIM\" in white capitals and a large white number 3, red shorts, red socks. No ball. Huge packed stadium at night, crowd blurred. No logos, no sponsor, no crests, no badges, no ad boards, no national flags, no text other than the names and numbers. Top fifth of the image dark night sky for text. Vertical 4:5."
 thumbnail_text: ["이강인 31분 vs 김민재 11분", "코리안 더비, 웃은 쪽은?"]
-thumbnail_file: "2026-11-04-코리안더비평점-썸네일.png"
+thumbnail_file: "2026-11-04-코리안더비평점-썸네일-AI.png"
 threads_text: ""
 publish_at: ""
 ---
