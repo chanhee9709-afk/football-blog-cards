@@ -19,7 +19,7 @@ images:
     caption: 관전 포인트와 제임스의 예상
 thumbnail_prompt: "A football midfielder seen strictly from directly behind, no part of his face, cheek or profile visible, standing in the centre circle of a floodlit pitch at night, looking up at a huge packed stadium, camera low behind him, framed from head to mid-thigh so he fills about 70% of the image height. He is a Korean man, 30, 1.77 m, lean but athletic build, light skin, short neat straight black hair with short tapered back and sides, slightly longer on top. He wears a blue-and-white vertical striped shirt with \"HWANG\" in dark navy capitals across the upper back and a large dark navy number 16, plain blue shorts, blue socks. A football at his right foot. Crowd blurred with blue lights. No logos, no sponsor, no crests, no badges, no ad boards, no national flags, no text other than the name and number. Top fifth of the image dark night sky for text. Vertical 4:5."
 thumbnail_text: ["황인범 나폴리전", "0점 포르투 구할까?"]
-thumbnail_file: ""
+thumbnail_file: 2026-11-03-포르투나폴리황인범-썸네일-AI.png
 threads_text: ""
 publish_at: ""
 ---
