@@ -51,7 +51,7 @@ SEL = {
     "save_count": "button[class*='save_count_btn']",
     "publish": "button[class*='publish_btn']",
     "category_open": "button[class*='selectbox_button']",
-    "category_item": "span[class*='text__']",
+    "category_item": "label[for$='_{name}']",  # radios are id'd '<번호>_<카테고리 이름>'
     "tag_input": "#tag-input",
     "reserve_radio": "label[for='radio_time2']",
     "reserve_hour": "select[class*='hour_option']",
@@ -158,11 +158,25 @@ def fill(page, ed, pub, draft, browser, font):
         ed.locator(SEL["font_option"].format(name=FONT_NAMES[font])).first.click()
 
 
+def save_draft(page, ed):
+    count = ed.locator(SEL["save_count"]).first
+    before = count.inner_text().strip()
+    ed.locator(SEL["save"]).first.click()
+    for _ in range(40):  # the save is async: wait until the 임시저장 counter moves
+        page.wait_for_timeout(250)
+        if count.inner_text().strip() != before:
+            break
+    if count.inner_text().strip() != before:
+        print("임시저장했어요. 네이버 글쓰기 > 임시저장 글에서 확인해 주세요.")
+    else:  # also happens when a draft with the same title is updated in place
+        print("임시저장 숫자가 그대로예요: 창에서 '저장'이 됐는지 직접 확인해 주세요.")
+
+
 def publish_dialog(page, ed, pub, really):
     ed.locator(SEL["publish"]).first.click()
     page.wait_for_timeout(800)
     ed.locator(SEL["category_open"]).first.click()
-    ed.locator(SEL["category_item"], has_text=pub["category"]).first.click()
+    ed.locator(SEL["category_item"].format(name=pub["category"])).first.click()
     # tags: Naver fills the tag box from the #tag line at the end of the body, so nothing to type here
     if pub.get("publish_at"):
         day, hm = pub["publish_at"].split()
@@ -218,20 +232,16 @@ def main():
         except Exception:
             page.screenshot(path=str(draft / "_error.png"))  # what the editor looked like when a step failed
             raise
+        if not a.publish:
+            save_draft(page, ed)  # --review saves too, so nothing is lost if james closes the window
         if a.publish or a.review:
             publish_dialog(page, ed, pub, a.publish)
-        else:
-            count = ed.locator(SEL["save_count"]).first
-            before = count.inner_text().strip()
-            ed.locator(SEL["save"]).first.click()
-            for _ in range(40):  # the save is async: wait until the 임시저장 counter moves
-                page.wait_for_timeout(250)
-                if count.inner_text().strip() != before:
-                    break
-            if count.inner_text().strip() != before:
-                print("임시저장했어요. 네이버 글쓰기 > 임시저장 글에서 확인해 주세요.")
-            else:
-                print("임시저장 숫자가 그대로예요: 창에서 '저장'이 됐는지 직접 확인해 주세요.")
+        if a.review:
+            page.wait_for_timeout(500)
+            page.screenshot(path=str(draft / "_review.png"))  # the filled 발행 dialog, for checking from afar
+            print("james가 창에서 확인하고 '발행'을 누른 뒤 창을 닫으면 끝나요.")
+            page.wait_for_event("close", timeout=0)
+            return
         input("엔터를 누르면 창을 닫아요…")
         ctx.close()
 
