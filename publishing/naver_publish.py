@@ -212,6 +212,10 @@ def main():
         if not a.draft:
             sys.exit(__doc__)
         draft = Path(a.draft)
+        pj, md = draft / "publish.json", draft / "post.md"
+        if md.exists() and (not pj.exists() or pj.stat().st_mtime < md.stat().st_mtime):
+            import subprocess  # post.md is newer than publish.json: rebuild it first
+            subprocess.run([sys.executable, str(Path(__file__).with_name("finalize.py")), str(draft)], check=True)
         pub = json.loads((draft / "publish.json").read_text(encoding="utf-8"))
         if not any(b.get("cover") for b in pub["blocks"]):
             sys.exit("썸네일(thumbnail_file)이 아직 없어요: james의 Gemini 이미지가 오면 finalize부터 다시 돌려요")
