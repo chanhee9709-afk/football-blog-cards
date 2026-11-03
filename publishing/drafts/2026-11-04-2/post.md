@@ -19,7 +19,7 @@ images:
     caption: 맨유 최근 공식전 10경기와 다음 일정
 thumbnail_prompt: "A football forward seen strictly from directly behind, no part of his face, cheek or profile visible, sprinting away from the camera toward a roaring packed stand at night with both arms spread wide in celebration, camera low and close behind him, framed from head to mid-thigh so he fills about 70% of the image height. He is a Brazilian man, 26, 1.84 m, athletic muscular build (not skinny), light-brown skin, short dark brown hair with short faded sides and back, slightly longer textured on top. Kit: plain red shirt with \"CUNHA\" in white capital letters across the upper back and a large white number 10 below it, white shorts, black socks. Teammates in the same red shirts, white shorts and black socks blurred in the background running to join him. Floodlights, crowd blurred in red. No ball. No logos, no sponsor, no crests, no badges, no ad boards, no national flags, no text other than the name and number. Top fifth of the image dark night sky for text. Vertical 4:5."
 thumbnail_text: ["0-2에서 뒤집었다", "쿠냐 2골, 맨유 살아났나?"]
-thumbnail_file: "2026-11-04-맨유로마평점-썸네일.png"
+thumbnail_file: "2026-11-04-맨유로마평점-썸네일-AI.png"
 threads_text: ""
 publish_at: ""
 ---
