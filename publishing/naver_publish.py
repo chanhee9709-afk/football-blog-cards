@@ -120,9 +120,19 @@ def add_quote(page, ed, style, text):
 def add_image(page, ed, path):
     before = ed.locator(SEL["image_component"]).count()
     keep_paragraph_after(page)
-    with page.expect_file_chooser() as fc:
-        ed.locator(SEL["image_button"]).first.click()
-    fc.value.set_files(str(path))
+    for attempt in range(3):  # the 사진 button sometimes doesn't open the chooser (popup/caret in a quote)
+        try:
+            with page.expect_file_chooser(timeout=8000) as fc:
+                ed.locator(SEL["image_button"]).first.click()
+            fc.value.set_files(str(path))
+            break
+        except Exception:
+            page.keyboard.press("Escape")
+            page.wait_for_timeout(600)
+            to_end(page, ed)
+            if attempt == 2:
+                page.screenshot(path=str(Path(path).with_name("_image_fail.png")))
+                raise RuntimeError(f"사진 버튼이 열리지 않았어요: {Path(path).name} (화면: _image_fail.png)")
     for _ in range(60):  # upload: wait until the image component shows up
         if ed.locator(SEL["image_component"]).count() > before:
             break
