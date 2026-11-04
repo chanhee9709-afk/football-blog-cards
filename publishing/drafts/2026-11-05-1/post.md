@@ -20,7 +20,7 @@ images:
     caption: 11월 3일 프리뷰 채점과 포르투 다음 일정
 thumbnail_prompt: "A football player seen strictly from directly behind, no part of his face, cheek or profile visible, running toward a group of celebrating teammates on a floodlit pitch at night with both arms raised and fists clenched, camera low and close behind him, the player framed from head to mid-thigh filling about 70% of the image height. He is a Korean man, 29, 1.77 m, athletic and compact, light skin, short neat straight black hair, short at the back and sides. He wears a blue and white vertical striped shirt with \"HWANG\" in white capitals across a plain blue panel on the upper back and a large white number 16, blue shorts, blue socks with white tops. The teammates ahead, slightly out of focus, wear the same blue and white striped kit. Huge packed stadium, crowd blurred in blue tones. No logos, no sponsor, no crests, no badges, no ad boards, no national flags, no text other than the name and number. Top fifth of the image dark night sky for text. Vertical 4:5."
 thumbnail_text: ["황인범 2분 만에 도움", "포르투 챔스 첫 승!"]
-thumbnail_file: "2026-11-05-황인범나폴리전평점-썸네일.png"
+thumbnail_file: "2026-11-05-황인범나폴리전평점-썸네일-AI.png"
 threads_text: ""
 publish_at: ""
 ---
