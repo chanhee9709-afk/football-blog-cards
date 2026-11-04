@@ -20,7 +20,7 @@ images:
     caption: 예상 포메이션 맞대결
 thumbnail_prompt: "A football player seen strictly from directly behind, no part of his face, cheek or profile visible, standing still in the tunnel mouth and looking out at a huge floodlit stadium at night just before kick-off, camera low and close behind him, the player framed from head to mid-thigh filling about 70% of the image height. He is an East Asian man, 25, 1.73 m, athletic and sturdy (not skinny), light-tan skin, short flat neat black hair with short sides and back. He wears a red and white vertical striped shirt with \"KANG-IN\" in navy capitals across the upper back and a large navy number 7, dark navy shorts, red socks. Beyond him on the pitch, slightly out of focus, a line of opposing players in plain all-white kits waits. Packed crowd blurred, red and white tones in the stands. No logos, no sponsor, no crests, no badges, no ad boards, no national flags, no text other than the name and number. Top fifth of the image dark night sky for text. Vertical 4:5."
 thumbnail_text: ["이강인 vs 1위 바르사", "선두 뒤집을까?"]
-thumbnail_file: "2026-11-05-이강인바르사프리뷰-썸네일.png"
+thumbnail_file: "2026-11-05-이강인바르사프리뷰-썸네일-AI.png"
 threads_text: ""
 publish_at: ""
 ---
