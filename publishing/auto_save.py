@@ -9,8 +9,8 @@ Runs every 10 minutes from Windows 작업 스케줄러 (see install line below).
 A changed folder (e.g. Gemini thumbnail swapped in) is saved again as a NEW 임시저장 글: use the newest one.
 james then opens the Naver blog app > 글쓰기 > 임시저장, picks the category and presses 발행.
 
-Install (cmd, once, in C:\\Users\\Intellian\\naver-publish):
-  schtasks /create /tn NaverAutoSave /sc minute /mo 10 /f /tr "cmd /c cd /d C:\\Users\\Intellian\\naver-publish && set PYTHONIOENCODING=utf-8 && python auto_save.py >> auto_save.log 2>&1"
+Install (cmd, once, in C:\\Users\\Intellian\\naver-publish). run_hidden.vbs runs it with no console window:
+  schtasks /create /tn NaverAutoSave /sc minute /mo 10 /f /tr "wscript C:\\Users\\Intellian\\naver-publish\\run_hidden.vbs"
 Remove: schtasks /delete /tn NaverAutoSave /f
 Needs the PC on and james logged in to Windows (Chrome opens a window while it types).
 """
