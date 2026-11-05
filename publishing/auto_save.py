@@ -71,7 +71,7 @@ def main():
             url = f"https://raw.githubusercontent.com/{REPO}/{commit_sha}/{path}/{urllib.request.quote(f['path'])}"
             (out / f["path"]).write_bytes(get(url, raw=True))
         log(name, f"{len(files)}개 파일 받음, 임시저장 시작")
-        r = subprocess.run([sys.executable, str(HERE / "naver_publish.py"), str(out)])
+        r = subprocess.run([sys.executable, str(HERE / "naver_publish.py"), str(out)], stdin=subprocess.DEVNULL)
         if r.returncode == 0:
             done[name] = sha
             DONE.write_text(json.dumps(state, ensure_ascii=False, indent=1), encoding="utf-8")
