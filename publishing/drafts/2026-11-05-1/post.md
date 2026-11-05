@@ -8,7 +8,7 @@ keywords: [황인범 나폴리전 평점, 포르투 나폴리, 황인범 도움]
 tags: [황인범, 황인범나폴리전, 황인범나폴리전평점, 황인범평점, 황인범도움, 포르투나폴리, 포르투, 나폴리, 챔피언스리그, 챔스, 파리올리, 알레그리, 베이가, 키비오르, 맥토미니, 데브라위너, 모레노, 코리안리거, 해외축구, 해축]
 sources: ["https://www.api-football.com/", "https://www.uefa.com/uefachampionsleague/"]
 source_note: "API-Football(11월 5일 새벽, 경기 직후 기준: 경기 기록·평점·선발 위치·교체), 모레노 감독 관전 계획은 국내 보도"
-data_as_of: "2026-11-05 07:00 KST"
+data_as_of: "2026-11-05 09:30 KST"
 images:
   - file: 2026-11-05-황인범나폴리전평점-fig-1.png
     caption: 포르투 4-1 나폴리 경기 기록과 흐름
