@@ -2,7 +2,7 @@
 
 Runs every 10 minutes from Windows 작업 스케줄러 (see install line below). Each run:
   1. lists the public repo's claude/* branches and reads the ones that changed (GitHub API, no login),
-  2. finds publishing/drafts/<YYYY-MM-DD-N>/ folders dated today or yesterday (KST),
+  2. finds publishing/drafts/<YYYY-MM-DD-N>/ folders dated today (KST),
   3. downloads any folder that is new or changed since the last run into drafts\\<name>,
   4. runs `python naver_publish.py drafts\\<name>` (임시저장 only, never 발행),
   5. remembers the folder NAME in auto_save_done.json: each folder is tried exactly once, ever.
@@ -45,7 +45,7 @@ def main():
     state = json.loads(DONE.read_text(encoding="utf-8")) if DONE.exists() else {}
     done, heads, seen = state.setdefault("done", {}), state.setdefault("heads", {}), state.setdefault("seen", {})
     today = datetime.datetime.now(KST).date()
-    days = {str(today), str(today - datetime.timedelta(days=1))}
+    days = {str(today)}  # today only (11/6): yesterday's folders were already handled
     # only branches whose head moved since the last run cost an API call (GitHub allows 60/hour without login)
     for br in get(f"{API}/branches?per_page=100"):
         name, head = br["name"], br["commit"]["sha"]
