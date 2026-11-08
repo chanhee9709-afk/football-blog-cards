@@ -256,7 +256,10 @@ def main():
             page.wait_for_event("close", timeout=0)
             return
         if sys.stdin and sys.stdin.isatty():  # auto_save (작업 스케줄러) runs without a keyboard: close right away
-            input("엔터를 누르면 창을 닫아요…")
+            try:  # on Windows NUL also says isatty() -> input() gets EOF; that is not a failure (11/8)
+                input("엔터를 누르면 창을 닫아요…")
+            except EOFError:
+                pass
         ctx.close()
 
 
