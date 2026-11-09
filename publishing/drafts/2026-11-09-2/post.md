@@ -1,0 +1,92 @@
+---
+title: 맨유 빌라전 평점, 4분 만에 0-2→96분 도르구 헤더 4-4…캐릭은 살아남을까?
+category: 경기 리뷰·논평
+post_type: review
+style: classic
+summary: 맨유가 빌라와 4대 4로 비겼어요. 4분 만에 0-2, 53분에 2-4로 끌려가다 추가시간 지르크지와 도르구의 연속골로 따라붙었어요. 실점 장면의 실수, 66분 3장 교체의 효과, 11월 6일 프리뷰 예상 채점까지 정리했어요.
+keywords: [맨유 빌라전 평점, 맨유 빌라 4-4, 도르구 동점골]
+tags: [맨유, 맨유평점, 맨유빌라전, 맨유빌라전평점, 애스턴빌라, 캐릭, 도르구, 지르크지, 브루노페르난데스, 틸레만스, 라멘스, 니콜라스잭슨, 프리미어리그, EPL, EPL10라운드, 해외축구, 해축]
+sources: ["https://www.api-football.com/", "https://www.theguardian.com/football/2026/nov/08/manchester-united-aston-villa-premier-league-match-report", "https://www.premierleague.com/tables"]
+source_note: "API-Football(11월 9일 새벽, 경기 직후 기준: 경기 기록·평점·선발 위치·순위·일정), 가디언 경기 리포트(실점 장면·캐릭 감독 발언)"
+data_as_of: "2026-11-09 06:30 KST"
+images:
+  - file: 2026-11-09-맨유빌라전평점-fig-1.png
+    caption: 맨유 4-4 빌라 경기 기록과 골 흐름
+  - file: 2026-11-09-맨유빌라전평점-fig-3.png
+    caption: 도르구·지르크지·틸레만스 등 핵심 선수 기록
+  - file: 2026-11-09-맨유빌라전평점-fig-2.png
+    caption: 실제 선발 포메이션과 실점 구역, 66분 교체
+  - file: 2026-11-09-맨유빌라전평점-tab-1.png
+    caption: 표 예상 · 실제 · 결과
+thumbnail_prompt: "A young football full-back seen strictly from directly behind, no part of the face, cheek or profile visible, sprinting away in wild celebration with both arms spread wide in front of a packed home end at night after scoring a last-minute header, camera low and close behind him, framed from head to mid-thigh filling about 70% of the image height. He is a Danish man of Nigerian heritage, 21, about 1.84 m, lean athletic build with long legs, dark brown skin. His hair is long dark-brown/black dreadlocks (locs), many thin rope-like locs hanging down past the base of his neck to around his shoulders, some slightly lighter brown at the tips, swinging as he runs. NOT short, NOT cropped, no buzz cut, no fade. He wears a plain solid red shirt with \"DORGU\" in white capitals across the upper back and a large white number 13, white shorts, black socks. Ahead of him a roaring crowd in red tones, blurred, teammates in red running in from the sides. Rain streaks in the floodlights. No logos, no sponsor, no crests, no badges, no ad boards, no text other than the name and number. Top fifth of the image dark night sky for text. Vertical 4:5."
+thumbnail_text: ["0-2, 2-4, 그리고 96분", "맨유 미친 4-4"]
+thumbnail_file: "2026-11-09-맨유빌라전평점-썸네일-AI.png"
+threads_text: ""
+publish_at: ""
+---
+
+안녕하세요! 제임스입니다~
+
+맨유와 애스턴 빌라가 올드 트래퍼드에서 4대 4로 비겼어요.
+경기는 11월 9일(월) 새벽 1시 30분에 시작했어요. 맨유는 4분 만에 0-2, 53분에 2-4로 끌려갔지만 추가시간 2분 지르크지, 추가시간 6분 도르구의 헤더로 승점 1을 가져왔어요.
+맨유는 슈팅 26개(유효 9개), 기대 득점(xG) 3.63을 기록했고, 빌라는 슈팅 12개로 4골을 넣었어요(API-Football). 많이 쏘고도 많이 내준, 맨유다운 경기였어요.
+
+[IMAGE]
+
+## 경기 흐름: 0-2, 2-2, 2-4, 4-4
+
+시작 59초 만에 알리송의 슈팅이 라멘스 골키퍼의 다리 사이로 들어갔어요. 4분에는 라멘스가 알리송의 슈팅을 앞으로 쳐 냈고, 잭슨이 그대로 밀어 넣었어요. 가디언은 두 골 모두 라멘스의 책임이 컸다고 평가했어요.
+그런데 맨유가 곧바로 살아났어요. 16분 쿠냐가 박스 오른쪽을 뚫다 카마라에게 걸려 페널티킥을 얻었고, 브루노 페르난데스가 넣었어요. 44분에는 마즈라위의 크로스를 틸레만스가 마무리해 2-2로 전반을 마쳤어요.
+후반은 다시 빌라 쪽이었어요. 48분 달로가 알리송을 넘어뜨려 페널티킥을 내줬고 맥긴이 넣었어요. 53분에는 요로의 헤더가 자기 골문 쪽으로 향했고, 라멘스가 골대로 쳐 낸 공을 고레츠카가 밀어 넣어 2-4가 됐어요.
+캐릭 감독은 66분 틸레만스, 달로, 아마드를 빼고 마운트, 도르구, 레이시를 한꺼번에 넣었어요. 83분에는 음뵈모 대신 지르크지가 들어갔어요. 추가시간 2분 도르구의 패스를 받은 지르크지가 골을 넣었고, 추가시간 6분 브루노의 코너킥을 도르구가 머리로 넣어 4-4를 만들었어요.
+
+> 4골을 내준 실수와 4골을 만든 교체, 두 얼굴이 한 경기에 다 나왔어요
+
+## 맨유 평점: 틸레만스 8.2, 도르구 7.85
+
+[IMAGE]
+
+맨유 최고 평점은 틸레만스(8.2)였어요. 동점골에 키패스 4개를 기록했어요. 교체로 들어온 도르구는 24분 동안 1골 1도움으로 7.85, 지르크지는 7분 만에 골을 넣고 7.36을 받았어요.
+브루노 페르난데스는 페널티킥 골과 마지막 코너킥 도움으로 7.7이었어요. 슈팅도 6개로 팀에서 가장 많았어요.
+반대로 하프타임에 교체된 매과이어(5.47), 대신 들어온 헤븐(5.83), 66분 동안 PK를 내준 달로(6.14)는 낮은 점수를 받았어요. 라멘스는 선방 3개를 했지만 초반 두 실점에 관여해 6.16이었어요.
+빌라에서는 1골 1도움의 잭슨이 8.33으로 양 팀 최고였어요.
+
+## 원인 분석: 맨유는 왜 4골을 내주고, 왜 4골을 넣었을까
+
+[IMAGE]
+
+① 4실점 중 3골은 상대가 만든 게 아니었어요
+1분 실점은 골키퍼 다리 사이, 4분 실점은 골키퍼가 앞으로 쳐 낸 공, 53분 실점은 요로의 헤더가 시작이었어요. 48분 페널티킥도 달로의 불필요한 태클에서 나왔어요. 빌라가 잘한 장면도 있었지만, 빌라의 슈팅 12개 중 4개가 골이 된 건 맨유 수비의 실수가 컸다는 뜻이에요.
+
+② 그래도 공격 숫자는 시즌 최고 수준이었어요
+맨유는 슈팅 26개, 박스 안 슈팅 14개, 코너킥 8개를 기록했어요. 쿠냐는 드리블 2번을 모두 성공하고 PK를 얻어 냈고, 브루노와 틸레만스가 키패스 4개씩을 만들었어요. 4-2-3-1의 2선(쿠냐, 브루노, 아마드)이 빌라 수비 사이로 계속 들어갔어요.
+
+③ 66분 왼쪽 교체가 마지막 15분을 바꿨어요
+달로를 빼고 넣은 도르구는 왼쪽 수비수 자리에서 거의 윙어처럼 올라갔어요. 24분 동안 경합 4번을 모두 이겼고, 1골 1도움을 기록했어요. 같은 시간 오른쪽에는 레이시가 들어가 키패스 2개를 만들었어요. 빌라는 71분과 78분에 맥긴, 알리송, 고레츠카, 만잠비를 뺐고, 앞에서 공을 지킬 선수가 줄어든 사이 맨유가 몰아쳤어요.
+
+> 수비 실수는 그대로였지만, 이날은 교체 카드가 그 실수를 덮었어요
+
+## 프리뷰 예상 채점: 잭슨만 맞혔다
+
+11월 6일 프리뷰에서 제가 남긴 예상을 그대로 채점해 볼게요.
+
+[IMAGE]
+
+관전 포인트에서 짚었던 '빌라가 맨유가 약한 경기 시작 30분에 먼저 골을 넣을까'는 4분 만에 두 골로 그대로 나왔어요. 무실점 경기가 없는 흐름도 리그 10경기째로 이어졌어요.
+
+## 순위와 다음 일정
+
+맨유는 승점 8로 18위예요(10경기). 리그에서는 8월 31일 입스위치전 5대 2 승리 이후 8경기째 이기지 못했어요(5무 3패). 가디언에 따르면 이날 경기 중 맨유가 2분 46초 동안 꼴찌까지 내려간 순간도 있었어요.
+빌라는 승점 13으로 10위예요.
+A매치 휴식기가 끝나면 맨유는 11월 23일(월) 리버풀 원정, 26일(목) 스포르팅과 챔피언스리그 원정, 29일(일) 브렌트퍼드 홈경기를 치러요.
+
+## 제임스의 생각
+
+· 맨유 팬으로서 솔직히 말하면, 2-4에서 따라붙은 정신력은 박수받을 만해요. 로마전에 이어 두 경기 연속 두 골 차를 뒤집거나 따라잡았어요.
+· 그래도 이 경기를 '반등'이라고 부르기는 어려워요. 실점 4개 중 3개가 실수였고, 리그 8경기 무승, 18위라는 숫자는 그대로예요. 맨유는 아직 부진의 늪 안에 있다고 봐요.
+· 캐릭 감독에게는 조금 다르게 보고 싶어요. 저는 그동안 교체가 늦고 소극적이라고 비판했는데, 이번에는 66분에 3장을 한꺼번에 쓰고 레이시를 넣었어요. 그 교체가 승점 1을 만들었으니, 이건 인정해야 한다고 봐요.
+· 다만 골키퍼 문제는 휴식기 동안 꼭 정리해야 해요. 라멘스가 흔들리면 수비 전체가 흔들려요. 휴식기 뒤 첫 경기 리버풀 원정은 쉽지 않아서, 제 예상은 리버풀 2-1 승이에요. 도르구를 왼쪽 수비수로 선발로 쓴다면 무승부까지는 노려볼 수 있다고 봐요.
+
+여러분은 이 4-4, 희망으로 보세요, 아니면 위기로 보세요? 캐릭 감독의 거취 예상도 댓글로 남겨 주세요!
+
+※ 평점과 기록은 API-Football 경기 직후 기준이라 조금 바뀔 수 있어요. 실점 장면 설명은 가디언 경기 리포트를 참고했어요.

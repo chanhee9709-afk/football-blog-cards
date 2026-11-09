@@ -1,0 +1,91 @@
+---
+title: 이강인 바르셀로나전 평점 6.58, 60분 교체 뒤 6분 만에 역전…시메오네의 선택은?
+category: 경기 리뷰·논평
+post_type: review
+style: classic
+summary: 아틀레티코가 홈에서 바르셀로나에 1대 2로 역전패했어요. 이강인은 투톱 오른쪽으로 선발 출전해 60분을 뛰고 평점 6.58을 받았어요. 점유율 37%의 경기에서 이강인에게 공이 적게 간 이유, 야말과 그리말도의 측면 싸움, 11월 5일 프리뷰 예상 채점까지 정리했어요.
+keywords: [이강인 바르셀로나전 평점, 이강인 평점, 아틀레티코 바르셀로나]
+tags: [이강인, 이강인평점, 이강인바르셀로나전, 이강인바르셀로나전평점, 아틀레티코마드리드, 아틀레티코바르셀로나, 바르셀로나, 페르민로페스, 라민야말, 줄리아노시메오네, 알바레스, 시메오네, 플리크, 라리가, 라리가13라운드, 해외축구, 해축]
+sources: ["https://www.api-football.com/", "https://www.laliga.com/en-GB/laliga-easports/standing"]
+source_note: "API-Football(11월 9일 오전 7시, 경기 직후 기준: 경기 기록·평점·선발 위치·교체·일정). 순위는 API 순위표가 아직 이 경기를 반영하지 않아 결과를 더해 직접 계산"
+data_as_of: "2026-11-09 07:00 KST"
+images:
+  - file: 2026-11-09-이강인바르셀로나전평점-fig-1.png
+    caption: 아틀레티코 1-2 바르셀로나 경기 기록과 흐름
+  - file: 2026-11-09-이강인바르셀로나전평점-fig-3.png
+    caption: 이강인·줄리아노·페르민·야말 등 핵심 선수 기록
+  - file: 2026-11-09-이강인바르셀로나전평점-fig-2.png
+    caption: 실제 선발 포메이션, 이강인 자리와 야말의 측면
+  - file: 2026-11-09-이강인바르셀로나전평점-tab-1.png
+    caption: 표 예상 · 실제 · 결과
+thumbnail_prompt: "A football forward seen strictly from directly behind, no part of the face, cheek or profile visible, walking slowly off the pitch towards the touchline after being substituted, head slightly lowered, on a floodlit Madrid stadium pitch at night, camera low and close behind him, framed from head to mid-thigh filling about 70% of the image height. He is a Korean man, 25, about 1.73 m, compact athletic and sturdy build (not skinny), light-tan skin. His hair is straight, thick, layered dark brown-black hair with a faint warm brown tint: full and rounded on top with plenty of soft volume, side hair falling over the upper half of his ears, the back neatly trimmed at the nape in a soft natural taper with hair still covering the whole back of the head, slightly tousled. NOT short, NOT flat, NOT a bowl cut, NOT wavy or long, no buzz cut, no undercut, no shaved or faded sides, no visible scalp skin at the sides. He wears a plain shirt with vertical red and white stripes, \"KANG-IN\" in navy capitals across the upper back and a large navy number 7 on a white panel so they are easy to read, navy-blue shorts, red socks. Ahead of him at the touchline, a tall teammate in the same striped kit waits to come on, blurred. In the far background, opposing players in plain all-white kits, blurred. Packed red-and-white crowd blurred. No logos, no sponsor, no crests, no badges, no ad boards, no text other than the name and number. Top fifth of the image dark night sky for text. Vertical 4:5."
+thumbnail_text: ["60분 교체, 6분 뒤 역전", "이강인 빼서 졌다?"]
+thumbnail_file: "2026-11-09-이강인바르셀로나전평점-썸네일-AI.png"
+threads_text: ""
+publish_at: ""
+---
+
+안녕하세요! 제임스입니다~
+
+이강인의 아틀레티코가 바르셀로나에 역전패했어요.
+11월 9일(월) 새벽 5시 메트로폴리타노에서 열린 라리가 13라운드에서 아틀레티코는 바르셀로나에 1대 2로 졌어요. 10분 줄리아노 시메오네의 선제골로 앞서갔지만, 페르민 로페스에게 45분과 66분 두 골을 내줬어요.
+이강인은 알바레스와 투톱으로 선발 출전해 60분을 뛰었어요. 슈팅 1개(유효 1개), 패스 19개 중 17개 성공, 평점 6.58이었어요(API-Football, 경기 직후 기준). 이강인이 교체되고 6분 뒤에 역전골이 나왔어요.
+
+[IMAGE]
+
+## 경기 흐름: 10분 선제골, 45분 동점, 66분 역전
+
+시작은 아틀레티코가 좋았어요. 10분 알바레스의 패스를 받은 줄리아노 시메오네가 골을 넣었어요. 오른쪽 측면을 뛰던 줄리아노가 박스 안으로 들어와 마무리한 장면이었어요.
+하지만 바르셀로나가 공을 쥐고 계속 밀어붙였고, 전반 종료 직전 45분 페르민 로페스가 동점골을 넣었어요.
+후반 60분, 시메오네 감독은 이강인을 빼고 장신 공격수 쇠를로트를 넣었어요. 그런데 6분 뒤인 66분, 라민 야말의 패스를 받은 페르민이 두 번째 골을 넣어 경기를 뒤집었어요.
+아틀레티코는 72분 코케와 바에나 대신 휼만과 카르도주, 78분 바리오스 대신 조너선 데이비드를 넣었지만 동점골은 나오지 않았어요.
+
+> 이강인이 나간 뒤 6분, 그 사이에 경기가 뒤집혔어요
+
+## 이강인 평점: 60분 6.58, 패스 성공률 89%
+
+[IMAGE]
+
+이강인은 60분 동안 패스 19개 중 17개를 성공했고(89%), 유효 슈팅 1개, 드리블 1번 시도 1번 성공을 기록했어요. 경합은 5번 중 2번을 이겼어요. 키패스는 없었어요.
+기록만 보면 실수가 많았던 경기는 아니에요. 문제는 공을 만진 횟수 자체가 적었다는 거예요. 60분 동안 패스 19개는, 같은 시간 바르셀로나 중앙 수비수 쿠바르시가 90분에 108개를 한 것과 비교하면 크게 적은 숫자예요.
+아틀레티코에서 가장 높은 평점은 선제골의 줄리아노 시메오네(7.6)와 도움의 알바레스(7.23)였어요. 가장 낮은 평점은 왼쪽 수비수 그리말도(5.31)였어요.
+바르셀로나에서는 두 골의 페르민이 9.5로 양 팀 최고 점수를 받았고, 야말은 키패스 7개로 7.66이었어요.
+
+## 원인 분석: 이강인에게 왜 공이 가지 않았을까
+
+[IMAGE]
+
+① 점유율 37%, 아틀레티코는 '버티는 경기'를 했어요
+아틀레티코의 패스는 390개, 바르셀로나는 667개였어요. 아틀레티코는 4-4-2로 내려서서 막고, 공을 뺏으면 알바레스와 줄리아노가 빠르게 뛰는 방식으로 경기를 풀었어요. 이강인의 강점은 공을 잡고 앞을 보며 패스를 넣는 건데, 이 경기에서는 공을 잡는 시간 자체가 짧았어요.
+
+② 이강인 옆의 '달리는 선수'는 골을 만들었어요
+제가 전에 정리했듯이, 아틀레티코에서 이강인이 살아나는 이유는 오른쪽에서 줄리아노가 대신 뛰어 주기 때문이에요. 이날도 그 구조는 그대로였어요. 줄리아노는 경합 17번 중 11번을 이기고 선제골을 넣었어요. 다만 그 뒤로는 바르셀로나가 공을 쥐면서 이강인이 받아서 풀어 줄 장면 자체가 거의 나오지 않았어요.
+
+③ 승부는 반대쪽, 야말과 그리말도의 측면에서 갈렸어요
+야말은 드리블 10번 중 6번을 성공하고 키패스 7개를 만들었어요. 그를 막은 왼쪽 수비수 그리말도는 경합 12번 중 5번만 이겼고 평점 5.31을 받았어요. 역전골도 야말의 패스에서 나왔어요. 시메오네 감독은 이강인을 빼고 쇠를로트를 넣어 앞에서 공을 지키려 했지만, 실점은 그 반대쪽 측면에서 나왔어요.
+
+> 이강인 교체가 역전의 원인은 아니에요. 다만 '공을 지킬 선수'를 빼고 '버틸 선수'를 넣은 그 순간, 바르셀로나가 더 밀고 들어왔어요
+
+## 프리뷰 예상 채점: 선발은 맞혔다
+
+11월 5일 프리뷰에서 남긴 예상을 그대로 채점해 볼게요.
+
+[IMAGE]
+
+관전 포인트로 꼽았던 '리그 최소 실점 수비가 야말과 하피냐를 동시에 묶을 수 있을까'는 절반만 맞았어요. 하피냐는 평점 6.39로 조용했지만, 야말은 막지 못했어요.
+
+## 순위와 다음 일정
+
+아틀레티코는 리그 7연승이 끊겼어요. API 순위표가 아직 이 경기를 반영하지 않아 결과를 더해 계산하면, 바르셀로나가 승점 33으로 1위, 레알 마드리드가 30점으로 2위, 아틀레티코는 28점으로 3위예요. 선두와의 차이는 5점으로 벌어졌어요.
+A매치 휴식기 동안 이강인은 대표팀에 합류해요. 휴식기가 끝나면 아틀레티코는 11월 23일(월) 새벽 1시 헤타페 원정, 26일(목) 새벽 5시 바이킹과 챔피언스리그 홈경기를 치러요.
+
+## 제임스의 생각
+
+· 저는 이강인의 60분이 '나빴다'기보다 '쓰일 일이 적었다'고 봐요. 패스 성공률 89%에 유효 슈팅도 있었지만, 팀 점유율이 37%인 경기에서 플레이메이커형 공격수가 할 수 있는 일은 한계가 있어요.
+· 시메오네 감독의 60분 교체는 이해는 가요. 1-1에서 앞쪽에 몸싸움이 되는 쇠를로트를 세워 공을 지키려 한 거예요. 하지만 결과적으로 쇠를로트는 30분 동안 패스 6개, 경합 4번 중 1번 승리에 그쳤어요. 이강인을 남겼다면 역습 때 공을 더 오래 지킬 수 있지 않았을까 하는 아쉬움이 남아요.
+· 진짜 문제는 왼쪽이었다고 봐요. 야말을 그리말도 혼자 막게 둔 게 패인이에요. 바에나가 더 내려와 도왔어야 했어요.
+· 휴식기 뒤 헤타페 원정은 내려서는 팀이라 이강인 같은 선수가 더 필요해요. 이강인 선발, 아틀레티코 2-0 승리를 예상해요.
+
+여러분은 시메오네 감독의 60분 이강인 교체, 맞는 선택이었다고 보세요? 댓글로 의견 남겨 주세요!
+
+※ 평점과 기록은 API-Football 경기 직후 기준이라 조금 바뀔 수 있어요. 순위는 이 경기 결과를 더해 직접 계산했어요.
