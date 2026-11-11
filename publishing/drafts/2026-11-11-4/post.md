@@ -1,0 +1,79 @@
+---
+title: 손흥민·황희찬 회복조 나란히 대화…불화설 끝났을까?
+category: 경기 리뷰·논평
+post_type: issue
+style: classic
+summary: 카타르 도하에서 열린 대표팀 첫 완전체 훈련에서 손흥민과 황희찬이 회복조 맨 앞에서 나란히 달리며 대화를 나눴어요. 불화설 뒤 한 달 만에 다시 모인 대표팀 분위기와, 사우디전에서 두 선수가 함께 써야 할 왼쪽 측면을 정리했어요.
+keywords: [손흥민 황희찬, 대표팀 불화설, 사우디전]
+tags: [손흥민, 황희찬, 손흥민황희찬, 대표팀불화설, 96라인, 92라인, 모레노호, 축구대표팀, 국가대표, 사우디전, 카타르전, 김민재, 황인범, 이재성, 이강인, A매치, 해외축구, 해축]
+sources: ["https://www.donga.com/news/Sports/article/all/20261111/135006780/1", "https://www.news1.kr/sports/soccer/6350477", "http://www.osen.co.kr/article/G1112908286"]
+source_note: "연합뉴스 등 도하 현지 취재진 보도와 대한축구협회 공개 사진(11월 11일), 동아일보·뉴스1·OSEN(11월 11일), API-Football(한국 9~10월 A매치 결과)"
+data_as_of: "2026-11-11 19:30 KST"
+images:
+  - file: 2026-11-11-손흥민황희찬회복조-fig-1.png
+    caption: 도하 첫 완전체 훈련 조 편성
+  - file: 2026-11-11-손흥민황희찬회복조-fig-2.png
+    caption: 불화설부터 도하 훈련까지
+  - file: 2026-11-11-손흥민황희찬회복조-fig-3.png
+    caption: 사우디전 예상 4-4-2와 왼쪽 측면
+thumbnail_prompt: "Photorealistic sports photo, late afternoon at a national-team training ground in Doha, Qatar: green pitch, low hedges and palm trees behind, warm golden light. Two Korean footballers jog side by side at the front of a small recovery group, smiling and talking to each other, three-quarter front view. Left: a 34-year-old Korean forward, about 1.83 m, lean athletic build, light tan skin, short neat black hair with slightly textured top, clean-shaven, friendly smile. Right: a 30-year-old Korean forward, about 1.77 m, very muscular stocky build with thick thighs, tan skin, short black hair with a short fringe, laughing. Both wear the Korea national team purple-violet Nike training kit: purple short-sleeve training tops with the Korea Football Association crest and the white 'kt' sponsor logo on the chest, purple shorts, white running shoes (not football boots), one wearing a purple half-zip long-sleeve top. Blurred teammates in the same purple kit behind them. Realistic training moment only. Camera at chest height, both framed from head to knees, filling about 65% of the image height. Top fifth of the image soft dusk sky for text. No text other than the kit logos. Vertical 4:5."
+thumbnail_text: ["손흥민·황희찬 나란히", "불화설 끝났나?"]
+thumbnail_file: "2026-11-11-손흥민황희찬회복조-썸네일-AI.png"
+threads_text: ""
+publish_at: ""
+---
+
+안녕하세요! 제임스입니다~
+
+한 달 전만 해도 대표팀 불화설로 시끄러웠던 손흥민과 황희찬이 카타르 도하 훈련장에서 나란히 웃으며 달렸어요.
+연합뉴스 등 도하 현지 취재진은 11월 10일(현지) 첫 완전체 훈련에서 두 선수가 회복조 맨 앞줄에서 한동안 대화를 나눴다고 전했어요. 3분 넘게 이야기를 나눴다는 보도도 나왔어요.
+손흥민 황희찬 대화 장면이 왜 이렇게 관심을 받는지, 그날 훈련장에서 무슨 말이 오갔는지, 그리고 13일 사우디전에서 두 선수가 함께 풀어야 할 숙제는 무엇인지 정리했어요.
+
+[IMAGE]
+
+## 도하 첫 훈련: 회복조와 훈련조로 나뉜 26명
+
+대표팀은 카타르대학교 운동장에서 약 1시간 동안 첫 완전체 훈련을 했어요. 선수들은 주말 소속팀 경기를 얼마나 뛰었는지에 따라 두 조로 나뉘었어요.
+손흥민, 황희찬, 이강인, 송민규 등 11명은 회복조였어요. 축구화 대신 운동화를 신고 가볍게 달리며 몸 상태를 점검했어요. 손흥민은 LAFC의 마지막 경기였던 시애틀전을 풀타임 뛰었고, 황희찬도 주말 분데스리가 경기를 뛰고 합류했어요.
+김민재, 황인범, 이재성, 설영우, 엄지성, 정우영 등 15명은 훈련조에서 볼 뺏기와 미니게임을 했어요. 보도에 따르면 훈련조 선수들은 큰 목소리로 서로 독려하고 손뼉을 치며 분위기를 끌어올렸어요.
+
+## 손흥민이 점심시간에 한 말
+
+훈련 전 취재진을 만난 정우영은 '점심시간에 주장 흥민이 형이 모든 선수가 집중해서 경기장에서 다 같이 재밌게 경기해 보자고 했다'고 전했어요. '다 같이 웃으면서 좋은 에너지로 훈련하자'는 말도 했다고 해요.
+엄지성도 손흥민이 '하나가 돼서 남은 두 경기 잘 치르고 가자'는 덕담을 했다고 밝혔어요.
+불화설의 한가운데 있던 주장이 먼저 '하나'를 이야기했고, 그다음 장면이 황희찬과 나란히 달리는 모습이었어요.
+
+> 말보다 먼저 보인 건, 맨 앞줄에 나란히 선 두 사람이었어요
+
+## 불화설은 어디서 시작됐나
+
+[IMAGE]
+
+국내 보도를 종합하면, 10월 6일 우즈베키스탄전(2-0 승) 뒤 1996년생 '96라인' 김민재, 황인범, 황희찬이 대표팀 은퇴를 고민한다는 이야기가 돌았어요. 주장 손흥민의 리더십과 대표팀 운영 방식에 불만이 있다는 보도도 이어졌고, '92라인 대 96라인'이라는 말까지 나왔어요.
+황인범이 현영민 전력강화위원장과 면담했다는 보도도 나오면서 의문은 더 커졌어요. 다만 은퇴설과 불만설은 보도 내용이고, 선수 본인들이 공개적으로 확인한 사실은 아니에요.
+모레노 감독은 10월 말 스페인, 독일, 포르투갈을 돌며 이강인, 김민재, 황인범의 경기를 직접 보고 선수들과 면담했어요. 그리고 11월 명단에서 손흥민의 주장직을 유지하고, 96라인 3명도 모두 다시 뽑았어요.
+소집 직전에는 이재성이 마인츠-바이에른전 뒤 김민재와 유니폼을 바꾸고 SNS에 '경기장에서 같이 뛰지 못해 아쉽지만 세계적인 팀에 있는 네가 늘 자랑스럽다'고 남기기도 했어요.
+
+## 원인 분석: 왜 하필 손흥민·황희찬 장면이 중요할까
+
+[IMAGE]
+
+① 두 선수는 같은 '왼쪽'을 나눠 써요
+제가 사우디전 프리뷰에서 예상한 4-4-2에서는 손흥민이 투톱, 황희찬이 왼쪽 미드필더예요. 손흥민은 왼쪽으로 빠져 공을 받는 걸 좋아하고, 그때 황희찬이 안쪽이나 박스 쪽으로 들어가야 공간이 생겨요. 서로 움직임을 맞추지 못하면 두 선수가 같은 자리에 서 버려요.
+
+② 사우디는 두 줄로 내려앉는 팀이에요
+사우디는 걸프컵 5경기에서 한 골도 내주지 않았어요. 수비 블록이 촘촘한 팀을 뚫으려면 측면에서 2대1 패스나 자리 바꾸기가 필요해요. 이건 훈련장에서 대화를 많이 나눈 선수끼리 더 잘 나오는 장면이에요.
+
+③ 주장에게 필요한 건 '골 하나'보다 '분위기 하나'예요
+손흥민은 A매치 통산 득점 기록을 계속 늘리고 있고, 사우디전에서 한 골을 더 넣으면 60골이라는 보도도 나왔어요. 하지만 이번 2연전에서 더 중요한 건 기록보다 팀이 다시 한 방향을 보는 거예요. 갈등설의 당사자로 꼽힌 두 선수가 함께 웃는 장면은 그 자체로 팀 전체에 주는 신호예요.
+
+## 제임스의 생각
+
+· 저는 이번 장면을 '불화설 끝'이라고 단정하지는 않아요. 하지만 적어도 두 선수가 같은 방향을 보려고 한다는 건 분명하게 보였어요.
+· 진짜 답은 경기장에서 나와요. 사우디전에서 손흥민이 왼쪽으로 빠질 때 황희찬이 안으로 들어가는 장면, 골이 나왔을 때 누가 먼저 달려가 안아 주는지가 이번 대화의 결과물이에요.
+· 모레노 감독의 선택도 좋았다고 봐요. 누구도 빼지 않고 다 불러서 한자리에서 풀게 한 건, 대표팀 분위기를 다시 세우는 가장 정직한 방법이었어요.
+· 제 예상은 이래요. 사우디전에서 손흥민과 황희찬이 함께 선발로 나오고, 둘 중 한 명의 골에 다른 한 명이 도움을 주는 장면이 나올 거라고 봐요.
+
+여러분은 이번 손흥민·황희찬 대화 장면, 불화설이 끝났다는 신호로 보세요? 아니면 아직 지켜봐야 한다고 보세요? 댓글로 남겨 주세요!
+
+※ 훈련 장면과 선수 발언은 연합뉴스 등 도하 현지 취재진 보도와 대한축구협회 공개 사진(11월 11일) 기준이에요. 불화설·은퇴설은 국내 언론 보도 내용이며 선수 본인이 확인한 사실이 아니에요. 사우디전 포메이션은 제 예상이고, 실제 선발은 경기 당일 발표돼요.
