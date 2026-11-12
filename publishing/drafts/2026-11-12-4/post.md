@@ -10,13 +10,15 @@ sources: ["https://www.kfa.or.kr", "https://search.naver.com/search.naver?where=
 source_note: "대한축구협회 공식 SNS 입장문(11월 12일), 스포츠경향·서울신문·파이낸셜뉴스·헤럴드경제·위키트리 등 국내 보도(10월 6일~11월 12일)"
 data_as_of: "2026-11-12 13:00 KST"
 images:
+  - file: 2026-11-12-공동입장문-입장문.jpg
+    caption: 선수 5인 공동 입장문 전문 (대한축구협회 공식 SNS)
   - file: 2026-11-12-공동입장문-fig-1.png
     caption: 우즈벡전부터 입장문까지 37일
   - file: 2026-11-12-공동입장문-fig-2.png
     caption: 공동 입장문 핵심 5가지
 thumbnail_prompt: "Photorealistic sports photo, evening training session of the Korea national football team at a training ground in Doha, Qatar, under floodlights with a warm orange dusk sky and palm trees behind the fence. Five Korean male footballers seen strictly from behind, walking side by side across the grass toward the far goal, arms over each other's shoulders in a show of unity. They wear the Korea national team purple-violet Nike training kit (purple short-sleeve tops, purple shorts, white socks, football boots), all with dark hair; faces not visible. Heights vary slightly from about 1.75 m to 1.90 m; the tallest, broad-shouldered central defender is second from the right. Camera low at grass level behind them, slightly wide, the five fill the lower 60% of the frame, long shadows on the pitch. Top third of the image dark dusk sky for text. Realistic moment only, no text, no numbers or names on the shirts. Vertical 4:5."
-thumbnail_text: ["'은퇴 조건 요구'", "전혀 사실 아니다"]
-thumbnail_file: "2026-11-12-공동입장문-입장문.jpg"
+thumbnail_text: ["입장문", "손흥민 · 이재성 · 김민재 · 황인범 · 황희찬"]
+thumbnail_file: "2026-11-12-공동입장문-썸네일.png"
 threads_text: ""
 publish_at: ""
 ---
@@ -26,6 +28,8 @@ publish_at: ""
 한 달 넘게 축구 대표팀을 흔들었던 불화설에 선수들이 직접 답했어요.
 12일(한국 시간) 대한축구협회 공식 SNS에 손흥민, 이재성, 김민재, 황인범, 황희찬 5명의 공동 명의로 '한국축구를 사랑해 주시는 팬 여러분께 드리는 글'이 올라왔어요.
 가장 눈에 띄는 문장은 이거예요. 은퇴를 조건으로 특정한 요구를 관철하려 했다는 것은 "전혀 사실이 아니다". 사우디아라비아전을 하루 앞두고 나온 입장문, 무엇을 말했고 무엇이 남았는지 정리해 볼게요.
+
+[IMAGE]
 
 ## 불화설 37일: 우즈벡전 뒤에 무슨 일이
 
