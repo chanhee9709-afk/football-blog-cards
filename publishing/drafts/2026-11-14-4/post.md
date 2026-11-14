@@ -1,0 +1,103 @@
+---
+title: 비르츠 골, 세르비아 독일 평점…클롭호 드디어 터졌다, 네덜란드만 넘으면 8강?
+category: 경기 리뷰·논평
+post_type: review
+style: classic
+summary: 독일이 베오그라드에서 세르비아를 3-1로 꺾었어요. 비르츠와 데뷔전의 그루다가 골을 넣었고, 클롭 감독 체제에서 처음으로 한 경기 3골이 나왔어요. 50분 만에 3-0이 된 이유, 선수 평점, 네덜란드전 8강 경우의 수까지 정리했어요.
+keywords: [세르비아 독일 평점, 비르츠, 클롭 독일]
+tags: [세르비아독일평점, 세르비아독일, 독일세르비아, 네이션스리그, UEFA네이션스리그, 비르츠, 그루다, 키미히, 하베르츠, 퓔크루크, 클롭, 위르겐클롭, 독일대표팀, 독일네덜란드, A매치, 해외축구, 해축]
+sources: ["https://www.sportschau.de/fussball/nationalmannschaft/dfb-team-sichert-sich-sein-endspiel-gegen-niederlande,serbien-deutschland-spielbericht-100.html", "https://www.sportschau.de/fussball/nationalmannschaft/der-geile-zocker-zockt-ter-stegen-wackelt,einzelkritik-serbien-deutschland-100.html", "https://www.sportschau.de/fussball/nationalmannschaft/gruda-beim-dfb-debuet-gleich-in-der-startelf,serbien-deutschland-spielbericht-100.html", "https://www.sportschau.de/fussball/nationalmannschaft/fussballer-fuer-klopp-fussball-gesucht,dfb-bilanz-100.html", "https://www.api-football.com/documentation-v3"]
+source_note: "API-Football(경기 직후 기준: 기록·평점·선발, 조 순위 계산), 스포츠샤우(11월 13~14일: 경기 리포트, 선수 평가, 독일 선발 배치, 클롭 체제 분석)"
+data_as_of: "2026-11-14 07:00 KST"
+images:
+  - file: 2026-11-14-세르비아독일평점-fig-1.png
+    caption: 세르비아 1-3 독일 주요 장면
+  - file: 2026-11-14-세르비아독일평점-fig-2.png
+    caption: 경기 기록 비교
+  - file: 2026-11-14-세르비아독일평점-fig-3.png
+    caption: 실제 선발 포메이션
+  - file: 2026-11-14-세르비아독일평점-fig-4.png
+    caption: 선수 평점
+  - file: 2026-11-14-세르비아독일평점-fig-5.png
+    caption: 2조 순위와 프리뷰 예상 채점
+thumbnail_prompt: "Photorealistic football photo, rainy international night match at the Rajko Mitic stadium in Belgrade, Serbia, steady rain visible in the bright floodlights, wet heavy pitch, the huge stands almost completely empty with only small groups of children in the lower tier. A 23-year-old German attacking midfielder, about 1.77 m, slim agile build, fair skin, short dark-brown hair slightly longer and textured on top and swept forward to the side, short neat sides, clean-shaven boyish face, rain-soaked hair and shirt, shown in a three-quarter front view running toward the camera in celebration after scoring, right arm raised with index finger pointing up and mouth open shouting with joy. He wears Germany's white adidas home kit: white shirt with subtle black details, the real DFB eagle crest with four stars on the chest and the adidas logo, black shorts, white socks, number 17. Behind him, blurred, a German teammate in the same white kit runs to join him, and a Serbia defender in a red shirt kneels on the wet grass in the background. Realistic match moment only. Camera at waist height, framed from head to knees, he fills about 70% of the image height. Top fifth of the image dark night sky with rain above the empty stands for text. No text other than the kit logos and shirt number. Vertical 4:5."
+thumbnail_text: ["비르츠 골, 클롭호 3골", "이제 네덜란드만 남았다"]
+thumbnail_file: "2026-11-14-세르비아독일평점-썸네일-AI.png"
+threads_text: ""
+publish_at: ""
+---
+
+안녕하세요! 제임스입니다~
+
+14일(토) 새벽 4시 45분, 베오그라드에서 열린 네이션스리그 세르비아 독일전은 독일의 3-1 승리로 끝났어요.
+비르츠(리버풀)가 골을 넣었고, A매치 데뷔전을 치른 그루다(RB 라이프치히)도 골을 터뜨렸어요. 클롭 감독이 독일을 맡은 뒤 앞선 4경기에서 넣은 골이 모두 3골이었는데, 이번엔 한 경기에서 3골이 나왔어요.
+같은 시간 네덜란드가 그리스를 7-0으로 꺾으면서, 독일은 17일 네덜란드만 이기면 8강에 가요. 50분 만에 3-0이 된 이유와 선수 평점, 프리뷰 채점까지 정리했어요.
+
+[IMAGE]
+
+## 경기 흐름: 3분 자책골, 50분 만에 3-0
+
+전반 3분 미텔슈테트(슈투트가르트)의 코너킥을 하베르츠(아스널)가 머리로 돌려놨고, 이 공이 세르비아 수비수 바비치(스파르타크 모스크바)의 몸에 맞고 들어갔어요.
+전반 14분에는 파블로비치(바이에른 뮌헨)의 침투 패스를 받은 하베르츠의 슈팅이 막히자, 비르츠가 끝까지 따라 들어가 골키퍼 머리 위로 띄워 넣었어요.
+후반 5분에는 그루다가 하프라인 근처부터 혼자 공을 몰고 가 낮게 깔아 차며 3-0을 만들었어요. 대표팀 첫 경기에서 나온 첫 골이에요.
+세르비아는 후반 11분 테어슈테겐(아약스)이 쳐낸 공을 바비치가 밀어 넣어 한 골을 따라갔지만, 76분과 89분 두 명이 퇴장당해 9명으로 경기를 마쳤어요.
+
+[IMAGE]
+
+## 경기 기록: 점유율 79%, 이번엔 골까지
+
+API-Football 기록(경기 직후 기준)으로 독일은 점유율 79%, 패스 841개, 슈팅 22개를 기록했어요. 세르비아는 슈팅 5개였어요.
+기대 득점(xG)은 독일 2.74였어요. 점유율만 높고 골이 없던 9~10월과 달리, 이번엔 기회가 골로 이어졌어요.
+
+[IMAGE]
+
+## 원인 분석: 독일은 왜 50분 만에 3-0을 만들었을까
+
+① 이른 선제골이 '내려앉은 수비' 문제를 지웠어요
+클롭호의 가장 큰 고민은 박스 앞에 두 줄로 선 상대를 못 뚫는 것이었어요. 4경기 슈팅 79개에 3골뿐이었죠. 이번엔 3분 만에 앞서 나갔고, 스포츠샤우는 덕분에 독일이 서두르지 않고 경기를 통제할 수 있었다고 평가했어요.
+② 오른쪽 그루다가 세르비아 왼쪽을 무너뜨렸어요
+클롭 감독은 4-3-3에서 오른쪽에 그루다, 왼쪽에 셰르한트(프라이부르크)를 넓게 세웠어요. 5-3-2의 세르비아는 측면에서 1대1을 자주 허용했고, 그루다는 드리블 14번 중 9번을 성공했어요. 이번 시즌 유럽 5대 리그 드리블 성공 4위(스포츠샤우)다운 활약이었어요.
+③ 키미히가 내려서고, 비르츠가 압박했어요
+주장 키미히(바이에른 뮌헨)는 공격 때 타·치아우(뉴캐슬) 사이로 내려가 사실상 스리백을 만들었어요. 패스 124개 중 116개 성공에 키패스 4개, 그루다 골 도움까지 올렸어요. 두 번째 골은 세르비아 빌드업 실수를 바로 덮친 장면이었고, 스포츠샤우는 비르츠가 '진짜 클롭 선수'처럼 압박했다고 썼어요.
+
+> 나겔스만 시절과 가장 다른 건 '고정된 4-3-3'과 압박이에요
+
+나겔스만 감독은 스리백과 포백을 오가는 실험이 잦았고, 스포츠샤우는 월드컵 때 독일의 압박이 약했다고 지적했어요. 클롭 감독은 6번 한 명, 8번 두 명의 4-3-3을 고집해요. 다만 테어슈테겐의 실점 장면은 아쉬웠고, 클롭 체제 5경기에서 스트라이커 골은 아직 없어요.
+
+[IMAGE]
+
+## 세르비아 독일 평점: 비르츠·그루다 8.2
+
+API-Football 평점(경기 직후 기준)으로 비르츠와 그루다가 나란히 8.2로 가장 높았어요. 비르츠는 팀 최다 슈팅 5개, 그루다는 경합 20번 중 12번 승리예요.
+키미히는 1도움으로 7.7, 미텔슈테트는 키패스 3개로 7.5를 받았어요. 하베르츠는 6.2로 공격진 중 가장 낮았어요.
+세르비아에서는 주장 타디치(NEC 네이메헌)가 6.7로 가장 높았어요.
+
+[IMAGE]
+
+## 2조 순위: 독일, 네덜란드 이기면 8강
+
+네덜란드는 그리스를 7-0으로 대파하고 승점 11로 8강을 확정했어요. 레인더르스가 해트트릭을 기록했어요. 독일과 그리스는 승점 8로 같지만, 맞대결(1무 1패)에서 밀린 독일이 3위예요.
+마지막 6라운드는 17일(화) 새벽 4시 45분이에요. 독일이 베를린 올림피아슈타디온에서 네덜란드를 이기면 그리스 결과와 상관없이 8강에 가요. 세 팀이 승점 11로 같아져도 세 팀끼리 골득실에서 그리스가 가장 밀리거든요.
+비기면 세르비아가 그리스를 잡아 줘야 하고, 지면 3위로 강등 플레이오프에 가요. 세르비아는 5전 전패로 리그B 강등이 확정됐어요.
+
+## 관전 포인트
+
+① 독일 쪽: 그루다의 오른쪽, 네덜란드에도 통할까
+세르비아처럼 5백으로 내려서는 팀과 달리, 사비 감독의 네덜란드는 공을 가지고 맞서는 팀이에요. 주장 반다이크(리버풀)가 부상으로 빠지는 만큼(스포츠샤우), 그루다의 1대1 돌파가 네덜란드 왼쪽 수비를 흔들 수 있어요.
+② 독일 쪽: 스트라이커 골은 언제 나올까
+하베르츠는 이번에도 득점이 없었고, 1년 반 만에 돌아온 퓔크루크(베르더 브레멘)는 16분 동안 슈팅 2개를 때렸어요.
+③ 세르비아 쪽: 퇴장 2명, 그리스 원정은 누가 뛸까
+퇴장당한 드라고예비치·지브코비치가 빠져요. 강등이 확정된 만큼 어린 선수들이 더 나올 거예요.
+④ 네덜란드 쪽: 1위 자리, 베를린에서 지킬까
+비기기만 해도 조 1위라, 네덜란드가 내려앉아 역습을 노릴 수도 있어요.
+
+## 제임스의 생각
+
+· 프리뷰에서 독일 2-1 승리를 예상했는데, 승패는 맞았고 스코어는 3-1로 빗나갔어요. '세르비아도 한 골'은 맞혔지만 역습이 아니라 세트피스였어요.
+· 퓔크루크 첫 골 예상은 틀렸어요. 74분에야 들어왔고, 4-4-2 투톱으로 그린 예상 선발도 실제로는 4-3-3에 그루다 깜짝 선발이었어요. 11명 중 8명은 맞혔어요.
+· 비르츠가 가장 중요한 선수라는 예상은 적중했어요. 골에 압박까지, 오늘 독일 공격의 중심이었어요.
+· 17일 독일-네덜란드는 독일의 2-1 승리를 예상해요. 비르츠가 한 골, 그리고 드디어 클롭호 첫 스트라이커 골이 나온다고 봐요. 독일이 2위로 8강에 간다는 게 제 예상이에요.
+
+여러분은 오늘 클롭호의 3골, 진짜 반등이라고 보시나요? 독일-네덜란드 예상 스코어도 댓글로 남겨 주세요!
+
+※ 경기 기록·평점·선발은 API-Football(11월 14일 경기 직후 기준)이고, 평점은 이후 바뀔 수 있어요. 경기 장면과 선수 평가, 독일 선발 배치는 스포츠샤우(11월 13~14일) 보도를 참고했어요. 순위와 경우의 수는 경기 결과로 직접 계산했어요. 썸네일은 AI 생성 이미지예요.
