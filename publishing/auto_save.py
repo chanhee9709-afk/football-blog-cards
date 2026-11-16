@@ -11,8 +11,8 @@ Runs every 10 minutes from Windows 작업 스케줄러 (see install line below).
      under a new folder name (e.g. 2026-11-06-1b).
 james then opens the Naver blog app > 글쓰기 > 임시저장, picks the category and presses 발행.
 
-Install (cmd, once, in C:\\Users\\Intellian\\naver-publish). run_hidden.vbs runs it with no console window:
-  schtasks /create /tn NaverAutoSave /sc minute /mo 10 /f /tr "wscript C:\\Users\\Intellian\\naver-publish\\run_hidden.vbs"
+Install: double-click install_task.bat once. The task runs `pythonw run_auto_save.pyw` (no window, no popups;
+run_hidden.vbs was blocked on the company PC with VBScript error 800A0046, 11/16).
 Remove: schtasks /delete /tn NaverAutoSave /f
 Needs the PC on and james logged in to Windows (Chrome opens a window while it types).
 """
@@ -74,7 +74,10 @@ def main():
         done[name] = sha
         DONE.write_text(json.dumps(state, ensure_ascii=False, indent=1), encoding="utf-8")
         log(name, f"{len(files)}개 파일 받음, 임시저장 시작")
-        r = subprocess.run([sys.executable, str(HERE / "naver_publish.py"), str(out)], stdin=subprocess.DEVNULL)
+        out_fd = sys.stdout if hasattr(sys.stdout, "fileno") and not sys.stdout.isatty() else None  # pythonw: into auto_save.log
+        r = subprocess.run([sys.executable, str(HERE / "naver_publish.py"), str(out)], stdin=subprocess.DEVNULL,
+                           stdout=out_fd, stderr=subprocess.STDOUT if out_fd else None,
+                           env={**__import__("os").environ, "PYTHONIOENCODING": "utf-8"})
         if r.returncode == 0:
             log(name, "임시저장 끝")
         elif r.returncode == 3:  # Naver asked to log in: nothing was typed, so retry this folder later (11/16)
