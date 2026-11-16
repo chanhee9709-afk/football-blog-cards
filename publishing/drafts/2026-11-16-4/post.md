@@ -1,0 +1,83 @@
+---
+title: 한국 카타르 프리뷰, 손흥민 60호골 다시 쏠까…모레노 마지막 경기, 호주에 0-3 진 카타르는 잡을까
+category: 일정·프리뷰
+post_type: preview
+style: classic
+summary: 17일(화) 밤 11시 도하에서 한국과 카타르가 올해 마지막 A매치를 치러요. 사우디에 진 한국, 호주에 0-3으로 진 카타르의 맞대결이에요. 모레노 감독의 마지막 경기, 예상 라인업과 관전 포인트, 제임스의 예상 스코어를 정리했어요.
+keywords: [한국 카타르 프리뷰, 한국 카타르 중계, 모레노 마지막 경기]
+tags: [한국카타르, 한국카타르프리뷰, 카타르전, 축구대표팀, 모레노호, 모레노감독, 손흥민, 이강인, 김민재, 황희찬, 황인범, 이재성, 조현우, 아피프, 로페테기, A매치, 해외축구, 해축]
+sources: ["https://www.yna.co.kr/view/AKR20261115055800007", "https://www.newsis.com/view/NISX20261115_0003868673", "https://www.newsis.com/view/NISX20261115_0003868535", "https://www.api-football.com/documentation-v3"]
+source_note: "API-Football(일정·최근 경기·선발·전반/후반 득실, 11월 16일 기준), 연합뉴스·스포츠경향·뉴시스(11월 14~15일: 훈련·FIFA 랭킹·역대 전적·선수 발언), 국내 보도(가디언 인용: 로페테기 경질론)"
+data_as_of: "2026-11-16 06:40 KST"
+images:
+  - file: 2026-11-16-한국카타르프리뷰-fig-1.png
+    caption: 한국 카타르전 한눈에
+  - file: 2026-11-16-한국카타르프리뷰-fig-2.png
+    caption: 모레노호 5경기 전반과 후반 득실
+  - file: 2026-11-16-한국카타르프리뷰-fig-3.png
+    caption: 예상 포메이션 맞대결
+  - file: 2026-11-16-한국카타르프리뷰-fig-4.png
+    caption: 카타르 최근 경기
+thumbnail_prompt: "Photorealistic football photo, international night match at Abdullah bin Khalifa Stadium in Doha, Qatar, bright floodlights, blurred stands with maroon-and-white Qatar fans and a small group of Korean fans in red. Son Heung-min (손흥민), the 34-year-old South Korean forward and team captain, about 1.83 m, lean athletic build, light tan East Asian skin, oval face with a defined jaw, double eyelids, straight dark eyebrows, short neat black hair with a slightly textured top and short tidy sides, clean-shaven. Shown from the front, three-quarter view, sprinting toward the camera with the ball at his feet just outside the penalty box, eyes fixed on the goal, teeth gritted, about to strike with his right foot. He wears Korea's real Nike away kit: pale lavender (light purple) shirt with a subtle floral pattern, the real Korea Football Association tiger crest on the chest and the Nike swoosh, pale lavender shorts, number 7, and a captain's armband on his left arm. Behind him, blurred, a Qatar defender in a maroon shirt chases him. Realistic match moment only. Camera at waist height, framed from head to knees, he fills about 70% of the image height. Top fifth of the image dark night sky for text. No text other than the kit logos and shirt number. The face must closely resemble the real Son Heung-min. Vertical 4:5."
+thumbnail_text: ["손흥민 60호골 다시 쏜다", "모레노 마지막 경기"]
+thumbnail_file: "2026-11-16-한국카타르프리뷰-썸네일-AI.png"
+threads_text: ""
+publish_at: ""
+---
+
+안녕하세요! 제임스입니다~
+
+17일(화) 밤 11시, 카타르 도하 압둘라 빈 칼리파 스타디움에서 한국과 카타르가 올해 마지막 A매치를 치러요.
+한국은 13일 사우디아라비아에 2-3으로 졌고, 카타르는 같은 날 호주에 0-3으로 졌어요. 둘 다 지고 만난 경기라, 진 쪽 감독은 더 흔들릴 수밖에 없어요.
+로베르트 모레노 감독에겐 계약된 6경기 중 마지막 경기예요. 손흥민(LAFC)은 사우디전에서 미룬 A매치 통산 60호 골에 다시 도전해요(국내 보도). 예상 라인업과 관전 포인트, 제 예상까지 정리했어요.
+
+[IMAGE]
+
+## 경기 정보: 올해 마지막 A매치
+
+경기는 17일(화) 밤 11시(한국 시간)에 시작해요. 국내 보도 기준 FIFA 랭킹은 한국 32위, 카타르 60위예요.
+역대 전적은 한국이 6승 2무 3패로 앞서지만(스포츠경향 등), 2019년 아시안컵 8강에서 0-1로 진 기억이 있어요. 카타르는 그 대회와 2023년 대회를 연달아 우승한 팀이에요.
+모레노 감독의 임시 계약은 11월 27일 끝나요. 이 경기 결과가 연장 여부에 큰 영향을 줄 거예요.
+
+[IMAGE]
+
+## 모레노호 5경기: 전반엔 1골, 후반엔 7골
+
+API-Football 기록으로 모레노호 5경기를 전반과 후반으로 나눠 봤어요. 전반 합계는 1골 4실점, 후반 합계는 7골 3실점이에요.
+사우디전도 전반을 0-1로 마친 뒤 후반에 2골을 넣었어요. 하프타임에 고치는 능력은 분명한데, 전반 45분 동안 상대를 읽는 사이 먼저 실점하는 패턴이 반복되고 있어요.
+선수들도 이 문제를 알고 있어요. 박진섭(저장)은 15일 훈련 전 "감독님이 원하는 전술을 익히는 데 충분한 시간이 있었다고 보기 어렵다"고 말했어요(연합뉴스).
+
+[IMAGE]
+
+## 원인 분석: 카타르는 왜 호주에 0-3으로 졌을까
+
+① 전반 40분 만에 세 골을 내줬어요
+API-Football 기록으로 카타르는 13일 호주전에서 5분 맥그리, 32분 옌기, 40분 이랑쿤다에게 연달아 실점했어요. 호주의 5백 뒤 역습을 4-3-3 수비 라인이 따라가지 못했어요.
+② 슈팅 3개, 유효 슈팅 0개
+아피프·알모에즈 알리·알하이도스가 모두 선발이었는데 슈팅은 3개뿐이었어요. 점유율도 45%로 밀렸어요. 공격수에게 공이 가기 전에 끊겼다는 뜻이에요.
+③ 월드컵 이후 강팀 상대로 이긴 적이 없어요
+카타르는 6월 월드컵 조별리그에서 1무 2패(캐나다전 0-6 포함)로 탈락했고, 9~10월 걸프컵 4경기는 2승 2무였어요. 아시아 중위권에는 강하지만 압박이 강한 팀에는 약한 모습이에요. 국내 보도에 따르면 영국 가디언은 로페테기 감독의 경질 가능성까지 언급했어요.
+
+[IMAGE]
+
+## 관전 포인트: 두 팀이 각자 풀어야 할 숙제
+
+한국 쪽에서 보면
+· 전반에 먼저 넣을 수 있을까요? 5경기 전반 1골이라는 기록을 깨야 해요. 카타르가 호주전에서 전반에만 3골을 내준 만큼 초반 압박이 통할 가능성이 커요.
+· 골키퍼는 누가 설까요? 사우디전 첫 실점에서 김승규(FC 도쿄)가 미끄러지면서 조현우(울산) 기용론이 커지고 있어요.
+카타르 쪽에서 보면
+· 아피프가 한국 오른쪽을 뚫을 수 있을까요? 아피프는 왼쪽에서 안으로 파고드는 선수라, 설영우(아우크스부르크)와 공격적인 이강인(아틀레티코 마드리드) 뒷공간이 표적이 될 거예요.
+· 홈에서 버틸 수 있을까요? 호주전처럼 수비 라인이 높으면 손흥민·황희찬(샬케)의 속도에 또 뚫릴 수 있어요.
+
+## 제임스의 예상
+
+· 스코어는 한국의 2-1 승리를 예상해요. 카타르의 최근 공격력(호주전 유효 슈팅 0개)을 보면 크게 위협받진 않겠지만, 모레노호는 5경기 중 4경기에서 실점했어요.
+· 선발은 사우디전에서 두세 자리가 바뀔 것 같아요. 골키퍼는 조현우, 왼쪽 수비는 사우디전 후반에 들어간 이명재(대전), 중원은 박진섭 대신 이재성(마인츠)이 들어가는 4-4-2를 예상해요.
+· 손흥민은 이번엔 골을 넣을 것 같아요. 카타르는 호주전에서 뒷공간을 계속 내줬고, 손흥민이 가장 좋아하는 상황이에요. 60호 골, 기대해 볼게요.
+· 이겨도 모레노 감독의 연장은 쉽지 않아 보여요. 결과보다 전반 45분의 경기력이 바뀌는지를 보고 싶어요.
+
+여러분은 카타르전 스코어를 어떻게 보시나요? 골키퍼는 김승규와 조현우 중 누가 나와야 할까요? 댓글로 남겨 주세요!
+
+※ 일정·최근 경기·선발·전반/후반 득실은 API-Football(11월 16일 기준)이에요. FIFA 랭킹과 역대 전적, 선수 발언은 국내 매체 보도(11월 14~15일)를 종합했어요. 예상 포메이션은 제 예상이에요. 썸네일은 AI 생성 이미지예요.
+
+#한국카타르 #한국카타르프리뷰 #카타르전 #축구대표팀 #모레노호 #모레노감독 #손흥민 #이강인 #김민재 #황희찬 #황인범 #이재성 #조현우 #아피프 #로페테기 #A매치 #해외축구 #해축

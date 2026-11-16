@@ -1,0 +1,94 @@
+---
+title: 이탈리아 강등 플레이오프 추락, 벨기에 이탈리아 평점…비기기만 하면 됐는데 1-4, 음바페의 프랑스는 1위
+category: 경기 리뷰·논평
+post_type: review
+style: classic
+summary: 네이션스리그 1조 최종전에서 벨기에가 이탈리아를 4-1로 꺾고, 프랑스가 튀르키예를 2-1로 이겼어요. 비기기만 해도 8강이던 이탈리아가 3위로 떨어져 강등 플레이오프를 치러요. 무너진 이유와 두 경기 평점, 예상 채점까지 정리했어요.
+keywords: [벨기에 이탈리아 평점, 이탈리아 강등 플레이오프, 프랑스 튀르키예 평점]
+tags: [벨기에이탈리아평점, 벨기에이탈리아, 이탈리아벨기에, 프랑스튀르키예, 네이션스리그, UEFA네이션스리그, 도쿠, 더케텔라러, 더브라위너, 라멘스, 피오에스포지토, 만치니, 판보멀, 음바페, 셰르키, 지단, 이탈리아대표팀, 벨기에대표팀, A매치, 해외축구, 해축]
+sources: ["https://www.api-football.com/documentation-v3", "http://www.osen.co.kr/article/G1112909696"]
+source_note: "API-Football(경기 직후 기준: 기록·평점·선발·이벤트·감독, 1조 순위는 결과로 직접 계산), OSEN 등 국내 보도(11월 13~15일: 1조 최종전 배경)"
+data_as_of: "2026-11-16 06:50 KST"
+images:
+  - file: 2026-11-16-벨기에이탈리아평점-fig-1.png
+    caption: 1조 최종전 두 경기 주요 장면
+  - file: 2026-11-16-벨기에이탈리아평점-fig-2.png
+    caption: 벨기에 이탈리아 실제 선발
+  - file: 2026-11-16-벨기에이탈리아평점-fig-3.png
+    caption: 벨기에 이탈리아 경기 기록
+  - file: 2026-11-16-벨기에이탈리아평점-fig-4.png
+    caption: 두 경기 선수 평점
+  - file: 2026-11-16-벨기에이탈리아평점-fig-5.png
+    caption: 1조 최종 순위와 예상 채점
+thumbnail_prompt: "Photorealistic football photo, international night match at the King Baudouin Stadium in Brussels, bright floodlights, blurred stands packed with Belgium fans in red waving flags. Jérémy Doku (도쿠), the 24-year-old Belgian winger, about 1.73 m, compact, explosive and muscular build, dark brown skin, round youthful face, short black hair, thin moustache and light stubble, shown from the front in a three-quarter view sprinting toward the camera in celebration after scoring, both arms stretched out wide like wings, big smile. He wears Belgium's real home kit: red shirt with black and gold details, the real Royal Belgian Football Association crest on the chest, red shorts, red socks, number 11. Behind him, blurred, an Italy defender in a blue shirt with white shorts bends over with hands on knees. Realistic match moment only. Camera at waist height, framed from head to knees, he fills about 70% of the image height. Top fifth of the image dark night sky for text. No text other than the kit logos, crest and shirt number. The face must closely resemble the real Jérémy Doku. Vertical 4:5."
+thumbnail_text: ["비기면 됐는데 1-4", "이탈리아 3위 추락"]
+thumbnail_file: "2026-11-16-벨기에이탈리아평점-썸네일-AI.png"
+threads_text: ""
+publish_at: ""
+---
+
+안녕하세요! 제임스입니다~
+
+16일(월) 새벽 4시 45분, 네이션스리그 리그A 1조 마지막 두 경기가 동시에 열렸어요.
+브뤼셀에선 벨기에가 이탈리아를 4-1로 대파했고, 보르도에선 프랑스가 튀르키예를 2-1로 이겼어요. 그 결과 프랑스가 1위, 벨기에가 2위로 8강에 갔어요.
+비기기만 해도 8강이던 이탈리아는 3위로 떨어져 강등 플레이오프를 치러야 해요. 사흘 전 프랑스를 3-1로 꺾은 팀이 왜 이렇게 무너졌는지, 두 경기 평점과 예상 채점까지 정리했어요.
+
+[IMAGE]
+
+## 벨기에 이탈리아 경기 흐름: 11분 동안 세 골
+
+이탈리아가 먼저 넣었어요. 11분 카요데(브렌트퍼드)의 도움으로 피오 에스포지토(인테르)가 선제골을 넣었어요.
+그런데 15분부터 26분까지 11분 동안 벨기에가 세 골을 몰아쳤어요. 15분 왼쪽 수비 더 카위퍼르(브라이턴), 22분 센터백 응고이(릴), 26분 도쿠(맨시티)가 차례로 골을 넣었어요. 더케텔라러(아탈란타)는 그중 두 골을 도왔어요.
+80분엔 더브라위너(나폴리)의 도움으로 모레이라(AC 밀란)가 네 번째 골을 넣었어요. 이탈리아는 후반 추가시간 페널티를 얻었지만 피오 에스포지토가 실축했어요.
+
+[IMAGE]
+
+## 프랑스 튀르키예: 음바페는 침묵, 셰르키가 결정
+
+프랑스는 전반을 0-0으로 마친 뒤 49분 튀르키예 수비수 톱추의 자책골로 앞섰어요. 53분엔 귈레르(레알 마드리드)의 골이 VAR로 취소됐어요.
+80분 교체로 들어간 크루피(본머스)가 셰르키(맨시티)의 도움으로 두 번째 골을 넣었고, 튀르키예는 90분 바르닥치의 골로 한 골을 만회했어요.
+부상에서 돌아온 음바페(레알 마드리드)는 90분을 뛰며 슈팅 5개, 키패스 3개를 기록했지만 골은 없었어요. 프랑스는 슈팅 23개, xG 3.43을 만들고도 2골에 그쳤어요. 튀르키예 골키퍼 외제르가 7번을 막았어요.
+
+[IMAGE]
+
+## 원인 분석: 이탈리아는 왜 무너졌을까
+
+① 비겨도 되는 경기에서 선제골을 넣자 내려섰어요
+만치니 감독의 이탈리아는 프랑스전처럼 점유율을 내주고 역습하는 팀이에요. 그런데 1-0으로 앞선 뒤 벨기에가 몰아치자 라인이 내려갔고, 수비수 둘(더 카위퍼르, 응고이)에게 골을 내줬어요. 세트피스와 2선 침투를 끝까지 못 따라갔다는 뜻이에요.
+② 도쿠·모레이라 양 날개를 못 막았어요
+벨기에 양쪽 윙어 도쿠(평점 8.2)와 모레이라(8.1)가 각각 1골씩 넣었어요. 이탈리아 오른쪽 수비 카요데는 공격 가담이 많은 선수라, 도쿠가 그 뒷공간을 계속 노렸어요.
+③ 중원 싸움에서도 졌어요
+API-Football 기록으로 벨기에는 xG 3.45, 유효 슈팅 10개를 만들었고, 이탈리아는 xG 1.93, 유효 슈팅 4개였어요. 바렐라(6.1)·토날리(6.5)·파졸리(6.4) 미드필더 셋이 모두 6점대에 그쳤어요. 프랑스전 승리의 원동력이던 중원이 이번엔 더브라위너(키패스 5개)를 막지 못했어요.
+
+> 맨유 팬이라면 라멘스도 눈여겨볼 만해요
+
+벨기에 골문은 맨유 골키퍼 라멘스가 지켰어요. 평점 6.9로 큰 실수 없이 90분을 마쳤고, 쿠르투아가 쉬는 동안 벨기에 넘버원 자리를 굳혀 가고 있어요.
+
+[IMAGE]
+
+## 두 경기 평점: 도쿠 8.2, 모레이라 8.1
+
+API-Football 평점(경기 직후 기준)으로 벨기에는 도쿠 8.2, 모레이라 8.1, 더 카위퍼르 8.0, 더브라위너 7.7이에요. 2도움의 더케텔라러는 7.5예요.
+이탈리아에선 골을 넣고 페널티를 놓친 피오 에스포지토가 7.5로 가장 높았고, 4실점에도 선방 6개를 한 돈나룸마(맨시티)가 6.6이에요.
+프랑스에선 도움 1개, 키패스 3개의 셰르키가 7.7로 가장 높았고, 음바페는 6.9였어요.
+
+[IMAGE]
+
+## 1조 최종 순위와 예상 채점
+
+경기 결과로 계산하면 프랑스 13점(1위), 벨기에 12점(2위), 이탈리아 10점(3위), 튀르키예 0점(4위)이에요. API-Football 공식 순위에는 아직 반영되지 않았어요.
+15일 프리뷰에서 저는 벨기에-이탈리아 1-1, 프랑스-튀르키예 3-0을 예상했고, 프랑스·이탈리아의 8강 진출을 점쳤어요. 벨기에-이탈리아는 완전히 빗나갔고, 프랑스는 승부만 맞혔어요. 8강 두 팀 중 프랑스만 맞혔어요.
+13일 이탈리아-프랑스 예상도 틀린 데 이어 이탈리아 관련 예상이 두 번 연속 빗나갔네요.
+
+## 제임스의 생각
+
+· 이탈리아의 1-4는 '비겨도 된다'는 계산이 독이 된 경기예요. 선제골 뒤 지키려다 11분 만에 무너졌어요.
+· 3위는 내년 3월 리그B 2위 팀과 강등 플레이오프를 치러요. 이탈리아가 리그B로 떨어질 가능성은 낮다고 보지만, 만치니 감독에 대한 비판은 커질 거예요.
+· 벨기에는 판보멀 감독 아래 공격 조합이 완성되고 있어요. 더브라위너가 35살이 된 지금도 키패스 5개를 만드는 걸 보면, 8강에서도 무서운 팀이에요.
+· 프랑스는 음바페가 돌아왔지만 골 결정력이 숙제예요. 슈팅 23개에 2골, 그중 하나는 자책골이었어요.
+
+여러분은 이탈리아의 추락, 일시적인 사고라고 보시나요, 만치니호의 한계라고 보시나요? 댓글로 남겨 주세요!
+
+※ 경기 기록·평점·선발·감독은 API-Football(11월 16일 경기 직후 기준)이고, 평점은 이후 바뀔 수 있어요. 1조 순위는 경기 결과로 직접 계산했어요. 3위 팀의 강등 플레이오프는 네이션스리그 대회 방식 기준이에요. 썸네일은 AI 생성 이미지예요.
+
+#벨기에이탈리아평점 #벨기에이탈리아 #이탈리아벨기에 #프랑스튀르키예 #네이션스리그 #UEFA네이션스리그 #도쿠 #더케텔라러 #더브라위너 #라멘스 #피오에스포지토 #만치니 #판보멀 #음바페 #셰르키 #지단 #이탈리아대표팀 #벨기에대표팀 #A매치 #해외축구 #해축
