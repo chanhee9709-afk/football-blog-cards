@@ -1,0 +1,89 @@
+---
+title: 모리야스 8년 마지막 경기, 일본 파라과이 프리뷰…브라질 잡은 일본, 독일 떨어뜨린 파라과이도 넘을까
+category: 일정·프리뷰
+post_type: preview
+style: classic
+summary: 17일(화) 밤 10시 10분 싱가포르에서 일본과 파라과이가 만나요. 모리야스 감독의 8년 마지막 경기이고, 상대는 월드컵에서 독일을 떨어뜨린 파라과이예요. 같은 날 브라질-싱가포르(19:00), 한국-카타르(23:00)까지 아시아 A매치 세 경기의 관전 포인트와 예상을 정리했어요.
+keywords: [일본 파라과이 프리뷰, 모리야스 마지막 경기, 브라질 싱가포르]
+tags: [일본파라과이, 일본파라과이프리뷰, 모리야스, 모리야스하지메, 일본축구, 일본대표팀, 구보다케후사, 도안리쓰, 파라과이, 알파로, 브라질싱가포르, 브라질대표팀, 비니시우스, 안첼로티, 송의영, 한일축구, A매치, 해외축구, 해축]
+sources: ["https://www.donga.com/news/Sports/article/all/20261116/135028723/2", "http://www.osen.co.kr/article/G1112910423", "http://www.footballist.co.kr/news/articleView.html?idxno=216831", "https://www.api-football.com/documentation-v3"]
+source_note: "API-Football(11월 17일 기준: 일정·최근 경기·선발·맞대결), 동아일보·OSEN·풋볼리스트 등(11월 14~16일: 모리야스 감독 퇴임과 오이와 고 후임, 모리야스·구보 발언, 브라질 퇴장)"
+data_as_of: "2026-11-17 06:50 KST"
+images:
+  - file: 2026-11-17-일본파라과이프리뷰-fig-1.png
+    caption: 17일 밤 아시아 A매치 세 경기
+  - file: 2026-11-17-일본파라과이프리뷰-fig-2.png
+    caption: 월드컵 이후 두 팀의 흐름
+  - file: 2026-11-17-일본파라과이프리뷰-fig-3.png
+    caption: 직전 경기 선발 포메이션
+thumbnail_prompt: "Photorealistic football photo, international night match at the National Stadium in Singapore, its distinctive dome roof lit up above the stands, bright floodlights, crowd in blue with many Japan fans holding blue scarves. Hajime Moriyasu (모리야스 하지메), the 58-year-old Japan national team head coach, about 1.74 m, slim build, light East Asian skin, oval face with high cheekbones, single-lid eyes, thin straight eyebrows, short neat black hair with grey streaks, combed and side-parted, clean-shaven, calm humble expression. He stands on the touchline in front of the Japan bench and bows deeply at about 45 degrees toward the Japan fans in the stands, hands at his sides, a moment of thanks after his final match. He wears a dark navy suit with a white shirt and a dark tie, and a small Japan Football Association crest pin on the lapel. Behind him, slightly blurred, Japan players in the real dark-blue adidas home kit with the real JFA crest applaud him. Realistic match moment only. Camera at chest height from the side-front, three-quarter view so his face is visible, framed from head to knees, he fills about 60% of the image height. Top fifth of the image dark night sky above the stadium roof for text. No text other than kit logos and crests. The face must closely resemble the real Hajime Moriyasu. Vertical 4:5."
+thumbnail_text: ["모리야스 8년 마지막 경기", "독일 잡은 파라과이도?"]
+thumbnail_file: "2026-11-17-일본파라과이프리뷰-썸네일-AI.png"
+threads_text: ""
+publish_at: ""
+---
+
+안녕하세요! 제임스입니다~
+
+17일(화) 밤 10시 10분, 싱가포르 내셔널 스타디움에서 일본과 파라과이가 만나요. 사흘 전 같은 경기장에서 브라질을 3-2로 꺾은 일본의 다음 상대예요.
+이 경기는 2018년부터 8년 동안 일본을 이끈 모리야스 하지메 감독의 마지막 경기예요. 일본축구협회는 U-21 대표팀을 맡아 온 오이와 고 감독을 후임으로 정해 둔 상태예요(국내 보도 종합).
+같은 날 저녁 7시엔 같은 경기장에서 브라질이 싱가포르와, 밤 11시엔 한국이 카타르와 붙어요. 한일 두 감독의 '마지막 경기'가 같은 밤에 열리는 셈이에요. 세 경기를 한꺼번에 정리했어요.
+
+[IMAGE]
+
+## 경기 정보: 싱가포르 친선대회 마지막 날
+
+일본과 파라과이, 브라질과 싱가포르가 사흘 간격으로 두 경기씩 치르는 일정의 마지막 날이에요. 일본은 14일 브라질을 3-2로 이겼고, 파라과이는 13일 개최국 싱가포르를 4-1로 꺾었어요.
+두 팀의 최근 맞대결은 2025년 10월 친선전 2-2 무승부예요. 그 전에는 일본이 2018년 4-2, 2019년 2-0, 2022년 4-1로 세 번 연속 이겼어요(API-Football).
+
+[IMAGE]
+
+## 두 팀의 흐름: 일본 5경기 무패, 파라과이 3연승
+
+일본은 월드컵 32강에서 브라질에 1-2로 진 뒤 5경기에서 4승 1무예요. 우루과이와 브라질을 이겼고, 진 경기가 없어요.
+파라과이는 더 무서운 팀이에요. 월드컵 32강에서 독일과 1-1로 비긴 뒤 승부차기 4-3으로 이겼고, 16강에선 프랑스에 0-1로 졌어요. 이후 볼리비아·콜롬비아 원정까지 이기며 3연승 중이고, 세 경기 7골 1실점이에요.
+
+## 원인 분석: 파라과이는 왜 강팀에게 강할까
+
+① 알파로 감독의 두 줄 수비
+알파로 감독의 파라과이는 4-4-2로 두 줄을 촘촘하게 세워요. 월드컵 토너먼트에서 독일전 1-1, 프랑스전 0-1로 두 경기 모두 한 골만 내줬어요. 공을 많이 갖는 팀일수록 뚫기 어려운 구조예요.
+② 골키퍼 힐의 존재감
+월드컵에서 독일전 승부차기를 막아 낸 오를란도 힐이 골문을 지켜요(국내 보도). 다만 13일 싱가포르전에선 하프타임에 교체돼, 일본전 출전 여부도 지켜봐야 해요.
+③ 마지막엔 알미론·엔시소
+싱가포르전에서 알파로 감독은 74분에 알미론과 엔시소를 함께 넣었고, 엔시소가 알미론의 도움으로 골을 넣었어요. 후반 교체로 흐름을 바꾸는 패턴이에요.
+
+> 일본이 브라질을 이긴 방식은 '빠른 두 골, 그리고 교체 9명'이었어요
+
+## 일본의 힘: 선발과 교체의 차이가 없다
+
+브라질전에서 일본은 15분 구보 다케후사, 19분 나카무라 게이토의 골로 2-0을 만들었어요. 2-2가 된 뒤엔 교체로 들어간 사카모토 다쓰히로가 추가시간 결승골을 넣었어요.
+모리야스 감독은 62분부터 86분 사이 9명을 바꿨는데도 경기력이 떨어지지 않았어요. 구보는 "감독님을 위해 이기고 싶은 마음도 있지만 강한 일본을 보여주고 싶다"고 했어요(국내 보도 종합).
+
+[IMAGE]
+
+## 관전 포인트
+
+일본 쪽에서 보면
+· 구보·도안의 오른쪽이 파라과이 왼쪽을 뚫을 수 있을까요? 브라질전 두 골이 모두 이 쪽 연계에서 시작됐어요.
+· 모리야스 감독은 마지막 경기에서도 교체를 크게 돌릴까요? 그는 "더 하고 싶은 마음은 이제 없다. 다음 단계를 위해 어떻게 바통을 넘길지 생각한다"고 했어요(국내 보도 종합).
+파라과이 쪽에서 보면
+· 두 줄 수비로 일본의 짧은 패스를 버틸 수 있을까요? 월드컵의 독일전처럼 0-0이 길어질수록 파라과이가 유리해요.
+· 알미론·엔시소가 언제 들어올까요? 일본이 교체를 많이 하는 시간대와 겹치면 역습 한 방이 나올 수 있어요.
+
+## 같은 날 저녁 7시: 브라질 vs 싱가포르
+
+브라질은 일본전 막판 결승골 장면에 항의하던 안첼로티 감독과 하피냐가 함께 퇴장당했어요. 비니시우스는 그 경기에서 2골을 넣고 평점 9.5(API-Football)를 받았지만 팀은 졌어요.
+상대 싱가포르엔 한국 출신 송의영이 있어요. 인천에서 태어나 싱가포르에서 프로 생활을 하다 귀화한 공격수로, 13일 파라과이전에서 싱가포르의 유일한 골을 넣었어요(API-Football). 브라질 상대로 골을 넣는다면 한국 팬들에게도 반가운 장면이 될 거예요.
+
+## 제임스의 예상
+
+· 일본 2-1 파라과이를 예상해요. 일본이 전반에 먼저 넣고, 파라과이가 후반 교체로 한 골을 따라붙는 흐름이 될 것 같아요.
+· 다만 파라과이가 0-0으로 60분을 버티면 무승부 가능성도 커요. 월드컵에서 독일이 그랬어요.
+· 브라질은 싱가포르를 3-0으로 이길 것 같아요. 일본전 패배로 분위기가 좋지 않은 만큼, 선발을 크게 바꾸지 않고 확실히 이기려 할 거예요.
+· 한일 두 감독의 마지막 경기가 같은 밤이라는 게 묘해요. 모리야스는 8년, 모레노는 6경기예요. 결과보다 두 나라 축구가 어디까지 벌어졌는지가 더 크게 보일 것 같아요.
+
+여러분은 모리야스 감독의 마지막 경기, 일본이 이길 거라고 보시나요? 예상 스코어를 댓글로 남겨 주세요!
+
+※ 일정·최근 경기·선발·맞대결·평점은 API-Football(11월 17일 기준)이에요. 모리야스 감독 퇴임과 오이와 고 후임, 모리야스·구보 발언, 브라질 퇴장 장면은 동아일보·OSEN·풋볼리스트 등 국내 보도(11월 14~16일)를 종합했어요. 포메이션 그림은 직전 경기 선발 기준이에요. 썸네일은 AI 생성 이미지예요.
+
+#일본파라과이 #일본파라과이프리뷰 #모리야스 #모리야스하지메 #일본축구 #일본대표팀 #구보다케후사 #도안리쓰 #파라과이 #알파로 #브라질싱가포르 #브라질대표팀 #비니시우스 #안첼로티 #송의영 #한일축구 #A매치 #해외축구 #해축

@@ -1,0 +1,95 @@
+---
+title: 그루다 1골 2도움, 독일 네덜란드 평점…클롭호 5-0 대승, 3위에서 조 1위로 뒤집었다
+category: 경기 리뷰·논평
+post_type: review
+style: classic
+summary: 독일이 베를린에서 네덜란드를 5-0으로 꺾고 네이션스리그 2조 1위로 8강에 올랐어요. 그루다가 1골 2도움, 비르츠가 2골을 넣었어요. 독일·네덜란드·그리스가 모두 승점 11이 됐고, 세 팀 맞대결 성적으로 순위가 갈렸어요. 원인 분석과 평점, 예상 채점까지 정리했어요.
+keywords: [독일 네덜란드 평점, 그루다 1골 2도움, 네이션스리그 2조 순위]
+tags: [독일네덜란드평점, 독일네덜란드, 네덜란드독일, 네이션스리그, UEFA네이션스리그, 클롭, 위르겐클롭, 사비, 그루다, 비르츠, 셰르한트, 슐로터베크, 키미히, 하베르츠, 레인더르스, 둠프리스, 독일대표팀, 네덜란드대표팀, A매치, 해외축구, 해축]
+sources: ["https://www.sportschau.de/fussball/nationalmannschaft/klopp-setzt-auf-schlotterbeck-und-brown,deutschland-niederlande-spielbericht-102.html", "https://www.sportschau.de/fussball/nationalmannschaft/niederlande-nehmen-griechenland-boese-auseinander,niederlande-griechenland-spielbericht-100.html", "https://www.api-football.com/documentation-v3"]
+source_note: "API-Football(경기 직후 기준: 기록·평점·선발·이벤트, 2조 순위는 경기 결과와 동률 규정으로 직접 계산), 스포츠샤우(11월 16일 현지: 경기 리포트·8강 추첨 일정)"
+data_as_of: "2026-11-17 06:50 KST"
+images:
+  - file: 2026-11-17-독일네덜란드평점-fig-1.png
+    caption: 독일 5-0 네덜란드 주요 장면
+  - file: 2026-11-17-독일네덜란드평점-fig-2.png
+    caption: 경기 기록 비교
+  - file: 2026-11-17-독일네덜란드평점-fig-3.png
+    caption: 실제 선발 포메이션
+  - file: 2026-11-17-독일네덜란드평점-fig-4.png
+    caption: 선수 평점
+  - file: 2026-11-17-독일네덜란드평점-fig-5.png
+    caption: 2조 최종 순위와 예상 채점
+thumbnail_prompt: "Photorealistic football photo, international night match at the Olympiastadion in Berlin, its historic stone colonnade and blue running track visible under bright floodlights, crowd in white and black waving German flags. Florian Wirtz (플로리안 비르츠), the 23-year-old German attacking midfielder, about 1.77 m, slim agile build, fair skin, youthful oval face with soft cheeks and a narrow chin, brown eyes, straight dark-brown eyebrows, long straight narrow nose, medium-brown hair pushed up and slightly back at the front with short neat sides, clean-shaven boyish look. Shown from the front, three-quarter view, sliding on his knees across the wet grass toward the camera in celebration after scoring, both arms spread wide, mouth open shouting with joy. He wears Germany's real white adidas home kit with the real DFB eagle crest and four stars on the chest, black shorts, white socks, number 17. Behind him, blurred, a German teammate in the same white kit runs to join him, and a Netherlands player in the bright orange shirt stands with his hands on his head. Realistic match moment only. Camera low at knee height, framed from head to knees, he fills about 70% of the image height. Top fifth of the image dark night sky above the stadium roof for text. No text other than the kit logo, crest and shirt number. The face must closely resemble the real Florian Wirtz. Vertical 4:5."
+thumbnail_text: ["네덜란드 5-0 박살", "클롭호 3위→1위"]
+thumbnail_file: "2026-11-17-독일네덜란드평점-썸네일-AI.png"
+threads_text: ""
+publish_at: ""
+---
+
+안녕하세요! 제임스입니다~
+
+17일(화) 새벽 4시 45분 베를린 올림피아슈타디온에서 열린 네이션스리그 독일 네덜란드전은 독일의 5-0 대승으로 끝났어요.
+그루다(RB 라이프치히)가 1골 2도움, 비르츠(리버풀)가 2골을 넣었고, 셰르한트(프라이부르크)와 슐로터베크(도르트문트)도 골을 보탰어요.
+경기 전 독일은 2조 3위였어요. 그런데 이 승리와 같은 시간 그리스의 1-0 승리로 독일·네덜란드·그리스가 모두 승점 11이 됐고, 세 팀 맞대결 성적에서 독일이 1위로 올라섰어요. 무엇이 갈랐는지, 평점과 예상 채점까지 정리했어요.
+
+[IMAGE]
+
+## 경기 흐름: 41분 선제골, 후반 17분 동안 네 골
+
+전반엔 오히려 네덜란드가 먼저 큰 기회를 잡았어요. 학포(리버풀)의 왼쪽 크로스를 말런(AS 로마)이 완전히 비어 있는 상태에서 머리에 맞혔지만 골대 위로 넘어갔어요(스포츠샤우).
+독일은 32분 셰르한트의 슈팅이 골대를 맞았고, 41분 키미히(바이에른 뮌헨)의 패스를 받은 셰르한트가 수비를 한 번 접고 오른발로 골문 구석을 갈랐어요. 베를린 태생인 셰르한트가 고향 경기장에서 넣은 선제골이에요.
+후반은 독일의 시간이었어요. 60분 비르츠가 19m 거리 왼발 중거리로 2-0을 만들었고, 65분 슐로터베크가 그루다의 도움을 헤더로 마무리했어요. 71분엔 비르츠가 그루다와 2대1 패스로 박스 안에 들어가 4-0, 77분엔 그루다가 직접 5-0을 만들었어요.
+사비 감독은 63분부터 78분 사이 퀸턴 팀버르, 위리엔 팀버르, 말런, 학포, 레인더르스를 차례로 뺐지만 흐름은 바뀌지 않았어요.
+
+[IMAGE]
+
+## 경기 기록: 슈팅 18개 vs 7개
+
+API-Football 기록(경기 직후 기준)으로 독일은 점유율 56%, 슈팅 18개, 유효 슈팅 10개였어요. 네덜란드는 슈팅 7개, 유효 슈팅은 1개뿐이었어요.
+흥미로운 건 기대 득점(xG)이에요. 독일은 1.56으로 5골을 넣었어요. 좋은 기회를 많이 만들었다기보다, 만든 기회를 거의 다 넣은 경기였어요. 반대로 사흘 전 그리스를 7-0으로 꺾은 네덜란드는 이번엔 박스 안 슈팅이 5개, 유효 슈팅이 1개뿐이었어요.
+
+## 원인 분석: 사흘 전 7골 팀이 왜 유효 슈팅 1개에 그쳤을까
+
+① 그루다가 네덜란드 왼쪽을 묶었어요
+프리뷰에서 그루다가 위리엔 팀버르(아스널)를 수비에 묶으면 네덜란드 왼쪽 공격도 함께 줄어든다고 봤는데, 그대로 됐어요. 그루다는 슈팅 3개, 키패스 3개, 1골 2도움으로 평점 9.75를 받았어요. 팀버르는 평점 5.66으로 72분에 교체됐어요.
+② 키미히·파블로비치가 레인더르스의 공간을 지웠어요
+네덜란드의 가장 위험한 무기는 레인더르스(알카디시아)의 늦은 침투였어요. 독일은 이번엔 키미히 혼자가 아니라 파블로비치(바이에른 뮌헨)와 둘이 6번 자리를 지켰고, 레인더르스는 슈팅 0개로 78분에 교체됐어요.
+③ 네덜란드 오른쪽 둠프리스가 버티지 못했어요
+둠프리스(레알 마드리드)는 평점 5.16으로 양 팀 선발 중 가장 낮았어요. 독일 왼쪽의 셰르한트와 나다니엘 브라운(바이에른 뮌헨)이 그 뒷공간을 계속 두드렸고, 선제골을 넣은 것도 왼쪽의 셰르한트였어요.
+
+> 경기 전 3위, 경기 후 1위: 다섯 번째 골이 순위를 바꿨어요
+
+[IMAGE]
+
+## 독일 네덜란드 평점: 그루다 9.8, 비르츠 9.2
+
+API-Football 평점(경기 직후 기준)으로 독일은 그루다 9.75, 비르츠 9.18, 셰르한트 7.9, 키미히 7.7, 슐로터베크 7.67이에요. 원톱 하베르츠(아스널)는 슈팅 1개, 키패스 2개로 6.41에 그쳤고 65분에 교체됐어요.
+네덜란드는 골키퍼 페르브뤼헌(브라이턴)이 6.72로 가장 높았어요. 골을 다섯 개나 내준 골키퍼가 팀 최고 평점이라는 게 이 경기를 그대로 보여 줘요.
+
+[IMAGE]
+
+## 2조 최종 순위: 세 팀 승점 11, 맞대결로 갈렸다
+
+이 경기 전 2조는 네덜란드 11점, 그리스 8점, 독일 8점이었어요. 독일이 이기고 그리스도 세르비아를 1-0으로 이기면서 세 팀이 모두 승점 11이 됐어요.
+네이션스리그는 승점이 같으면 그 팀들끼리의 맞대결 성적을 먼저 봐요. 세 팀끼리 경기에서 독일·네덜란드·그리스 모두 승점 5로 같았고, 득실 차에서 독일 +4, 네덜란드 +2, 그리스 -6으로 순위가 정해졌어요. 오늘 5-0이 4-0이었다면 득실이 같아지고, 맞대결 득점이 많은 네덜란드가 1위였어요.
+그리스는 이기고도 3위로 강등 플레이오프에 가요. 스포츠샤우도 독일이 네덜란드를 제치고 1위로 올라섰다고 전했어요.
+독일은 내년 3월 8강 토너먼트에 나가요. 8강 추첨은 20일(금) 한국 시간 저녁 8시 스위스 니옹에서 열리고, 조 1위는 다른 조 2위와 만나요. 같은 조였던 팀끼리는 만나지 않아요.
+
+## 예상 채점: 결과와 순위는 맞았고, 스코어는 빗나갔어요
+
+15일 프리뷰에서 저는 독일 2-1 승리와 독일 1위, 네덜란드 2위, 그리스 3위를 예상했어요. 승리와 최종 순위는 그대로 맞았어요.
+스코어는 크게 빗나갔고, '드디어 클롭호의 첫 스트라이커 골'도 나오지 않았어요. 다섯 골이 모두 2선과 수비수에게서 나왔어요.
+
+## 제임스의 생각
+
+· 클롭호는 이제 3승 2무 1패예요. 9~10월엔 그리스에 지고 비기며 흔들렸지만, 11월 두 경기에서 8골을 넣고 1골만 내줬어요.
+· 그루다는 이번 소집의 최대 수확이에요. 세르비아전 데뷔골에 이어 1골 2도움까지, 이제 오른쪽 날개 주전 경쟁에서 앞서 나갔다고 봐요.
+· 다만 스트라이커 문제는 그대로예요. 하베르츠는 이번에도 골이 없었고, 6경기째 스트라이커 골이 없어요. 8강에서 강팀을 만나면 이 숙제가 다시 커질 거예요.
+· 사비의 네덜란드는 7-0 다음 경기에 0-5를 당했어요. 그래도 8강엔 올랐으니, 오늘 경기는 '진짜 실력 검증'보다는 동기 차이가 컸다고 봐요.
+
+여러분은 오늘 경기 MVP, 그루다와 비르츠 중 누구라고 보시나요? 댓글로 남겨 주세요!
+
+※ 경기 기록·평점·선발은 API-Football(11월 17일 경기 직후 기준)이고, 평점은 이후 바뀔 수 있어요. 2조 순위는 경기 결과와 네이션스리그 동률 규정(맞대결 승점→득실→득점)으로 직접 계산했어요. 썸네일은 AI 생성 이미지예요.
+
+#독일네덜란드평점 #독일네덜란드 #네덜란드독일 #네이션스리그 #UEFA네이션스리그 #클롭 #위르겐클롭 #사비 #그루다 #비르츠 #셰르한트 #슐로터베크 #키미히 #하베르츠 #레인더르스 #둠프리스 #독일대표팀 #네덜란드대표팀 #A매치 #해외축구 #해축
