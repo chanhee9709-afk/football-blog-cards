@@ -1,0 +1,151 @@
+---
+title: 한국 카타르 평점 손흥민 7.2·이강인 7.9…오세훈 헤더 결승골, 슈팅 21개에 1골 진땀승, 60호골은 또 불발
+category: 경기 리뷰·논평
+post_type: review
+style: classic
+summary: 한국이 17일 밤 도하에서 카타르를 1-0으로 이겼어요. 오세훈이 송민규의 크로스를 헤더로 넣었고, 이강인·김민재·오세훈이 평점 7.9, 손흥민은 7.2를 받았어요. 슈팅 21개에 1골뿐이었던 이유, 손흥민 60호골 불발과 이강인 모레노호 최고 경기의 원인, 모레노 감독 거취, 제 예상 채점까지 한 번에 정리했어요.
+keywords: [한국 카타르 평점, 손흥민 카타르전 평점, 이강인 카타르전 평점]
+tags: [한국카타르, 카타르전, 한국카타르평점, 손흥민, 손흥민평점, 손흥민60호골, 이강인, 이강인평점, 오세훈, 송민규, 김민재, 김지수, 황인범, 모레노호, 모레노감독, 모레노거취, 축구대표팀, A매치, 해외축구, 해축]
+sources: ["https://www.yna.co.kr/view/AKR20261118004600007", "https://sports.khan.co.kr/article/202611180109003", "http://www.osen.co.kr/article/G1112911535", "https://www.api-football.com/documentation-v3"]
+source_note: "API-Football(경기 직후 기준: 기록·평점·선발·교체), 연합뉴스·스포츠경향·OSEN·스포츠조선·뉴스핌(11월 17~18일: 경기 장면·선수 발언·4-4-2 배치)"
+data_as_of: "2026-11-18 06:40 KST"
+images:
+  - file: 2026-11-18-한국카타르평점-fig-1.png
+    caption: 카타르전 주요 장면
+  - file: 2026-11-18-한국카타르평점-fig-2.png
+    caption: 카타르전 경기 기록
+  - file: 2026-11-18-한국카타르평점-fig-3.png
+    caption: 실제 선발과 핵심 지역
+  - file: 2026-11-18-한국카타르평점-fig-4.png
+    caption: 선수 평점
+  - file: 2026-11-18-한국카타르평점-fig-6.png
+    caption: 손흥민 카타르전 기록
+  - file: 2026-11-18-한국카타르평점-fig-7.png
+    caption: 모레노호 6경기 손흥민
+  - file: 2026-11-18-한국카타르평점-fig-8.png
+    caption: 이강인 카타르전 기록
+  - file: 2026-11-18-한국카타르평점-fig-9.png
+    caption: 모레노호 5경기 이강인
+  - file: 2026-11-18-한국카타르평점-fig-10.png
+    caption: 카타르전 뒤 현지 인터뷰
+  - file: 2026-11-18-한국카타르평점-fig-11.png
+    caption: 모레노 감독 거취 일정과 변수
+  - file: 2026-11-18-한국카타르평점-fig-5.png
+    caption: 예상 채점과 모레노호 6경기
+thumbnail_prompt: "Photorealistic football photo, late night at Abdullah bin Khalifa Stadium in Doha, Qatar, right after the final whistle of a 1-0 win, bright floodlights, blurred stands with a small group of Korean fans in red waving in the background. Three South Korean players walk side by side toward the camera along the pitch, waving and applauding the travelling fans, each with a large South Korean national flag (Taegukgi: white field, red-and-blue taeguk circle in the center, four black trigrams in the corners, the flag drawn correctly) draped over his shoulders like a cape. In the middle: Kim Min-jae (김민재), the 29-year-old centre-back, the tallest at 1.90 m, broad powerful build, light tan East Asian skin, large wide slightly square face with a broad jaw, narrow single-lid eyes, thick low straight eyebrows, broad flat nose, short neat black hair, clean-shaven, number 4, a calm proud smile. On the left: Son Heung-min (손흥민), the 34-year-old forward and captain, about 1.83 m, lean athletic build, oval face with a defined jaw, double eyelids, straight dark eyebrows, short neat black hair with a slightly textured top and short tidy sides, clean-shaven, number 7, a warm bright smile, one hand raised to the fans. On the right: Lee Kang-in (이강인), the 25-year-old attacking midfielder, the shortest at 1.73 m, compact sturdy build, small slim face with a V-shaped jaw, almond-shaped single-lid eyes, thin straight eyebrows, clean-shaven, number 19, clapping above his head; his hair: straight, thick, layered dark brown-black hair with a faint warm brown tint, full and rounded on top with plenty of soft volume, side hair falling over the upper half of his ears, a soft fringe reaching his eyebrows, NOT short, NOT flat, no undercut. All three wear Korea's real Nike away kit: pale lavender (light purple) shirt with a subtle floral pattern, the real Korea Football Association tiger crest on the chest and the Nike swoosh, pale lavender shorts. Realistic post-match moment only. Camera at chest height, framed from head to mid-thigh, the three players fill about 70% of the image height. Top fifth of the image dark night sky for text. No text other than the kit logos and shirt numbers. The faces must closely resemble the real Kim Min-jae, Son Heung-min and Lee Kang-in. Vertical 4:5."
+thumbnail_text: ["손흥민 7.2 · 이강인 7.9", "슈팅 21개에 1골?"]
+thumbnail_file: "2026-11-18-한국카타르평점-썸네일-AI.png"
+threads_text: ""
+publish_at: ""
+---
+
+안녕하세요! 제임스입니다~
+
+17일(화) 밤 도하에서 한국이 카타르를 1-0으로 이겼어요. 전반 43분 송민규(나시오날)의 왼쪽 크로스를 오세훈(시미즈)이 헤더로 넣은 골이 결승골이 됐어요.
+그런데 기록을 보면 마냥 웃을 수만은 없어요. 슈팅이 21개, 그중 박스 안 슈팅이 19개였는데 골은 하나뿐이었거든요. 반대로 카타르는 유효 슈팅 0개였어요.
+한국 카타르 평점과 경기 흐름, '슈팅 21개에 1골'이 나온 이유, 손흥민·이강인의 경기, 그리고 계약이 끝나는 모레노 감독의 거취까지 한 번에 정리해 볼게요.
+
+[IMAGE]
+
+## 경기 결과: 오세훈 헤더 한 방, 나머지는 골키퍼에 막혔다
+
+경기 초반부터 한국이 몰아쳤어요. 전반 6분 송민규가 왼쪽에서 수비 두 명을 연달아 제치고 슈팅을 때렸고, 10분에는 이강인(아틀레티코 마드리드)의 크로스를 오세훈이 헤더로 연결했지만 골문을 살짝 벗어났어요.
+16분 이강인의 프리킥, 19분 손흥민(LAFC)의 오른발 논스톱 슈팅은 카타르 골키퍼에게 막혔어요. 그리고 43분, 송민규가 왼쪽에서 올린 크로스를 오세훈이 머리로 꽂으며 균형을 깼어요.
+후반에도 12분 이강인의 왼발 슈팅이 옆그물을 때렸고, 25분 오세훈의 슈팅은 다시 골키퍼 손에 걸렸어요. 모레노 감독은 21분 손흥민·이강인·김봉수·이명재를 한꺼번에 빼고 이동경·정우영·이재성·조현택을 넣었어요.
+
+## 경기 기록: 슈팅 21 대 2
+
+API-Football 기준 한국은 슈팅 21개(유효 9개), 카타르는 2개(유효 0개)였어요. 점유율 57%, 패스 성공률 90%로 경기 내용은 일방적이었어요.
+카타르 골키퍼는 선방 7개로 평점 9.2를 받아 양 팀 최고였어요. 모레노 감독도 경기 뒤 "카타르 골키퍼가 잘했다. 반대로 우리 공격수들은 파이널 서드에서 정교함이 떨어졌다"고 말했어요(연합뉴스).
+카타르는 호주전(0-3)에 이어 두 경기 연속 유효 슈팅이 없었어요. 김민재(바이에른 뮌헨)-김지수(브렌트퍼드) 중앙 수비는 상대 슈팅 자체를 거의 허락하지 않았어요.
+
+[IMAGE]
+
+## 원인 분석: 왜 이번엔 이겼고, 왜 1골뿐이었나
+
+① 왼쪽 송민규가 '돌파하는 날개'를 해 줬어요
+사우디전 왼쪽에는 안쪽으로 들어오는 황희찬(샬케)이 섰는데, 이번엔 송민규가 섰어요. 송민규는 드리블을 8번 시도해 4번 성공했고, 볼 경합도 16번이나 했어요(API-Football). 측면에서 1대1로 수비를 벗겨 내고 크로스를 올리는 역할을 혼자 해냈어요.
+② 박스 안에 '받아 줄 사람'이 생겼어요
+투톱이 손흥민-오현규에서 손흥민-오세훈으로 바뀌었어요. 국내 보도에 따르면 손흥민이 뒷공간 침투에 집중하는 동안 193cm 오세훈은 공중볼 싸움을 맡았어요. 결승골도, 10분의 첫 헤더도 모두 측면 크로스에서 나왔어요. 측면 선수들이 크로스를 올릴 목표가 분명해진 거예요.
+
+[IMAGE]
+
+③ 그런데 마무리는 '골키퍼 정면'이었어요
+박스 안 슈팅 19개 중 유효 슈팅이 9개, 골은 1개였어요. 국내 매체들이 '슈팅 21개에 고작 1골'이라고 쓴 이유예요. 송민규도 "1-0 승리가 아쉽다. 공격수들은 반성해야 한다"고 했고, 오세훈은 "좋은 기회를 여러 번 놓쳐 죄송하다"고 말했어요.
+게다가 카타르는 후반 들어 스리백으로 바꾸고 전방 압박을 올렸어요(국내 보도). 상대가 수비 숫자를 늘리자 한국의 후반 슈팅은 더 어려워졌어요.
+
+> 상대 슈팅은 0개로 막았지만, 우리 슈팅 21개도 1골로 끝났다
+
+[IMAGE]
+
+## 선수 평점: 오세훈·이강인·김민재 7.9
+
+API-Football 경기 직후 기준으로 한국 최고 평점은 결승골의 오세훈, 키패스 3개의 이강인, 패스 107개 중 101개를 성공한 김민재가 나란히 7.9였어요.
+김지수가 7.6, 도움을 올린 송민규와 왼쪽 수비 이명재가 7.5로 뒤를 이었어요. 손흥민은 슈팅 2개(유효 1개), 키패스 3개로 7.2였어요.
+골키퍼 송범근(전북)은 카타르 유효 슈팅이 하나도 없어 선방할 일이 없었어요.
+
+## 손흥민 평점 7.2: 60호골은 또 다음으로
+
+손흥민은 66분을 뛰며 슈팅 2개(유효 1개), 키패스 3개, 패스 26개 중 23개 성공을 기록했어요. 사우디전(6.2)보다 확실히 나아졌지만, A매치 통산 59골(국내 보도 기준)에서 60호골은 또 미뤄졌어요.
+가장 아까운 장면은 전반 19분 컷백을 오른발 논스톱으로 때린 슈팅이었는데, 카타르 골키퍼에게 막혔어요. 후반 21분 정우영(우니온 베를린)과 교체되면서 주장 완장은 김민재에게 건넸어요.
+
+[IMAGE]
+
+① 나아진 이유는 옆에 '버텨 주는' 9번이 섰기 때문이에요
+사우디전 파트너 오현규(베식타시)는 손흥민처럼 뒷공간으로 뛰는 유형이라 둘이 같은 공간을 노렸어요. 이번엔 오세훈이 공중볼과 몸싸움을 맡아 수비를 끌고 다니니, 손흥민 앞에 뛸 공간이 생겼어요.
+② 그래도 결정적인 슈팅 기회는 적었어요
+손흥민의 슈팅 2개는 사우디전과 같은 숫자예요. 한국 슈팅 21개 중 6개는 오세훈, 3개는 송민규 몫이었어요. 역할은 좋아졌지만 마지막 한 번이 손흥민에게 오지 않았어요.
+모레노호 6경기 기록으로 보면 손흥민은 6경기 모두 선발로 나와 3골로 팀 최다 득점자예요. 손흥민과 오세훈이 함께 선발로 나온 10월 우즈베키스탄전(2-0)과 이번 카타르전(1-0)은 모두 무실점 승리였어요.
+
+[IMAGE]
+
+## 이강인 평점 7.9: 모레노호 최고 경기, 그런데 또 공격 포인트 0
+
+이강인은 66분 동안 키패스 3개, 패스 43개 중 40개(93%) 성공으로 평점 7.9를 받았어요. 모레노호에서 뛴 다섯 경기 중 가장 높은 평점이에요.
+10분 오른쪽에서 수비 타이밍을 빼앗고 올린 크로스는 오세훈의 헤더로 이어졌고, 16분엔 왼발 프리킥을 직접 찼고, 후반 12분엔 왼발 슈팅이 옆그물을 때렸어요. 세 장면 모두 이강인의 왼발에서 시작됐어요.
+
+[IMAGE]
+
+① 자리는 같은데 크로스를 받아 줄 사람이 생겼어요
+이강인은 사우디전처럼 4-4-2의 오른쪽 미드필더였어요. 달라진 건 박스 안이에요. 193cm 오세훈이 서자 오른쪽에서 왼발로 감아 올리는 이강인의 크로스에 목표가 생겼어요.
+② 카타르가 압박을 거의 하지 않았어요
+국내 보도는 카타르의 전방 압박 강도가 앞선 상대들보다 매우 낮았다고 짚었어요. 이강인이 공을 받고 고개를 들 시간이 충분했고, 오른쪽 풀백 최준(FC서울)이 바깥을 맡아 줘 안쪽으로 접고 들어갈 공간도 넓었어요.
+그래서 이번 0은 사우디전처럼 '오른쪽에 갇힌 0'이 아니라, '만들고도 동료가 못 넣은 0'에 가까워요. 모레노호 다섯 경기 평점은 6.9, 6.7, 6.6, 7.2, 7.9로 11월에 크게 올랐어요.
+
+[IMAGE]
+
+## 모레노 감독 거취: "다시 맡을 가능성, 당연히 생각"
+
+이 경기로 모레노 감독은 계약된 6경기를 3승 1무 2패(9득점 7실점)로 마쳤어요. 경기 뒤 "적은 시간에 내가 선수들에게 요청한 게 잘 나와서 만족스럽다"면서도 "우리 공격수들은 파이널 서드에서 정교함이 떨어졌다"고 했어요(연합뉴스).
+거취 질문에는 "당연히 그런 가능성을 생각하고 있다. 시간과 신뢰가 중요하다"고 답했어요. 하지만 선수단과 함께 귀국하지 않고 코치진과 바로 스페인으로 떠났어요.
+
+[IMAGE]
+
+① 평가 기준이던 아시안컵이 1년 밀렸어요
+원래 계약에는 6경기 성과에 따라 아시안컵까지 맡길 수 있다는 내용이 있었어요(국내 보도). 그런데 중동 정세 악화로 아시안컵이 2027년 12월 23일 개막으로 미뤄지면서, '아시안컵까지'라는 기간이 1년 가까이 늘어났어요.
+② 결정할 사람이 비어 있어요
+대한축구협회는 전력강화위원회가 6경기를 평가해 이사회에 넘기고, 이사회가 연장 여부를 정한다고 밝혔어요. 그런데 협회장 자리가 비어 있고 차기 회장 선거도 늦어지고 있어요. 계약 만료일은 11월 27일이에요.
+
+[IMAGE]
+
+## 관전 포인트: 카타르전이 남긴 두 가지 질문
+
+① 한국 쪽: 이 4-4-2의 정답은 '오세훈+손흥민'일까
+모레노호는 6경기 모두 4-4-2를 썼어요. 손흥민-오현규 투톱일 때보다 손흥민-오세훈 투톱일 때 역할 분담이 선명했어요. 10월 우즈베키스탄전(2-0) 때도 송민규의 크로스와 오세훈의 골이 나왔어요.
+② 카타르 쪽: 로페테기 감독은 두 경기 연속 유효 슈팅 0개를 어떻게 설명할까
+카타르는 이번 11월 두 경기에서 한 골도 넣지 못했어요. 후반 스리백 전환으로 실점은 막았지만, 공격 쪽 해법은 끝까지 보이지 않았어요.
+
+## 제임스의 생각
+
+· 제 예상은 한국 2-1 승이었는데, 결과는 1-0 승리였어요. 이긴 건 맞혔지만 스코어는 틀렸고, 골키퍼(조현우)와 새 얼굴(신민하·손정범) 예상도 빗나갔어요. 손흥민 60호골과 이강인 도움 예상도 틀렸고, 손흥민 60분 안팎 교체만 맞혔어요.
+· 이번 경기에서 가장 큰 수확은 송민규-오세훈 조합이라고 봐요. 측면에서 벗겨 내는 선수와 박스 안에서 버티는 선수가 함께 있을 때, 손흥민은 뛸 공간을 얻었고 이강인은 크로스 목표를 얻었어요.
+· 모레노 감독의 연장 가능성은 낮게 봐요. 6경기 성적이 나쁘진 않았지만, 협회에 긴 계약을 결정할 사람이 없고 아시안컵까지 1년 넘게 남았어요.
+· 다만 '슈팅 21개 1골'은 상대가 카타르였기 때문에 넘어갈 수 있었던 숫자예요. 강팀을 상대로는 이런 기회가 절반도 오지 않아요. 다음 감독이 누구든 첫 숙제는 마무리라고 생각해요.
+
+[IMAGE]
+
+여러분은 카타르전 MVP로 누구를 뽑으시겠어요? 결승골의 오세훈, 도움의 송민규, 키패스 3개의 이강인, 완장을 넘긴 손흥민 중 한 명을 골라 댓글로 남겨 주세요!
+
+※ 경기 기록·평점·선발·교체는 API-Football(11월 18일 경기 직후 기준)이고, 평점은 이후 바뀔 수 있어요. 경기 장면과 선수 발언, 4-4-2 배치는 연합뉴스·스포츠경향·OSEN·스포츠조선·뉴스핌(11월 17~18일), 모레노 감독 거취 절차와 아시안컵 연기는 대한축구협회 공지(11월 17일)와 국내 보도를 참고했어요. 그림의 선수 위치는 이해를 돕기 위한 것이고, 예상은 개인 의견이에요. 썸네일은 AI 생성 이미지예요.
+
+#한국카타르 #카타르전 #한국카타르평점 #손흥민 #손흥민평점 #손흥민60호골 #이강인 #이강인평점 #오세훈 #송민규 #김민재 #김지수 #황인범 #모레노호 #모레노감독 #모레노거취 #축구대표팀 #A매치 #해외축구 #해축
