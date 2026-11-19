@@ -1,0 +1,94 @@
+---
+title: 11경기 15골 하피냐, 레알 결과 보고 뛰는 바르사…비야레알 뚫고 3점 차 지킬까
+category: 일정·프리뷰
+post_type: preview
+style: classic
+summary: 22일(일) 밤 10시 바르셀로나가 홈 캄 노우에서 비야레알과 라리가 13라운드를 치러요. 2위 레알 마드리드가 7시간 먼저 셀타전을 치르기 때문에, 바르사는 레알 결과를 알고 경기에 들어가요. 12경기 48골을 넣은 바르사 공격의 비결과 '하는 만큼 못 넣는' 비야레알, 쿤데·쿠바르시 출전 여부와 제임스의 예상까지 정리했어요.
+keywords: [바르사 비야레알, 바르셀로나 비야레알 프리뷰, 하피냐 득점]
+tags: [바르셀로나, 비야레알, 바르사비야레알, 바르셀로나비야레알, 바르사비야레알프리뷰, 라리가, 하피냐, 라민야말, 야말, 페르민, 플릭, 쿤데, 올모, 미카우타제, 레알마드리드, 해외축구, 해축]
+sources: ["https://www.mundodeportivo.com/futbol/fc-barcelona/20261119/1004252904/kounde-acelera-villarreal-baku.html", "https://www.marca.com/futbol/barcelona/2026/11/16/jong-estara-disponible-villarreal-pese-lesion-muscular.html", "https://www.marca.com/futbol/barcelona/2026/11/16/refuerzo-lujo-flick.html", "https://www.mundodeportivo.com/futbol/fc-barcelona/20261118/1004252719/tranquilidad.html", "https://www.mundodeportivo.com/futbol/fc-barcelona/20261117/1004251878/respeto-villarreal-juega-produce.html", "https://www.mundodeportivo.com/futbol/fc-barcelona/20261119/1004252894/tres-derrotas-ultimos-cinco-precedentes-casa-villarreal.html", "https://www.marca.com/futbol/villarreal/2026/11/19/villarreal-esquiva-virus-fifa-prepara-duelo-barcelona.html", "https://www.marca.com/futbol/villarreal/2026/11/14/mikautadze-confiesa-amor-barca-club-mi-corazon.html", "https://www.interfootball.co.kr/news/articleView.html?idxno=698351", "https://www.api-football.com/documentation-v3"]
+source_note: "API-Football(순위·맞대결·선발 명단·선수 기록·경기별 슈팅·xG, 11월 20일 기준), 마르카(11월 16일: 더 용 출전 가능·쿠바르시 의문·올모 복귀, 11월 19일: 비야레알 부상자), 문도 데포르티보(11월 17~19일: 쿤데 팀 훈련 복귀·비야레알 지표·맞대결 기록·보얀 인터뷰), 인터풋볼(하피냐 시즌 환산 득점, 소파스코어 인용)"
+data_as_of: "2026-11-20 07:00 KST"
+images:
+  - file: 2026-11-20-바르사비야레알프리뷰-fig-1.png
+    caption: 바르사 비야레알전 한눈에
+  - file: 2026-11-20-바르사비야레알프리뷰-fig-2.png
+    caption: 바르셀로나 리그 48골 득점자
+  - file: 2026-11-20-바르사비야레알프리뷰-fig-3.png
+    caption: 예상 포메이션 맞대결
+  - file: 2026-11-20-바르사비야레알프리뷰-fig-4.png
+    caption: 바르사와 비야레알 공격 지표 비교
+thumbnail_prompt: "Photorealistic football photo, LaLiga Sunday afternoon match at Spotify Camp Nou in Barcelona, bright natural daylight, blurred stands full of Barça fans in blue and garnet. Raphinha (하피냐), the 29-year-old Brazilian forward and captain of FC Barcelona, 1.76 m, lean and wiry athletic build, light brown skin, slim face with high cheekbones, a defined narrow jaw, dark brown eyes under thick dark eyebrows, a straight medium nose, thin neatly trimmed moustache and short chin beard, black hair in tight cornrows braided straight back with faded short sides, tattooed forearms. Shown from the front, three-quarter view, sprinting forward through the middle with the ball at his left foot, head up, focused and determined expression. He wears FC Barcelona's real home kit: blue and garnet (blaugrana) vertical-striped shirt with the real FC Barcelona crest on the chest, blue shorts, blue socks, number 11. Behind him, blurred, a Villarreal defender in an all-yellow kit (yellow shirt, yellow shorts, yellow socks) chases him. Realistic match moment only. Camera at waist height, framed from head to knees, he fills about 70% of the image height. Top fifth of the image dark for text. No text other than the kit logos and shirt number. The face must closely resemble the real Raphinha. Vertical 4:5."
+thumbnail_text: ["11경기 15골 하피냐", "레알 결과 보고 뛴다"]
+thumbnail_file: "2026-11-20-바르사비야레알프리뷰-썸네일-AI.png"
+threads_text: ""
+publish_at: ""
+---
+
+안녕하세요! 제임스입니다~
+
+22일(일) 밤 10시, 바르셀로나가 홈 캄 노우에서 비야레알과 라리가 13라운드를 치러요. A매치 휴식기 뒤 첫 경기인 바르사 비야레알전이에요.
+이 경기는 순서가 재미있어요. 승점 3점 차 2위 레알 마드리드가 같은 날 새벽 5시에 셀타와 먼저 경기를 해요. 레알이 이기면 승점이 같아진 상태로, 바르사는 그 결과를 알고 킥오프를 맞아요.
+주인공은 하피냐예요. 올 시즌 바르사 역사상 첫 브라질 국적 주장이 됐고(인터풋볼), 리그 11경기에서 15골을 넣어 득점 1위를 달리고 있어요.
+
+[IMAGE]
+
+## 경기 정보: 1위 바르사 vs 8위 비야레알
+
+바르사는 12경기 11승 1패, 승점 33으로 1위예요. 유일한 패배는 10월 25일 홈 엘클라시코(1-2)였어요. 레알도 승점 30이라 셀타를 이기면 33점으로 같아지지만, 골득실은 바르사(+35)가 레알(+21)보다 크게 앞서요.
+비야레알은 4승 3무 5패, 승점 15로 8위예요. 이달 초 챔스 홈경기에서 PSG에 0-6으로 졌고, 리그에선 헤타페를 2-0으로 꺾고 휴식기에 들어갔어요.
+맞대결은 최근 5경기 바르사 3승 2패예요. 다만 문도 데포르티보는 "바르셀로나 홈에서 최근 5번 중 3번을 진 상대"라고 짚었어요. 2024년 1월 3-5, 2025년 5월 2-3 패배가 모두 비야레알전이었어요. 올해 2월 4-1 승리 때는 라민 야말이 프로 첫 해트트릭을 기록했고요.
+
+## 득점 기록: 12경기 48골, 경기당 4골
+
+바르사는 리그 12경기에서 48골을 넣었어요. 경기당 정확히 4골이에요. 38경기로 단순 환산하면 150골이 넘는 속도예요(제 계산).
+그 중심에 하피냐가 있어요. 15골로 득점 1위, 2위 음바페(13골)보다 2골 앞서요. 통계 매체 소파스코어는 지금 페이스면 시즌 48골이라는 환산치를 내놨어요(인터풋볼).
+야말은 10골 8도움, 페르민은 7골 5도움이에요. 세 명이 합쳐 32골, 팀 득점의 3분의 2예요.
+눈에 띄는 숫자가 하나 더 있어요. 바르사의 기대득점(xG) 합계는 39.7인데 실제로는 48골을 넣었어요. 찬스보다 8골 넘게 더 넣고 있다는 뜻이에요. 48골 중 20골은 후반 16분 이후에 나왔어요.
+
+[IMAGE]
+
+## 원인 분석: 바르사는 왜 이렇게 많이 넣을까
+
+① 하피냐를 측면에서 9번 자리로 옮겼어요
+레반도프스키가 떠난 뒤 플릭 감독은 정통 9번을 사지 않고 하피냐를 최전방에 세웠어요. 보얀 크르키치 바르사 스포츠 코디네이터는 "하피냐가 9번다운 골과 움직임을 보여 줘서 9번 영입을 생각하지 않게 됐다"고 말했어요(문도 데포르티보).
+숫자로 보면 더 확실해요. 하피냐는 리그에서 슈팅 31개로 15골을 넣었어요. 슈팅 두 개 중 하나가 골이 된 셈이에요. 측면에서 안쪽으로 파고들던 선수가 골문 앞에 서니, 슈팅 위치 자체가 가까워진 거예요. 다만 이 정도 결정력은 오래 유지되기 어려운 수치라는 점도 같이 봐야 해요(제 분석).
+② 오른쪽에서 야말이 판을 짜요
+야말은 리그 슈팅 52개, 키패스 42개로 둘 다 팀 1위예요. 오른쪽 측면에서 공을 잡으면 수비 2명이 붙고, 그만큼 하피냐와 페르민 앞에 공간이 생겨요. 10골 8도움, 18골에 직접 관여했어요.
+③ 올모가 빠진 자리를 페르민이 메웠어요
+올모는 10월 PSG전에서 왼쪽 내전근을 다쳐 한 달 가까이 빠졌어요. 그동안 그 자리를 페르민이 모든 경기에서 맡았고(마르카), 7골 5도움에 평점 7.79를 기록했어요. 이제 올모까지 팀 훈련에 돌아와 플릭 감독의 2선 선택지가 하나 더 늘었어요.
+반대로 걱정은 수비예요. 쿤데(왼쪽 발목), 로드리, 에스파르트가 빠져 있고, 지난 아틀레티코전엔 미드필더 출신 19세 파리나스가 오른쪽 수비를 봤어요. 그래도 리그 12경기 상대 슈팅이 87개(경기당 약 7개)뿐이라, 공을 오래 쥐는 것 자체가 수비가 되고 있어요.
+
+[IMAGE]
+
+## 상대 분석: 이니고 페레스의 비야레알 4-4-2
+
+비야레알은 리그 12경기 중 10경기를 4-4-2로 치렀어요. 몰레이로가 왼쪽 미드필더에서 안으로 좁혀 들어오고, 앞에선 미카우타제와 올루와세이가 뒷공간을 노려요.
+문도 데포르티보는 비야레알을 "하는 것보다 덜 거두는 팀"이라고 평했어요. 슈팅 202개는 바르사 다음으로 많고, 코너킥 89개는 리그 최다예요. 그런데 코너킥 89개로 얻은 골은 1골뿐이에요.
+API 기록으로 봐도 그래요. 비야레알의 xG 합계는 24.1인데 실제 득점은 17골이에요. 찬스보다 7골 가까이 덜 넣었어요. 바르사와 정반대예요.
+팀 내 최다 득점자는 미카우타제와 게예(각 3골)예요. 몰레이로는 2골 4도움, 키패스 26개로 공격의 출발점이에요. 미카우타제는 최근 DAZN 인터뷰에서 "바르사는 내 마음의 클럽"이라고 말하기도 했어요(마르카).
+부상자도 많아요. 포이스, 제라르 모레노, 아코마흐가 이번 경기에 못 돌아오고, 디아타는 수술로 약 5개월 결장이에요(마르카·문도 데포르티보). 대표팀에 다녀온 11명은 모두 큰 탈 없이 복귀했어요.
+
+[IMAGE]
+
+## 관전 포인트: 두 팀이 각자 풀어야 할 숙제
+
+바르사 쪽에서 보면
+· 레알 결과가 부담이 될까요? 레알이 셀타를 이기면 킥오프 순간엔 승점이 같아요. 이기면 다시 3점 차, 비기면 선두를 내줄 수도 있는 경기예요.
+· 수비 라인을 누구로 짤까요? 쿤데는 19일(목) 부상 뒤 처음 팀 훈련에 합류했지만 비야레알전과 26일(목) 새벽 사바흐 원정(아제르바이잔 바쿠) 중 언제 돌아올지 아직 미정이에요(문도 데포르티보). 쿠바르시도 대표팀에서 장요근 과부하로 교체돼 출전 여부가 불투명해요.
+비야레알 쪽에서 보면
+· 바르사의 높은 수비 라인 뒤를 뚫을 수 있을까요? 미카우타제는 지난달 리버풀 원정에서도 수비 실수를 놓치지 않고 골을 넣었어요. 바르사가 라인을 올릴수록 기회가 생겨요.
+· 몰레이로와 카를로스 로메로가 야말을 막을 수 있을까요? 야말이 서는 오른쪽이 바르사 공격의 출발점이라, 이 측면에서 버티느냐가 승부를 가를 거예요.
+
+## 제임스의 예상
+
+· 스코어는 바르사의 3-1 승리를 예상해요. 홈 6경기 24골을 넣은 팀이고, 비야레알은 찬스에 비해 골이 덜 나오는 팀이에요. 그래도 한 골은 내줄 것 같아요.
+· 하피냐가 시즌 16호 골을 넣을 거예요. 싱가포르까지 다녀오는 긴 일정이었지만, 이번 대표팀 경기에선 퇴장 징계로 마지막 경기를 뛰지 않아 체력은 남아 있어요.
+· 선발 수비는 칸셀루·제라르 마르틴·에릭 가르시아·파리나스를 예상해요. 쿤데는 벤치, 쿠바르시는 사흘 간격 일정을 생각해 휴식에 걸어 볼게요.
+· 의외의 한 수는 올모예요. 후반 교체로 들어와 복귀전에서 공격 포인트를 올릴 것 같아요. 비야레알의 골은 미카우타제가 넣을 거라고 봐요.
+
+여러분은 레알 결과를 보고 뛰는 게 바르사에 부담일까요, 아니면 동기부여일까요? 댓글로 남겨 주세요!
+
+※ 순위·맞대결·선수 기록·슈팅·기대득점(xG)은 API-Football(11월 20일 기준)이에요. xG는 경기별 수치를 더한 값이에요. 부상자와 출전 전망은 마르카(11월 16·19일)와 문도 데포르티보(11월 17~19일) 보도예요. 150골 환산과 예상 포메이션은 제 계산·예상이에요. 썸네일은 AI 생성 이미지예요.
+
+#바르셀로나 #비야레알 #바르사비야레알 #바르셀로나비야레알 #바르사비야레알프리뷰 #라리가 #하피냐 #라민야말 #야말 #페르민 #플릭 #쿤데 #올모 #미카우타제 #레알마드리드 #해외축구 #해축
