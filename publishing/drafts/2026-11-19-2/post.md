@@ -1,0 +1,89 @@
+---
+title: 김민재 쾰른전 선발 나올까…콤파니 4주 만의 복귀전, 카타르전 7.9 '괴물' 자리 되찾나
+category: 일정·프리뷰
+post_type: preview
+style: classic
+summary: 21일(토) 새벽 4시 30분 바이에른 뮌헨이 쾰른과 분데스리가 10라운드를 치러요. 쓰러졌던 콤파니 감독이 4주 만에 벤치로 돌아오는 경기예요. 대표팀에서 평점 7.9를 받고 돌아온 김민재가 타와의 경쟁에서 선발 자리를 되찾을지, 쾰른 3-5-2와의 맞대결과 제임스의 예상까지 정리했어요.
+keywords: [김민재 쾰른전, 뮌헨 쾰른 프리뷰, 콤파니 복귀]
+tags: [김민재, 김민재쾰른전, 뮌헨쾰른, 뮌헨쾰른프리뷰, 바이에른뮌헨, 쾰른, 콤파니, 콤파니복귀, 분데스리가, 케인, 타, 우파메카노, 데이비스, 무시알라, 엘말라, 해외축구, 해축]
+sources: ["https://www.sportschau.de/regional/br/br-fcb-nach-der-pause-kompany-vor-rueckkehr-auf-die-bank-102.html", "https://www.xportsnews.com/article/2220887", "https://www.api-football.com/documentation-v3"]
+source_note: "API-Football(순위·맞대결·선발 명단·선수 평점·원정 기록, 11월 19일 기준), 슈포르트샤우(BR, 11월 18일: 콤파니 벤치 복귀 확정·데이비스 부상·무시알라 복귀·잔디 교체), 국내 보도(11월 10~17일: 콤파니 훈련장 복귀, 데이비스 햄스트링 파열 공식 발표)"
+data_as_of: "2026-11-19 07:00 KST"
+images:
+  - file: 2026-11-19-김민재쾰른전프리뷰-fig-1.png
+    caption: 뮌헨 쾰른전 한눈에
+  - file: 2026-11-19-김민재쾰른전프리뷰-fig-2.png
+    caption: 휴식기 뮌헨 수비수 대표팀 출전 기록
+  - file: 2026-11-19-김민재쾰른전프리뷰-fig-3.png
+    caption: 예상 포메이션 맞대결
+  - file: 2026-11-19-김민재쾰른전프리뷰-fig-4.png
+    caption: 쾰른 최근 6경기
+thumbnail_prompt: "Photorealistic football photo, Bundesliga night match at the Allianz Arena in Munich, bright floodlights, blurred stands full of Bayern fans in red. Kim Min-jae (김민재), the 30-year-old South Korean centre-back of FC Bayern Munich, 1.90 m, broad-shouldered powerful build, light tan East Asian skin, large wide slightly square face with a broad jaw, narrow single-lid eyes, thick low straight eyebrows, broad flat nose, short straight black hair with neat short sides and a slightly longer swept top, clean-shaven. Shown from the front, three-quarter view, striding forward out of defence with the ball at his right foot, head up, scanning the pitch, calm and commanding expression. He wears Bayern Munich's real red home kit: red shirt with the real FC Bayern crest on the chest, red shorts, red socks, number 3. Behind him, blurred, a 1. FC Köln attacker in a white shirt with red details chases him. Realistic match moment only. Camera at waist height, framed from head to knees, he fills about 70% of the image height. Top fifth of the image dark night sky for text. No text other than the kit logos and shirt number. The face must closely resemble the real Kim Min-jae. Vertical 4:5."
+thumbnail_text: ["김민재, 자리 되찾나", "콤파니 복귀전 쾰른전"]
+thumbnail_file: "2026-11-19-김민재쾰른전프리뷰-썸네일-AI.png"
+threads_text: ""
+publish_at: ""
+---
+
+안녕하세요! 제임스입니다~
+
+21일(토) 새벽 4시 30분, 바이에른 뮌헨이 홈 알리안츠 아레나에서 쾰른과 분데스리가 10라운드를 치러요. A매치 휴식기 뒤 첫 경기예요.
+이 경기의 주인공은 감독이에요. 지난달 23일 훈련장에서 쓰러졌던 콤파니 감독이 이 경기부터 다시 벤치에 앉는다고 드레젠 회장이 직접 밝혔어요(슈포르트샤우).
+김민재에게도 중요한 경기예요. 대행 체제에서 밀렸던 자리를, 대표팀 카타르전 평점 7.9를 들고 돌아와 되찾을 수 있을지가 관심이에요.
+
+[IMAGE]
+
+## 경기 정보: 1위 뮌헨 vs 원정 무승 쾰른
+
+뮌헨은 9경기 6승 3무로 1위예요. 도르트문트와 승점 21로 같지만 골득실(+20 대 +9)에서 앞서 있어요.
+쾰른은 승점 9로 15위예요. 리그 원정 4경기에서 한 번도 못 이겼고(1무 3패), 3골을 넣는 동안 8골을 내줬어요. 최근 맞대결도 뮌헨이 5연승이에요.
+경기장도 바뀌었어요. 휴식기 동안 NFL 경기가 열린 탓에 알리안츠 아레나 잔디를 통째로 걷어내고 새 하이브리드 잔디를 깔았어요(슈포르트샤우).
+
+## 대표팀 기록: 가장 잘하고, 가장 멀리서 돌아왔다
+
+휴식기 동안 뮌헨 수비수들이 대표팀에서 남긴 기록을 모아 봤어요. 김민재는 사우디전 6.2, 카타르전 7.9로 두 경기 모두 풀타임을 뛰었어요. 카타르전에선 패스 107개 중 101개를 성공시켰어요.
+경쟁자 타는 독일 대표팀에서 두 경기 풀타임(6.9·7.0)을 뛰며 2연승을 함께했고, 우파메카노는 이탈리아전 1경기만 뛰었어요.
+변수는 거리와 시간이에요. 김민재는 17일(화) 밤 도하에서 경기를 마치고 약 4,300km를 날아왔어요. 베를린에서 16일 경기를 치른 타보다 하루 늦고, 훨씬 멀어요.
+
+[IMAGE]
+
+## 원인 분석: 김민재는 왜 자리를 잃었고, 왜 되찾을 수 있을까
+
+① 대행 체제는 '바꾸지 않는' 쪽을 택했어요
+콤파니 감독이 쓰러진 뒤 팀을 맡은 댕크스 코치는 리그에서 타·우파메카노 조합을 고정했어요. 김민재는 그 기간 5경기에서 선발 1경기(도르트문트전)에 그쳤고, 휴식기 직전 마인츠전은 출전하지 못했어요.
+② 콤파니 감독은 원래 '돌려 쓰는' 감독이에요
+콤파니 감독 체제 11경기에서 김민재는 7경기에 선발로 나왔어요. 리그와 챔스를 오가며 센터백 셋을 고르게 쓴 감독이라, 감독 복귀는 그 자체로 김민재에게 기회예요.
+③ 데이비스 이탈로 왼쪽이 약해졌어요
+데이비스가 캐나다 대표팀 경기에서 6분 만에 쓰러져 왼쪽 햄스트링을 다쳤어요. 2년 동안 네 번째 근육 부상이에요(슈포르트샤우). 왼쪽 수비는 스타니시치가 맡을 가능성이 커서, 왼쪽 센터백이 뒤를 넓게 커버해야 해요. 김민재가 가장 잘하는 일이에요.
+
+[IMAGE]
+
+## 상대 분석: 바그너 감독의 쾰른 3-5-2
+
+쾰른은 직전 레버쿠젠전(1-2 패)에서 3-5-2를 썼어요. 수비할 땐 양쪽 윙백이 내려와 5백이 되고, 앞에선 엘말라와 뷜터가 역습을 노려요.
+엘말라는 리그 3골로 팀 최다 득점자예요. 쾰른은 9경기 10골로 득점력이 약해서, 엘말라의 개인기에 기대는 비중이 커요.
+뮌헨 입장에선 5백 뒤 공간을 어떻게 여느냐가 숙제예요. 수비 라인에서 한 번에 전진 패스를 넣어 주는 센터백이 있으면 훨씬 쉬워져요. 김민재 선발론이 나오는 이유예요.
+
+[IMAGE]
+
+## 관전 포인트: 두 팀이 각자 풀어야 할 숙제
+
+뮌헨 쪽에서 보면
+· 콤파니 감독의 첫 선택은 누구일까요? 타·우파메카노를 유지할지, 김민재를 넣을지가 감독 복귀 후 첫 메시지가 될 거예요.
+· 무시알라가 돌아올까요? 슈포르트샤우는 무시알라가 팀 훈련에 합류해 쾰른전 명단에 들 수 있다고 전했어요. 디아스·그나브리가 빠진 공격진에 숨통이 트여요.
+쾰른 쪽에서 보면
+· 5백으로 버티다 역습 한 방을 노릴 수 있을까요? 원정 4경기 3골이라 선제 실점하면 뒤집기 어려워요.
+· 엘말라가 뮌헨 센터백과의 1대1에서 버틸 수 있을까요? 쾰른이 골을 넣을 수 있는 거의 유일한 경로예요.
+
+## 제임스의 예상
+
+· 스코어는 뮌헨의 3-0 승리를 예상해요. 홈 리그 4경기에서 20골을 넣은 팀이고, 쾰른은 원정에서 득점이 거의 없어요.
+· 선발 센터백은 타·우파메카노가 먼저 나올 것 같아요. 김민재는 도하에서 늦게 돌아온 만큼 후반 교체 출전에 걸어 볼게요.
+· 대신 26일(목) 새벽 챔스 릴 원정에선 김민재 선발을 예상해요. 콤파니 감독은 원래 리그와 챔스 사이에서 센터백을 돌려 썼어요.
+· 케인이 골을 넣을 거예요. 휴식기 동안 잉글랜드 대표팀에서 크로아티아·스페인을 연달아 꺾고 돌아왔어요.
+
+여러분은 콤파니 감독이 복귀전에서 김민재를 선발로 쓸 거라고 보시나요? 댓글로 남겨 주세요!
+
+※ 순위·맞대결·선수 평점·원정 기록은 API-Football(11월 19일 기준)이에요. 콤파니 감독 복귀와 부상자, 잔디 교체는 독일 공영방송 슈포르트샤우(BR, 11월 18일) 보도예요. 예상 포메이션은 제 예상이에요. 썸네일은 AI 생성 이미지예요.
+
+#김민재 #김민재쾰른전 #뮌헨쾰른 #뮌헨쾰른프리뷰 #바이에른뮌헨 #쾰른 #콤파니 #콤파니복귀 #분데스리가 #케인 #타 #우파메카노 #데이비스 #무시알라 #엘말라 #해외축구 #해축
