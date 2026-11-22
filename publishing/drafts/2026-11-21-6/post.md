@@ -1,0 +1,95 @@
+---
+title: 이강인 헤타페전 벤치 가나…시메오네 '예행연습 선발'서 빠졌다, 8경기 침묵 깰까
+category: 일정·프리뷰
+post_type: preview
+style: classic
+summary: 23일(월) 새벽 5시 아틀레티코 마드리드가 헤타페 원정으로 라리가 13라운드를 치러요. 루크먼이 다쳐 이강인 선발 전망이 나왔지만, 마르카는 시메오네 감독이 이강인 없는 4-1-4-1을 연습하고 있다고 전했어요. 이강인이 투톱에서만 빛나는 이유, 홈 무패 헤타페와 보르달라스 감독, 제임스의 예상까지 정리했어요.
+keywords: [이강인 헤타페전, 헤타페 아틀레티코 프리뷰, 이강인 선발]
+tags: [이강인, 이강인헤타페전, 이강인선발, 헤타페아틀레티코, 아틀레티코헤타페, 아틀레티코마드리드, 헤타페, 시메오네, 보르달라스, 라리가, 라리가프리뷰, 알바레스, 줄리아노시메오네, 루크먼, 코케, 바에나, 해외축구, 해축]
+sources: ["https://www.marca.com/futbol/atletico/2026/11/20/julian-alvarez-apunta-getafe.html", "https://www.marca.com/futbol/atletico/2026/11/17/lookman-objetivo-barcelona.html", "https://www.marca.com/futbol/getafe/2026/11/20/bordalas-futbolista-quiere-jugar-partido-domingo.html", "https://www.interfootball.co.kr/news/articleView.html?idxno=698900", "https://www.spotvnews.co.kr/news/articleView.html?idxno=1020982", "http://www.osen.co.kr/article/G1112847243", "https://www.api-football.com/documentation-v3"]
+source_note: "API-Football(순위·맞대결·선발 명단·선수 기록·부상 명단, 11월 21일 기준), 마르카(11월 12~20일: 아틀레티코 훈련 예상 선발·루크먼 부상·르노르망 복귀, 보르달라스 기자회견), 국내 보도(11월 20일: 인터풋볼·스포티비뉴스의 아스 인용, 뉴시스의 풋몹 예상, OSEN의 보르달라스 과거 인터뷰 인용)"
+data_as_of: "2026-11-21 06:30 KST"
+images:
+  - file: 2026-11-21-이강인헤타페전프리뷰-fig-1.png
+    caption: 헤타페 아틀레티코전 한눈에
+  - file: 2026-11-21-이강인헤타페전프리뷰-fig-2.png
+    caption: 이강인 라리가 선발 10경기 출전 시간
+  - file: 2026-11-21-이강인헤타페전프리뷰-fig-3.png
+    caption: 예상 포메이션 맞대결
+  - file: 2026-11-21-이강인헤타페전프리뷰-fig-4.png
+    caption: 헤타페 홈과 원정 기록
+thumbnail_prompt: "Photorealistic football photo, LaLiga night match at the Coliseum Alfonso Pérez in Getafe, Madrid, bright floodlights, blurred compact stands full of Getafe fans in blue. Lee Kang-in (이강인), the 25-year-old South Korean attacking midfielder of Atlético de Madrid, about 1.73 m, compact athletic and sturdy build (not skinny), left-footed, light tan East Asian skin, small slim V-jaw face, almond single-lid eyes, thin straight brows, soft fringe to the brows, clean-shaven, focused determined expression. His hair: straight, thick, layered dark brown-black hair with a faint warm brown tint: full and rounded on top with plenty of soft volume, side hair falling over the upper half of his ears, the back neatly trimmed at the nape in a soft natural taper with hair still covering the whole back of the head, slightly tousled. NOT short, NOT flat, NOT a bowl cut, NOT wavy or long, no buzz cut, no undercut, no shaved or faded sides. Shown from the front in a three-quarter view, dribbling the ball forward with his LEFT foot in the right half-space just outside the penalty area, head up, eyes looking for a pass. He wears Atlético de Madrid's real home kit: red-and-white vertical striped shirt with the real Atlético de Madrid crest on the chest, navy blue shorts with a small number 7 on the front, red socks. Behind him, blurred, a Getafe defender in Getafe's all-blue home kit (blue shirt, blue shorts, blue socks) chases him. Realistic match moment only. Camera at waist height, framed from head to knees, he fills about 70% of the image height. Top fifth of the image dark night sky for text. No text other than the kit logos and shirt number. The face must closely resemble the real Lee Kang-in. Vertical 4:5."
+thumbnail_text: ["이강인, 벤치로 밀리나", "헤타페전 8경기 침묵 깰까"]
+thumbnail_file: "2026-11-21-이강인헤타페전프리뷰-썸네일-AI.png"
+threads_text: ""
+publish_at: ""
+---
+
+안녕하세요! 제임스입니다~
+
+23일(월) 새벽 5시, 이강인의 아틀레티코 마드리드가 헤타페 홈 콜리세움에서 라리가 13라운드를 치러요. A매치 휴식기 뒤 첫 경기예요.
+지난 19일 코리안리거 일정 글에서 저는 루크먼 부상으로 공격진에 빈자리가 생겼으니 이강인 선발을 예상했어요. 그런데 그 뒤로 사정이 조금 달라졌어요.
+스페인 마르카는 20일 시메오네 감독이 최근 며칠 동안 이강인 없이 알바레스 원톱의 선발 명단을 연습하고 있다고 전했어요. 루크먼이 빠졌는데 왜 이강인 자리가 바로 생기지 않는지, 포메이션으로 풀어 볼게요.
+
+[IMAGE]
+
+## 경기 정보: 홈 무패 헤타페 vs 원정 5승 아틀레티코
+
+아틀레티코는 12경기 9승 1무 2패, 승점 28로 3위예요. 1위 바르셀로나와는 5점 차이고, 리그 최근 8경기에서 7승 1패를 거뒀어요. 그 1패가 휴식기 직전 바르셀로나전(1-2)이었어요.
+헤타페는 승점 12로 15위예요. 그런데 홈과 원정이 완전히 다른 팀이에요. 홈 6경기는 3승 3무로 한 번도 지지 않았고, 원정 6경기는 모두 졌어요.
+맞대결은 아틀레티코가 리그 2연승 중이고, 두 경기 모두 1-0이었어요. 콜리세움 원정은 최근 3번 2승 1패예요.
+
+## 대표팀에서 돌아온 이강인: 156분 뛰고 목요일 합류
+
+이강인은 휴식기 동안 대표팀 두 경기를 모두 선발로 뛰었어요. 13일 사우디전은 90분 풀타임에 평점 7.2, 17일 카타르전은 66분 동안 키패스 3개로 평점 7.9를 받았어요. 두 경기 모두 4-4-2의 오른쪽 미드필더였고, 공격 포인트는 없었어요.
+19일엔 아시아축구연맹(AFC) 올해의 국제선수상을 2년 연속 받았어요. 2년 연속 수상은 처음이에요.
+마르카에 따르면 이강인은 알바레스, G.시메오네 등 마지막으로 돌아온 대표팀 선수 8명과 함께 19일(현지 시각) 오후에야 회복 훈련으로 팀에 합류했어요.
+
+[IMAGE]
+
+## 원인 분석: 루크먼이 빠졌는데 왜 이강인 자리가 바로 안 생길까
+
+① 이강인 자리는 '투톱'에서 열려요
+API-Football 선발 명단을 보면, 이강인은 이번 시즌 리그 선발 10경기 중 8경기를 투톱(스리톱 포함)의 한 자리에서 뛰었어요. 알바레스 옆에서 중앙과 오른쪽 하프스페이스를 오가는 자유로운 역할이에요.
+그 8경기 중 7경기에서 G.시메오네가 바로 뒤 오른쪽 미드필더로 섰어요. 활동량이 많은 G.시메오네가 오른쪽 넓이와 수비 복귀를 맡아 주니까 이강인은 공을 받는 데 집중할 수 있어요. G.시메오네는 리그 4골 2도움으로, 바에나(5골) 다음으로 많은 골을 넣었어요.
+반대 사례도 있어요. 이강인 시즌 최고 경기(9월 17일 오사수나전, 1골 평점 9.2)는 G.시메오네가 벤치에 있던 날 오른쪽 미드필더로 뛴 경기였어요. 오른쪽에서도 할 수 있다는 건 이미 보여 줬어요.
+② 시메오네 감독은 '미드필더 셋'을 연습하고 있어요
+마르카가 전한 연습 선발은 오블락, 요렌테·르노르망·한츠코·그리말도, G.시메오네·카르도소·코케·바리오스·바에나, 그리고 원톱 알바레스예요. 미드필더 셋에 원톱을 두는 4-1-4-1이라 투톱 두 번째 자리가 아예 없어요.
+이유는 세 가지로 보여요. 마르카는 코케·카르도소 조합이 시즌 최고였던 6연승의 바탕이었다고 짚었고, 센터백 로메로·푸빌이 빠져 르노르망이 들어가는 수비 앞을 두껍게 할 필요도 있어요. 알바레스는 아르헨티나 대표팀에서 135분 동안 3골을 넣고 돌아왔어요(마르카).
+그래서 이강인의 경쟁 상대는 루크먼이 아니라 '세 번째 미드필더'예요. 루크먼(리그 609분, 평점 5.97)의 빈자리를 두고는 오히려 아르나우 오르티스가 훈련에서 기회를 노리고 있어요(마르카).
+③ 숫자도 이강인에게 조금 불리해요
+이강인은 9월 17일 오사수나전 골 이후 8경기째 공격 포인트가 없어요. 선발로 나와도 평균 69분이었고, 풀타임은 한 번뿐이었어요. 스페인 아스도 "이강인이 아직 최고의 경기력을 보여 주지 못하고 있고, 시메오네 감독이 활용법을 고민 중"이라고 전했어요(스포티비뉴스 인용).
+게다가 아틀레티코는 7일 동안 3경기(23일 헤타페, 26일 비킹 챔스, 29일 엘체)를 치러요. 대표팀에서 156분을 뛰고 가장 늦게 돌아온 이강인을 아껴 둘 이유도 있어요.
+
+[IMAGE]
+
+## 상대 분석: 보르달라스의 헤타페, 콜리세움에선 다른 팀
+
+헤타페의 이번 시즌 8골은 전부 홈에서 나왔어요. 원정에선 6경기 동안 한 골도 못 넣었고 14골을 내줬지만, 홈에선 6경기 4실점으로 단단해요. 수비수 카르바할도 "원정에서 정신 차려야 한다"고 했을 정도예요(마르카).
+보르달라스 감독의 헤타페는 거칠기로 유명해요. 12경기 경고 41장으로 아틀레티코(28장)보다 훨씬 많아요. 이번엔 중원의 핵심 구델리가 경고 누적으로 빠지고, 우체·후안미도 무릎 부상으로 결장해요.
+이강인과 인연도 있어요. 보르달라스 감독은 2021년 여름 발렌시아에 부임했고, 그 직후 이강인은 이적료 없이 마요르카로 떠났어요. 보르달라스 감독은 2023년 스페인 매체 렐레보 인터뷰에서 "구단이 이강인은 무조건 떠나야 한다고 했지만, 나는 코치진에게 그가 최고라고 했다"고 밝힌 바 있어요(OSEN 인용).
+보르달라스 감독은 20일 기자회견에서 "아틀레티코는 유럽 최고 팀 중 하나다. 바르사·아틀레티코·레알과 나머지 팀 사이에는 큰 차이가 있다"고 말했어요(마르카).
+
+[IMAGE]
+
+## 관전 포인트: 두 팀이 각자 풀어야 할 숙제
+
+아틀레티코 쪽에서 보면
+· 시메오네 감독은 4-1-4-1로 시작할까요, 이강인을 넣은 4-4-2로 갈까요? 풋몹은 이강인의 투톱 선발을 예상했고(뉴시스), 마르카는 이강인 없는 명단을 전했어요. 선발 명단이 이강인의 팀 내 위치를 알려 줄 거예요.
+· 르노르망이 바이에른전 악몽을 털어낼까요? 로메로·푸빌이 빠지면서 마르카는 르노르망이 한츠코와 짝을 이룰 거라고 봤어요. 휴식기 전 마지막 홈 2경기에서 2연패한 수비가 다시 안정될지가 관건이에요.
+헤타페 쪽에서 보면
+· 홈 무패를 지킬 수 있을까요? 아틀레티코는 원정 6경기에서 5승을 거둔 팀이라, 헤타페가 선제골을 내주면 뒤집기 어려워요.
+· 구델리 없는 중원이 코케·카르도소·바리오스를 버틸 수 있을까요? 미드필더 숫자에서 밀리면 헤타페가 잘하는 몸싸움과 끊는 축구가 힘을 잃어요.
+
+## 제임스의 예상
+
+· 스코어는 아틀레티코의 2-0 승리를 예상해요. 헤타페 홈 수비가 단단해서 전반은 팽팽하겠지만, 아틀레티코는 리그 23골 중 8골을 후반 76분 이후에 넣은 팀이에요.
+· 지난 19일 글에선 이강인 선발을 예상했는데, 마르카 보도를 보고 바꿀게요. 이강인은 벤치에서 시작해 후반 15~20분쯤 들어가 알바레스 옆 투톱 자리로 갈 것 같아요.
+· 득점은 알바레스가 선제골을 넣고, 교체로 들어간 이강인이 후반 막판 쐐기골을 도울 거라고 볼게요. 8경기 침묵을 깨는 공격 포인트예요.
+· 대신 26일(목) 새벽 챔스 비킹전에선 이강인 선발을 예상해요. 시메오네 감독이 리그와 챔스 사이에서 공격진을 나눠 쓰는 흐름이 이어질 거예요.
+
+여러분은 시메오네 감독이 헤타페전에 이강인을 선발로 쓸 거라고 보시나요? 댓글로 남겨 주세요!
+
+※ 순위·맞대결·선발 명단·선수 기록·부상 명단은 API-Football(11월 21일 기준)이에요. 아틀레티코 훈련 예상 선발과 부상 소식, 보르달라스 감독 기자회견은 스페인 마르카(11월 12~20일) 보도이고, 아스 보도는 스포티비뉴스·인터풋볼(11월 20일) 인용이에요. 예상 포메이션은 제 예상이에요. 썸네일은 AI 생성 이미지예요.
+
+#이강인 #이강인헤타페전 #이강인선발 #헤타페아틀레티코 #아틀레티코헤타페 #아틀레티코마드리드 #헤타페 #시메오네 #보르달라스 #라리가 #라리가프리뷰 #알바레스 #줄리아노시메오네 #루크먼 #코케 #바에나 #해외축구 #해축

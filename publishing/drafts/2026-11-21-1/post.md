@@ -1,0 +1,88 @@
+---
+title: 김민재 쾰른전 평점 6.1, 20분 교체 투입…케인 발목 인대 파열 3~4개월 OUT, 콤파니 복귀전 뮌헨 1-1 충격 무승부
+category: 경기 리뷰·논평
+post_type: review
+style: classic
+summary: 콤파니 감독이 4주 만에 돌아온 경기에서 바이에른 뮌헨이 15위 쾰른과 1-1로 비겼어요. 케인이 20분 만에 발목 인대 파열로 쓰러져 3~4개월 결장이 예상되고, 올리세도 전반 만에 빠졌어요. 뮌헨은 점유율 71%에 슈팅 17개를 쏘고도 유효 슈팅이 1개였어요. 김민재는 62분 경고를 받은 우파메카노 대신 70분에 들어가 실점 없이 버텼어요. 비긴 이유와 김민재의 다음 기회를 정리했어요.
+keywords: [김민재 쾰른전 평점, 뮌헨 쾰른, 케인 부상]
+tags: [김민재, 김민재평점, 김민재쾰른전, 김민재쾰른전평점, 뮌헨쾰른, 바이에른뮌헨, 쾰른, 콤파니, 콤파니복귀, 케인, 케인부상, 올리세, 브라운, 우파메카노, 타, 엘말라, 분데스리가, 해외축구, 해축]
+sources: ["https://www.api-football.com/documentation-v3", "https://www.news1.kr/sports/overseas-soccer/6361706", "https://www.spotvnews.co.kr/news/articleView.html?idxno=1021126", "https://www.interfootball.co.kr/news/articleView.html?idxno=698771", "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=101062"]
+source_note: "API-Football(경기 기록·선수 평점·선발 명단·시즌 출전, 경기 직후 기준), 키커 예상 명단(인터풋볼 인용), 포포투 프리뷰(대행 체제 성적)"
+data_as_of: "2026-11-21 06:40 KST"
+images:
+  - file: 2026-11-21-김민재쾰른전평점-fig-1.png
+    caption: 뮌헨 쾰른전 한눈에
+  - file: 2026-11-21-김민재쾰른전평점-fig-2.png
+    caption: 뮌헨 선수 평점
+  - file: 2026-11-21-김민재쾰른전평점-fig-4.png
+    caption: 실제 선발 포메이션
+  - file: 2026-11-21-김민재쾰른전평점-fig-3.png
+    caption: 김민재 쾰른전 기록과 시즌 출전
+thumbnail_prompt: "Photorealistic football photo, Bundesliga night match at the Allianz Arena in Munich, bright floodlights, blurred stands full of Bayern fans in red. Kim Min-jae (김민재), the 30-year-old South Korean centre-back of FC Bayern Munich, 1.90 m, broad-shouldered powerful build, light tan East Asian skin, large wide slightly square face with a broad jaw, narrow single-lid eyes, thick low straight eyebrows, broad flat nose, short straight black hair with neat short sides and a slightly longer swept top, clean-shaven. Shown from the front, three-quarter view, sliding in to block a shot inside his own penalty area, fully focused, determined expression. He wears Bayern Munich's real red home kit: red shirt with the real FC Bayern crest on the chest, red shorts, red socks, number 3. Beside him, blurred, a 1. FC Köln attacker in a white shirt with red details shoots. Realistic match moment only. Camera at waist height, framed from head to knees, he fills about 70% of the image height. Top fifth of the image dark night sky for text. No text other than the kit logos and shirt number. The face must closely resemble the real Kim Min-jae. Vertical 4:5."
+thumbnail_text: ["김민재 20분, 뮌헨 충격 무승부", "케인 발목 인대 파열 OUT"]
+thumbnail_file: "2026-11-21-김민재쾰른전평점-썸네일-AI.png"
+threads_text: ""
+publish_at: ""
+---
+
+안녕하세요! 제임스입니다~
+
+콤파니 감독이 4주 만에 벤치로 돌아온 경기에서 바이에른 뮌헨이 쾰른과 1-1로 비겼어요. 15위 팀을 안방에서 못 이긴 거예요.
+경기 내내 공은 뮌헨이 가졌어요. 점유율 71%, 슈팅 17개였어요. 그런데 골문으로 향한 슈팅은 단 1개, 그게 브라운의 동점골이었어요.
+김민재는 벤치에서 시작해 70분에 들어갔어요. 경고를 받은 우파메카노 대신이었고, 20분 남짓 뛰며 실점 없이 경기를 마쳤어요.
+
+[IMAGE]
+
+## 경기 흐름: 12분 실점, 20분 케인 부상
+
+시작부터 꼬였어요. 12분 쾰른의 역습에서 엘말라가 내준 공을 무어가 마무리했어요. 쾰른의 첫 유효 슈팅이 바로 골이 됐어요.
+20분에는 케인이 비쇼프와 교체됐어요. 휴식기 동안 잉글랜드 대표팀에서 두 경기를 뛰고 돌아온 주포가 20분 만에 나간 거예요. 뮌헨은 다음 날 공식 홈페이지에서 케인이 왼쪽 발목 인대(원위 경비 인대) 파열로 수술을 받았다고 발표했어요. 디 애슬레틱은 3~4개월, 빌트는 최대 4개월 결장을 전망했어요.
+37분 브라운이 비쇼프의 패스를 받아 동점골을 넣었어요. 교체로 들어온 비쇼프가 바로 도움을 기록했어요.
+하프타임엔 올리세까지 빠지고 빈더가 들어갔어요. 전반에만 공격의 두 축이 사라졌고, 후반 45분 동안 뮌헨은 끝내 역전골을 넣지 못했어요.
+
+## 선수 평점: 브라운 최고, 김민재는 짧은 출전
+
+API-Football 평점(경기 직후 기준)으로 뮌헨 최고는 골을 넣은 브라운이에요. 동점골을 도운 비쇼프가 뒤를 이었고, 패스 133개 중 128개를 성공시킨 키미히도 높은 점수를 받았어요.
+김민재는 20분 남짓 뛰어 평점 표본이 작아요. 태클 2번, 경합 2번을 모두 이겼고, 패스 9개 중 8개를 성공시켰어요. 숫자보다 '실점 없이 버틴 20분'이라는 게 더 중요한 경기였어요.
+
+[IMAGE]
+
+## 원인 분석: 71% 점유하고도 왜 못 이겼을까
+
+① 공격의 두 축이 전반에 사라졌어요
+뮌헨은 이미 디아스·그나브리 없이 경기에 나섰어요. 여기서 케인과 올리세까지 빠지자 최전방에 비쇼프, 오른쪽에 빈더가 섰어요. 박스 안에서 마무리해 줄 선수가 없어지자 슈팅이 바깥으로 밀려났어요. 뮌헨 슈팅 17개 중 11개가 박스 밖이었어요.
+② 쾰른 5백을 깨는 '전진 패스'가 부족했어요
+쾰른은 3-5-1-1로 서서 수비할 땐 양쪽 윙백까지 내려와 5백을 만들었어요. 뮌헨은 패스를 786개나 했지만 대부분이 5백 앞에서 옆으로 도는 패스였어요. 수비 라인에서 한 번에 라인 사이로 찔러 줄 선수가 필요했는데, 그게 프리뷰에서 말씀드린 김민재의 장점이었어요.
+③ 쾰른은 적게 쏘고 확실하게 쐈어요
+쾰른 슈팅은 6개뿐이었지만 박스 밖 슈팅이 하나도 없었고, 기대득점은 1.85로 뮌헨(0.98)보다 높았어요. 높은 라인을 세운 뮌헨 뒤로 무어·엘말라가 달려 들어가는 역습 한두 번이 뮌헨의 슈팅 17개보다 위협적이었어요.
+
+[IMAGE]
+
+## 김민재: 왜 선발이 아니었고, 다음은 언제일까
+
+콤파니 감독은 복귀전 센터백으로 타·우파메카노를 골랐어요. 키커가 경기 전 예상한 그대로예요(인터풋볼 인용). 대행 체제 5경기 4승 1무 흐름을 바꾸지 않겠다는 선택이에요.
+김민재가 들어간 이유도 분명해요. 우파메카노가 62분 경고를 받았고, 콤파니 감독은 70분에 그를 빼고 김민재를 넣었어요. 퇴장 위험을 막는 안정 카드였다는 뜻이에요.
+이번 시즌 리그 10경기에서 김민재는 선발 4경기, 교체 2경기예요. 도하에서 17일 밤까지 뛰고 돌아온 만큼 쾰른전은 관리 성격도 있었다고 봐요.
+
+[IMAGE]
+
+## 관전 포인트: 다음 경기에서 확인할 것
+
+뮌헨 쪽에서 보면
+· 케인 없이 누가 골을 넣을까요? 케인은 3~4개월 빠져요. 26일(목) 새벽 릴 원정 챔스부터 비쇼프·무시알라 중심으로 공격을 새로 짜야 해요.
+· 콤파니 감독은 리그와 챔스에서 센터백을 돌려 쓸까요? 우파메카노가 이번 경기에서 경고를 받은 만큼 릴전 선택이 주목돼요.
+쾰른 쪽에서 보면
+· 무어·엘말라 역습이 원정에서도 통한다는 걸 보여줬어요. 원정 무승(4경기)을 끊진 못했지만 승점 1은 큰 수확이에요.
+· 5백으로 버티는 방식을 하위권 싸움에서도 계속 쓸까요?
+
+## 제임스의 생각
+
+· 제 예상은 반만 맞았어요. 김민재 교체 출전은 맞췄지만, 뮌헨 3-0 승리와 케인 득점은 틀렸어요. 케인이 20분 만에 발목 인대 파열로 쓰러질 줄은 몰랐어요.
+· 이번 경기는 '뮌헨에 전진 패스를 넣어 줄 센터백이 필요하다'는 걸 보여 준 경기라고 생각해요. 5백 상대로 옆 패스만 돌다 비긴 장면이 길었어요.
+· 그래서 26일(목) 릴 원정 챔스에선 김민재 선발을 다시 예상해요. 우파메카노 경고 관리, 원정 경기 성격을 생각하면 콤파니 감독이 돌려 쓸 타이밍이에요.
+
+여러분은 콤파니 감독이 김민재를 처음부터 썼다면 결과가 달랐을 거라고 보시나요? 댓글로 남겨 주세요!
+
+※ 경기 기록, 선수 평점, 선발 명단, 시즌 출전은 API-Football(경기 직후 기준)이에요. 평점은 이후 수정될 수 있어요. 키커 예상 명단은 인터풋볼, 대행 체제 성적은 포포투 보도를 참고했어요. 케인 부상과 수술은 뮌헨 구단 발표(11월 21일), 결장 전망은 디 애슬레틱·빌트·스카이 독일 보도(국내 매체 인용)예요. 썸네일은 AI 생성 이미지예요.
+
+#김민재 #김민재평점 #김민재쾰른전 #김민재쾰른전평점 #뮌헨쾰른 #바이에른뮌헨 #쾰른 #콤파니 #콤파니복귀 #케인 #케인부상 #올리세 #브라운 #우파메카노 #타 #엘말라 #분데스리가 #해외축구 #해축
