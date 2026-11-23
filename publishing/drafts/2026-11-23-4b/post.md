@@ -1,0 +1,91 @@
+---
+title: 페르민 동점골 뒤 퇴장, 바르사 비야레알 평점 3-2…0-2를 10분 만에 뒤집었지만 야말 PK는 이제 하피냐 몫일까
+category: 경기 리뷰·논평
+post_type: review
+style: classic
+summary: 바르셀로나가 홈에서 비야레알에 3-2 역전승을 거뒀어요. 7분 만에 두 골을 내주고 야말의 페널티킥까지 골대를 맞았지만, 후반 57분부터 10분 동안 제라르 마르틴·페르민·자책골로 3골을 몰아쳤어요. 동점골을 넣은 페르민은 교체된 뒤 퇴장을 당했어요. 슈팅 30 대 4가 나온 이유, 라리가 선두 경쟁, 사바 FK 원정에서 볼 것을 정리했어요.
+keywords: [바르사 비야레알 평점, 바르셀로나 비야레알, 페르민, 야말 페널티킥 실축]
+tags: [바르셀로나, 비야레알, 바르사비야레알, 바르사비야레알평점, 바르셀로나비야레알, 라리가, 페르민, 라민야말, 야말, 페드리, 하피냐, 제라르마르틴, 칸셀루, 플릭, 레알마드리드, 아틀레티코마드리드, 해외축구, 해축]
+sources: ["https://www.espn.com/soccer/story/_/id/50562953/barcelona-villarreal-la-liga-hansi-flick-refereeing", "https://www.espn.com/soccer/match/_/gameId/401882804/villarreal-barcelona", "https://www.interfootball.co.kr/news/articleView.html?idxno=699026", "http://www.footballist.co.kr/news/articleView.html?idxno=217186"]
+source_note: "API-Football(경기 기록·선수 평점·선발 명단·순위·다음 일정, 경기 직후 기준), ESPN 11월 22일(플릭 감독 인터뷰, 실점 장면, 페르민 퇴장 경위, 역전승 기록), 인터풋볼·풋볼리스트·포포투 11월 22~23일(경기 장면)"
+data_as_of: "2026-11-23 10:00 KST"
+images:
+  - file: 2026-11-23-바르사비야레알평점-fig-1.png
+    caption: 바르사 비야레알전 한눈에
+  - file: 2026-11-23-바르사비야레알평점-fig-2.png
+    caption: 바르사 비야레알 선수 평점
+  - file: 2026-11-23-바르사비야레알평점-fig-3.png
+    caption: 실제 선발 포메이션과 승부가 갈린 오른쪽
+  - file: 2026-11-23-바르사비야레알평점-fig-4.png
+    caption: 라리가 선두권 순위
+thumbnail_prompt: "Photorealistic football photo, LaLiga Sunday afternoon match at Spotify Camp Nou in Barcelona, bright natural autumn daylight, blurred stands full of Barça fans in blue and garnet waving scarves. Fermín López (페르민 로페스), the 23-year-old Spanish attacking midfielder of FC Barcelona, about 1.74 m, slim but sturdy athletic build, light olive Mediterranean skin, oval face with a defined jaw and slightly prominent cheekbones, dark brown eyes, thick straight dark eyebrows, straight medium nose, wide mouth with a big open smile, light dark stubble on the jaw and upper lip, dark brown hair cut short and faded at the sides with a longer textured top pushed up and slightly back. Shown from the front, three-quarter view, sprinting toward the camera just after scoring the equaliser, both fists clenched at chest height, mouth open shouting with joy, veins on his neck visible. He wears FC Barcelona's authentic 2026-27 Nike home matchday kit exactly as in real broadcast photos, not a plain or generic shirt: vertical blue and garnet (blaugrana) stripes, the white Nike swoosh on the right chest, the real FC Barcelona crest on the left chest, the white Spotify logo and 'Spotify' wordmark across the middle of the chest, the LaLiga badge on the right sleeve; dark blue shorts with the number 7, dark blue socks. Fabric with realistic folds and sweat. Behind him, blurred, a Villarreal player in the all-yellow kit (yellow shirt, yellow shorts, yellow socks) walks away with his head down. Realistic match moment only. Camera at waist height, framed from head to knees, he fills about 70% of the image height. Top fifth of the image dark for text. No other text in the image apart from the real kit sponsors, logos and shirt number. The face must closely resemble the real Fermín López. Vertical 4:5."
+thumbnail_text: ["실수→동점골→퇴장 페르민", "0-2 뒤집은 바르사"]
+thumbnail_file: "2026-11-23-바르사비야레알평점-썸네일-AI.png"
+threads_text: ""
+publish_at: ""
+---
+
+안녕하세요! 제임스입니다~
+
+바르셀로나가 홈 캄 노우에서 비야레알을 3-2로 이겼어요. 7분 만에 0-2로 끌려가고, 야말의 페널티킥까지 골대를 맞은 경기를 후반 10분 동안 세 골로 뒤집었어요.
+이 경기의 주인공은 페르민이에요. 첫 실점의 빌미가 된 패스 실수를 했고, 61분 동점골을 넣었고, 교체돼 나간 뒤엔 레드카드까지 받았어요.
+오늘은 바르사 비야레알 평점과 함께, 슈팅 30 대 4 경기에서 왜 두 골을 먼저 내줬고 어떻게 뒤집었는지 짚어 볼게요.
+
+[IMAGE]
+
+## 경기 흐름: 7분 만에 0-2, 후반 10분 만에 3골
+
+시작 5분 만에 페르민의 패스가 끊겼고, 뷰캐넌이 박스 밖에서 오른발로 선제골을 넣었어요. 2분 뒤엔 몰레이로의 역습 패스를 받은 올루와세이가 에릭 가르시아 뒤로 빠져 들어가 0-2를 만들었어요(ESPN).
+바르사는 23분 VAR 확인 끝에 페널티킥을 얻었지만, 야말의 왼발 슈팅이 오른쪽 골대를 맞았어요. 전반에만 슈팅을 쏟아냈지만 굴라치 골키퍼에게 계속 막혔어요.
+후반 57분 페드리의 코너킥을 제라르 마르틴이 헤더로 넣으며 추격이 시작됐어요. 61분엔 야말이 오른쪽에서 박스 안으로 들어가 반대편으로 침투한 페르민에게 패스했고, 페르민이 왼발로 동점을 만들었어요(포포투).
+67분엔 야말의 뒤꿈치 패스를 받은 에릭 가르시아가 문전으로 공을 보냈고, 파우 나바로가 자기 골문에 넣었어요(풋볼리스트). 나바로는 후반 추가시간 하피냐에게 반칙해 경고 누적으로 퇴장당했어요.
+페르민의 퇴장은 68분 교체된 뒤인 75분에 나왔어요. ESPN은 고든이 페널티킥을 요구하며 넘어진 장면에서 대기심에게 한 말 때문이라고 전했어요. 플릭 감독도 74분 항의로 경고를 받았어요.
+
+## 선수 평점: 칸셀루 7.82, 페드리 7.7
+
+API-Football 평점(경기 직후 기준)으로 바르사 최고는 칸셀루(7.82)예요. 키패스 6개로 왼쪽에서 계속 기회를 만들었어요.
+페드리는 7.7이에요. 패스 92개에 키패스 6개, 경합 8번 중 7번을 이겼어요. 플릭 감독은 "오늘이 페드리의 최고 경기 중 하나였다"고 했어요(ESPN).
+야말은 7.6이에요. 페널티킥을 놓쳤지만 슈팅 9개, 드리블 시도 9번으로 가장 많이 두드렸고 동점골을 도왔어요. 페르민은 6.75, 하피냐는 슈팅 1개에 그쳐 6.4였어요.
+
+[IMAGE]
+
+## 원인 분석: 바르사는 왜 먼저 무너지고, 어떻게 뒤집었을까
+
+① 초반 2실점은 '급조된 수비 라인'의 빈틈이었어요
+쿤데와 쿠바르시가 벤치에서 시작하면서, 미드필더인 더 용이 오른쪽 센터백, 에릭 가르시아가 오른쪽 수비수로 섰어요. 비야레알은 공을 뺏자마자 그 오른쪽 뒤로 바로 달렸고, 올루와세이가 정확히 그 공간에서 골을 넣었어요. 플릭 감독도 "공을 너무 오래 끌다 실수 두 번을 했고 두 골을 내줬다"고 인정했어요(ESPN). 비야레알의 슈팅은 경기 전체에서 4개, 기대득점은 0.17뿐이었어요. 찬스가 아니라 실수로 내준 두 골이었어요.
+② 후반엔 페드리를 중심으로 '구조'를 다시 잡았어요
+플릭 감독은 "후반엔 더 분명한 구조로 뛰었다"고 했어요. 왼쪽에서 페드리와 칸셀루가 키패스 12개를 합작했고, 바르사 점유율은 70%, 패스는 621개 대 276개였어요. 코너킥은 10 대 0이었고, 첫 골도 그 코너킥에서 나왔어요. 비야레알은 63분까지 경고 5장을 받으며 버텼어요. 65분 경고를 안고 있던 몰레이로와 카를로스 로메로를 뺐고, 2분 뒤 결승 자책골이 나왔어요.
+③ 결국 오른쪽 야말이 승부를 갈랐어요
+실점이 나온 바르사 오른쪽이 역전의 출발점이 됐어요. 야말은 비야레알 왼쪽의 몰레이로·카를로스 로메로를 계속 끌어당겼고, 그 사이로 페르민(2-2)과 에릭 가르시아(3-2)가 들어갔어요. 바르사 슈팅 30개 중 18개가 박스 안에서 나왔고 기대득점은 3.31이었어요. 다만 굴라치가 선방 7개를 했고, 슈팅 30개에 바르사 선수가 직접 넣은 골은 2골이라 결정력 숙제는 남았어요.
+
+[IMAGE]
+
+## 라리가 순위: 다시 3점 차, 아틀레티코는 5점 차 3위
+
+바르사는 13경기 12승 1패, 승점 36으로 선두를 지켰어요. 같은 날 새벽 레알 마드리드가 셀타를 2-1로 이겨 잠시 승점이 같아졌지만, 다시 3점 차로 벌렸어요. 골득실도 +36으로 레알(+22)보다 크게 앞서요.
+아틀레티코 마드리드는 오늘 새벽 헤타페 원정에서 바에나·카르도주의 골과 그리말도의 페널티킥으로 3-0 승리를 거두고 승점 31로 3위에 올랐어요. 바르사와는 5점 차예요. 바르사는 지난 9일 아틀레티코 원정도 2-1로 이겨 두 경쟁자를 모두 맞대결에서 한 번씩 만났는데, 레알에겐 지고(1-2) 아틀레티코는 꺾었어요.
+ESPN에 따르면 플릭 감독 체제에서 나온 24번째 역전승이고, 두 골 이상 뒤지다 뒤집은 건 6번째예요.
+
+[IMAGE]
+
+## 관전 포인트: 사바 FK 원정에서 볼 것
+
+바르사 쪽에서 보면
+· 26일(목) 새벽 2시 45분 아제르바이잔 바쿠에서 열리는 챔스 사바 FK 원정에서 페널티킥은 누가 찰까요? 플릭 감독은 "바꿀지 생각해 봐야겠다, 하피냐·야말과 이야기하겠다"고 했어요(ESPN).
+· 쿤데·쿠바르시가 선발로 돌아오고 더 용이 중원으로 돌아갈까요? 이번 실점 장면이 그 답을 재촉하고 있어요.
+· 페르민 퇴장의 라리가 징계는 아직 발표 전이에요. 30일(월) 새벽 데포르티보 원정에 그가 빠지면 2선은 올모·가비 쪽으로 넘어갈까요?
+비야레알 쪽에서 보면
+· 26일(목) 새벽 2시 45분 슬라비아 프라하 원정에서 챔스 2연패를 끊을 수 있을까요? 리그 페이즈 4경기 1승 3패이고, 직전 홈경기에선 PSG에 0-6으로 졌어요.
+· 슈팅 4개로 두 골을 넣은 역습은 통했어요. 하지만 수비 라인을 지키지 못한 후반 30분을 어떻게 고칠까요?
+
+## 제임스의 생각
+
+· 제 예상은 바르사 3-1 승리, 하피냐 골이었어요. 바르사 승리와 3득점은 맞았지만 스코어는 3-2였고, 하피냐는 슈팅 1개로 골이 없었어요. 비야레알 골을 미카우타제로 본 것도 틀렸어요. 쿤데 벤치, 쿠바르시 휴식은 맞혔지만, 올모의 교체 공격 포인트는 나오지 않았어요.
+· 저는 이번 경기의 진짜 주인공을 페드리로 봐요. 0-2에서 템포를 끌어올린 건 그의 패스였어요. 반대로 페르민은 실수·골·퇴장을 한 경기에 다 보여 줬어요.
+· 사바 FK 원정은 바르사 3-0 승리를 예상해요. 하피냐가 페널티킥 키커로 나서 골을 넣고, 쿤데가 선발로 돌아올 거라고 봐요.
+
+여러분은 바르사 페널티킥을 계속 야말에게 맡겨야 한다고 보시나요, 하피냐로 바꿔야 한다고 보시나요? 댓글로 남겨 주세요!
+
+※ 경기 기록, 선수 평점, 선발 명단, 순위, 다음 일정은 API-Football(경기 직후 기준, 순위는 11월 23일 10시)이에요. 평점은 이후 수정될 수 있어요. 실점 장면, 페르민 퇴장 경위, 플릭 감독 인터뷰, 역전승 기록은 ESPN(11월 22일), 경기 장면은 인터풋볼·풋볼리스트·포포투(11월 22~23일) 보도를 참고했어요. 썸네일은 AI 생성 이미지예요.
+
+#바르셀로나 #비야레알 #바르사비야레알 #바르사비야레알평점 #바르셀로나비야레알 #라리가 #페르민 #라민야말 #야말 #페드리 #하피냐 #제라르마르틴 #칸셀루 #플릭 #레알마드리드 #아틀레티코마드리드 #해외축구 #해축
