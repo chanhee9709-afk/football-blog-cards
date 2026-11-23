@@ -1,0 +1,100 @@
+---
+title: 이강인 헤타페전 평점 7.3, 킬패스 한 방으로 퇴장·PK 유도…아틀레티코 3-0 완승, 바이킹전 선발 되찾을까
+category: 경기 리뷰·논평
+post_type: review
+style: classic
+summary: 아틀레티코 마드리드가 헤타페 원정에서 3-0으로 이겼어요. 벤치에서 시작한 이강인은 하프타임에 들어가 45분을 뛰었고, 후반 막판 쇠를로트에게 찔러 준 침투 패스로 상대 퇴장과 페널티킥을 끌어냈어요. 이강인 헤타페전 평점과 함께 시메오네 감독이 왜 이강인을 벤치에 두고 미드필더 5명을 세웠는지, 후반 투입 뒤 무엇이 달라졌는지, 26일(목) 바이킹전 전망까지 정리했어요.
+keywords: [이강인 헤타페전 평점, 이강인 헤타페, 아틀레티코 헤타페, 이강인 킬패스]
+tags: [이강인, 이강인평점, 이강인헤타페전, 이강인헤타페전평점, 헤타페아틀레티코, 아틀레티코헤타페, 아틀레티코마드리드, 헤타페, 시메오네, 알바레스, 바에나, 카르도주, 쇠를로트, 그리말도, 라리가, 코리안리거, 해외축구, 해축]
+sources: ["https://www.interfootball.co.kr/news/articleView.html?idxno=699049", "http://www.footballist.co.kr/news/articleView.html?idxno=217198", "https://www.newsis.com/view/NISX20261123_0003878481", "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=101179", "https://www.interfootball.co.kr/news/articleView.html?idxno=699047"]
+source_note: "API-Football(경기 기록·선수 평점·선발 명단·순위·다음 일정, 경기 직후 기준), 국내 보도 11월 23일(인터풋볼: 스페인 매체 평가·시메오네 라리가 최다승, 풋볼리스트·포포투·뉴시스: 후반 막판 패스와 퇴장·PK 장면, 소파스코어 평점 인용, 중앙일보·조선일보: 풋몹 평점 인용, 스포츠조선: 시메오네 감독의 바에나 발언)"
+data_as_of: "2026-11-23 10:20 KST"
+images:
+  - file: 2026-11-23-이강인헤타페전평점-fig-1.png
+    caption: 헤타페 아틀레티코전 한눈에
+  - file: 2026-11-23-이강인헤타페전평점-fig-2.png
+    caption: 이강인 헤타페전 기록
+  - file: 2026-11-23-이강인헤타페전평점-fig-4.png
+    caption: 실제 선발 포메이션과 이강인의 후반 자리
+  - file: 2026-11-23-이강인헤타페전평점-fig-3.png
+    caption: 이강인 최근 출전 시간
+thumbnail_prompt: "Photorealistic football photo, LaLiga night match at the Coliseum Alfonso Pérez in Getafe, Madrid, bright floodlights, blurred compact stands full of Getafe fans in blue. Lee Kang-in (이강인), the 25-year-old South Korean attacking midfielder of Atlético de Madrid, about 1.73 m, compact athletic and sturdy build (not skinny), left-footed, light tan East Asian skin, small slim V-jaw face, almond single-lid eyes, thin straight brows, soft fringe to the brows, clean-shaven, calm and focused expression. His hair: straight, thick, layered dark brown-black hair with a faint warm brown tint: full and rounded on top with plenty of soft volume, side hair falling over the upper half of his ears, the back neatly trimmed at the nape in a soft natural taper with hair still covering the whole back of the head, slightly tousled. NOT short, NOT flat, NOT a bowl cut, NOT wavy or long, no buzz cut, no undercut, no shaved or faded sides. Shown from the front in a three-quarter view near the halfway line in the centre of the pitch, having just turned with the ball, striking a long through pass with his LEFT foot, body leaning over the ball, eyes up toward a teammate running in behind. He wears Atlético de Madrid's authentic 2026-27 Nike home matchday kit exactly as in real broadcast photos, not a plain or generic shirt: red-and-white vertical striped shirt with a dark navy collar, the white Nike swoosh on the right chest, the real Atlético de Madrid crest on the left chest, the 'Riyadh Air' sponsor text across the middle of the chest, the Hyundai sponsor patch on the left sleeve and the LaLiga badge on the right sleeve; navy blue shorts with the number 7, red socks with navy tops. Fabric with realistic folds and sweat. Behind him, blurred, a Getafe midfielder in Getafe's all-blue home kit (blue shirt, blue shorts, blue socks) tries to close him down. Realistic match moment only. Camera at waist height, framed from head to knees, he fills about 70% of the image height. Top fifth of the image dark night sky for text. No other text in the image apart from the real kit sponsors, logos and shirt number. The face must closely resemble the real Lee Kang-in. Vertical 4:5."
+thumbnail_text: ["이강인 킬패스로 퇴장·PK", "45분 만에 증명했다"]
+thumbnail_file: "2026-11-23-이강인헤타페전평점-썸네일-AI.png"
+threads_text: ""
+publish_at: ""
+---
+
+안녕하세요! 제임스입니다~
+
+아틀레티코 마드리드가 헤타페 원정에서 3-0으로 이겼어요. 시메오네 감독은 이 승리로 라리가 통산 최다승 감독이 됐어요(인터풋볼).
+이강인은 예상대로 벤치에서 시작했어요. 하프타임에 카르도주 대신 들어가 45분을 뛰었고, 후반 막판 한 번의 침투 패스로 상대 퇴장과 페널티킥을 끌어냈어요.
+오늘은 이강인 헤타페전 평점과 함께, 시메오네 감독이 왜 이강인을 빼고 미드필더 5명을 세웠는지, 이강인이 들어간 뒤 무엇이 달라졌는지 짚어 볼게요.
+
+[IMAGE]
+
+## 경기 흐름: 전반 2골로 끝낸 아틀레티코
+
+시메오네 감독은 투톱 대신 알바레스 원톱의 4-1-4-1을 꺼냈어요. 코케가 수비 앞을 지키고, 바에나·카르도주·바리오스·줄리아노 시메오네가 그 앞에 섰어요.
+경기 초반엔 헤타페가 먼저 두드렸어요. 3분 모히카의 크로스를 아손이 머리로 받았지만 골문을 벗어났어요(스타뉴스).
+흐름은 10분에 바뀌었어요. 알바레스의 패스를 받은 바에나가 선제골을 넣었고, 30분엔 카르도주가 골키퍼가 놓친 공을 밀어 넣어 2-0을 만들었어요(매일일보). 두 골 모두 알바레스의 도움이에요.
+하프타임에 시메오네 감독은 경고가 있던 카르도주를 빼고 이강인을 넣었어요. 후반엔 쇠를로트(75분)까지 들어갔고, 후반 막판 이강인의 패스에서 나온 페널티킥을 그리말도가 넣어 3-0으로 끝났어요.
+아틀레티코는 점유율 68%, 슈팅 20개(유효 10개), 기대득점 4.13을 기록했어요. 헤타페의 유효 슈팅은 1개뿐이었어요.
+
+## 이강인 평점: 소파스코어 7.3, API 7.0
+
+API-Football 평점(경기 직후 기준)으로 이강인은 7.0이에요. 국내 보도에 따르면 소파스코어는 7.3을 줬고, 교체로 들어간 선수 중 가장 높았어요(뉴시스). 풋몹은 6.9였어요(중앙일보).
+45분 동안 패스 23개 중 21개(91%)를 성공했고, 키패스 2개, 슈팅 2개, 경합 5번 중 4번 승리, 파울 유도 3번을 기록했어요.
+스페인 현지 평가는 엇갈렸어요. 한 매체는 평점 7점과 함께 "슈팅과 크로스로 여러 차례 상대 골문을 공략했다"고 했고, 아틀레티코 전문 매체 '인투 더 칼데론'은 6.5점을 주며 "쇠를로트에게 두 차례 훌륭한 기회를 만들어 줬지만 노르웨이 공격수가 모두 살리지 못했다"고 평가했어요(인터풋볼, 마이데일리).
+전반 MVP는 알바레스(8.39)와 바에나(8.2)였어요. 알바레스는 75분까지 뛰며 2도움을 올렸어요.
+
+[IMAGE]
+
+## 결정적 장면: 하프라인에서 돌아선 한 번의 패스
+
+장면은 후반 42분쯤 나왔어요. 이강인이 하프라인 중앙에서 공을 받아 빠르게 돌아선 뒤, 수비 뒤로 뛰는 쇠를로트에게 전진 패스를 찔렀어요(풋볼리스트).
+쇠를로트가 골문으로 달려가는 순간 헤타페 수비수 다코남이 손으로 밀어 넘어뜨렸어요. 주심은 온필드 리뷰 끝에 다코남을 퇴장시키고 페널티킥을 줬어요(마니아리포트, 뉴시스). 공격포인트로 기록되진 않지만, 쐐기골의 출발점은 이강인의 왼발이었어요.
+그 3분 전에도 이강인은 비슷한 패스로 쇠를로트에게 기회를 만들었어요. 후반 9분엔 왼발 중거리 슈팅으로 골문을 위협했어요(인터풋볼).
+
+## 원인 분석: 시메오네는 왜 이강인을 벤치에 뒀을까
+
+① 미드필더 5명으로 '먼저 안 내주는' 경기를 골랐어요
+헤타페는 이번 시즌 홈 6경기 무패(3승 3무)였고 4실점뿐이었어요. 시메오네 감독은 이 경기에서 투톱을 버리고 미드필더를 한 명 늘렸어요. 수비할 땐 4-5-1로 내려앉아 헤타페의 4-4-2를 막고, 공을 뺏으면 알바레스 한 명에게 빠르게 연결했어요(베스트일레븐). 이강인이 가장 잘하는 '투톱 아래 프리롤' 자리가 이 형태엔 없어요.
+② A매치 뒤 체력 관리도 겹쳤어요
+이강인은 11월 A매치를 다녀온 지 며칠 되지 않았어요. 최근엔 선발로 나가도 60분 안팎에서 교체되는 경기가 이어졌고(포포투), 이번엔 아예 후반 45분을 맡겼어요. 사흘 뒤 챔피언스리그 바이킹전을 생각하면 '벤치 휴식'의 의미도 있어 보여요. 이건 제 해석이에요.
+③ 들어가자 역할이 '조율'에서 '마지막 패스'로 바뀌었어요
+이강인은 카르도주의 왼쪽 중앙 자리로 들어갔지만, 2-0으로 앞선 뒤라 아틀레티코는 수비 라인을 내리고 역습을 노렸어요. 이강인이 하프라인 근처에서 돌아서서 한 번에 뒤 공간으로 보내는 장면이 많았던 이유예요. 특히 75분 장신 공격수 쇠를로트가 들어간 뒤 두 선수의 궁합이 좋았다는 평가가 나왔어요(풋볼리스트). 알바레스처럼 발밑으로 받는 공격수가 아니라 뒤 공간으로 뛰는 공격수가 앞에 있을 때 이강인의 패스가 더 살아났어요.
+반대로 보면 아쉬움도 분명해요. 이강인의 리그 공격포인트는 여전히 2골 1도움에서 멈춰 있어요. 기회를 두 번 만들었지만 숫자로 남지 않았어요.
+
+[IMAGE]
+
+## 이강인 흐름: 선발 60분, 교체 30분 패턴
+
+최근 9경기를 보면 이강인은 선발로 나가면 60~67분, 교체로 들어가면 30분 안팎을 뛰었어요. 헤타페전 45분은 그 중간이에요.
+선발 자리는 줄어들지 않았지만, 시메오네 감독이 상대에 따라 4-1-4-1과 투톱을 오가며 이강인을 쓰는 방식은 분명해졌어요. 경기 뒤 시메오네 감독은 바에나에 대해 "그리즈만이 떠나며 남긴 몫을 짊어지고 있다"고 말했어요(스포츠조선). 공격 2선의 중심이 지금은 바에나라는 뜻이에요.
+아틀레티코는 10승 1무 2패(승점 31)로 3위예요. 1위 바르사(36점)와 5점, 2위 레알(33점)과 2점 차이에요.
+
+[IMAGE]
+
+## 관전 포인트: 26일(목) 바이킹전에서 볼 것
+
+아틀레티코 쪽에서 보면
+· 이강인이 바이킹전에 선발로 돌아올까요? 헤타페전에서 45분만 뛴 만큼 체력은 남아 있어요.
+· 아틀레티코는 챔피언스리그 4경기 1승 1무 2패, 승점 4로 23위예요. 바이킹전을 놓치면 녹아웃 플레이오프 자리도 위험해져요. 시메오네 감독이 홈에서 투톱으로 공격적으로 나설까요?
+· 사흘 뒤 29일(일) 엘체 원정, 12월 3일(목) 바르사 원정까지 이어지는 일정에서 이강인을 어느 경기에 쓸까요?
+헤타페와 바이킹 쪽에서 보면
+· 헤타페는 이번 패배로 승점 12, 17위에 머물렀어요. 다코남 퇴장 공백을 어떻게 메울까요?
+· 바이킹 역시 챔스 승점 4(22위)로 아틀레티코와 같아요. 원정에서 버티는 축구로 승점 1을 노릴까요?
+
+## 제임스의 생각
+
+· 제 예상은 아틀레티코 2-0 승리였어요. 결과는 3-0으로 방향은 맞았고 한 골 더 났어요. 이강인 벤치 출발은 맞았지만, 투입은 제가 본 후반 15~20분보다 이른 하프타임이었어요.
+· '알바레스 선제골'은 틀렸어요. 알바레스는 골 대신 2도움을 올렸어요. '이강인이 쐐기골을 돕는다'는 예상은 반쯤 맞았어요. 쐐기골(PK)의 출발점이 이강인의 패스였지만 기록상 도움은 아니에요.
+· 저는 이 경기를 '교체 이강인'의 쓰임새를 보여 준 경기로 봐요. 앞선 경기에서 상대가 지친 뒤, 뒤 공간으로 뛰는 공격수와 함께 쓰면 한 번의 패스로 경기를 끝낼 수 있어요.
+· 26일(목) 새벽 5시 바이킹전은 이강인 선발을 다시 예상해요. 쇠를로트와 투톱, 이강인 그 아래 자리예요. 스코어는 아틀레티코 2-0, 이강인의 시즌 2호 도움을 기대해 볼게요.
+
+여러분은 이강인이 선발보다 교체로 들어갈 때 더 위협적이라고 보시나요? 댓글로 남겨 주세요!
+
+※ 경기 기록, 선수 평점, 선발 명단, 순위, 다음 일정은 API-Football(경기 직후 기준)이에요. 평점은 이후 수정될 수 있어요. 소파스코어 평점은 뉴시스·뉴데일리, 풋몹 평점은 중앙일보·조선일보(11월 23일) 보도를 인용했어요. 후반 막판 패스와 퇴장·PK 장면은 풋볼리스트·마니아리포트·포포투(11월 23일), 스페인 매체 평가는 인터풋볼·마이데일리(11월 23일), 시메오네 감독 발언은 스포츠조선(11월 23일), 시메오네 감독 라리가 최다승은 인터풋볼(11월 23일) 보도를 참고했어요. 이강인의 후반 자리는 교체 상황과 보도를 바탕으로 한 제 해석이에요. 썸네일은 AI 생성 이미지예요.
+
+#이강인 #이강인평점 #이강인헤타페전 #이강인헤타페전평점 #헤타페아틀레티코 #아틀레티코헤타페 #아틀레티코마드리드 #헤타페 #시메오네 #알바레스 #바에나 #카르도주 #쇠를로트 #그리말도 #라리가 #코리안리거 #해외축구 #해축
