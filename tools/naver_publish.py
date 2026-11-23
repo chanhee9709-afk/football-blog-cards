@@ -152,11 +152,13 @@ def insert_safely(page, text):
     """Insert text in small chunks and wait until the caret paragraph really ends with it before going on."""
     for i in range(0, len(text), CHUNK):
         page.keyboard.insert_text(text[i:i + CHUNK])
-        page.wait_for_timeout(60)
-    tail = text.strip()[-12:]
-    for _ in range(50):  # up to ~5 s
+        page.wait_for_timeout(30)
+    # compare without any whitespace: SmartEditor stores spaces as nbsp, which made the check miss and wait the full timeout on every line (slow)
+    squash = lambda x: "".join(x.replace("\u200b", "").split())
+    tail = squash(text)[-10:]
+    for _ in range(20):  # up to ~2 s
         t = caret_text(page)
-        if t is None or t.replace("\u200b", "").rstrip().endswith(tail):
+        if t is None or squash(t).endswith(tail):
             break
         page.wait_for_timeout(100)
     page.wait_for_timeout(TYPE_PAUSE)
