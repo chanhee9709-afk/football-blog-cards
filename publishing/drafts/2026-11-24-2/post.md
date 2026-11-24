@@ -1,0 +1,108 @@
+---
+style: classic
+title: 브루노 친정 스포르팅 맨유 프리뷰, 쿠냐 징계·원정 0승…포체티노 챔스 첫판에 부진의 늪 탈출할까
+category: 일정·프리뷰
+post_type: preview
+summary: 26일(목) 새벽 5시 맨유가 리스본에서 스포르팅과 챔피언스리그 리그 페이즈 5차전을 치러요. 포체티노 감독의 첫 챔스 경기이자, 11월 초 부임한 스포르팅 폰세카 감독의 첫 챔스 경기예요. 맨유가 최근 8경기 22실점으로 무너진 이유를 수치로 짚고, 쿠냐 징계와 요로 출전 여부, 스포르팅 홈 성적과 수아레스, 예상 선발과 스코어까지 정리했어요.
+keywords: [스포르팅 맨유, 스포르팅 맨유 프리뷰, 포체티노 챔피언스리그, 브루노 페르난데스]
+tags: [스포르팅맨유, 스포르팅맨유프리뷰, 챔피언스리그, UCL, 맨유, 스포르팅, 포체티노, 폰세카, 브루노페르난데스, 쿠냐징계, 요로, 루이스수아레스, 음뵈모, 마이누, 이란쿤다, 리스본, 해외축구, 해축]
+sources: ["https://www.skysports.com/football/news/13611443/mauricio-pochettino-to-man-utd-what-does-a-pochettino-team-look-like-and-how-will-he-set-up-struggling-red-devils", "https://www.skysports.com/football/news/13615539/manchester-united-to-appeal-leny-yoros-red-card-as-ex-pl-referee-dermot-gallagehr-casts-his-verdict", "https://www.espn.com/soccer/story/_/id/50572590/man-united-leny-yoro-red-card-liverpool-premier-league", "https://www.espn.com/soccer/story/_/id/50571320/man-united-relegation-battle-jamie-carragher-gary-neville-roy-keane", "https://www.besteleven.com/news/articleView.html?idxno=313771", "http://www.hansbiz.co.kr/news/articleView.html?idxno=886233", "https://www.rtp.pt/noticias/mundo/paulo-fonseca-sucede-a-rui-borges-no-sporting_d1776152"]
+source_note: "API-Football(UCL 순위·경기 결과·기대득점·선수 기록·부상과 징계 명단·최근 선발·다음 일정, 11월 24일 기준), 스카이스포츠 11월 14일(포체티노 전술 성향, 맨유 활동량 19위)·11월 23일(요로 퇴장 항소), ESPN 11월 23일(요로 항소, 캐러거·네빌 평가), 베스트일레븐(쿠냐 UCL 1경기 징계), 한스경제 11월 23일(UCL 5차전 판도), RTP(폰세카 스포르팅 부임)"
+data_as_of: "2026-11-24 06:30 KST"
+images:
+  - file: 2026-11-24-스포르팅맨유프리뷰-fig-1.png
+    caption: 스포르팅 맨유전 한눈에
+  - file: 2026-11-24-스포르팅맨유프리뷰-fig-2.png
+    caption: 맨유 앞 8경기와 뒤 8경기 비교
+  - file: 2026-11-24-스포르팅맨유프리뷰-fig-3.png
+    caption: 스포르팅 이번 시즌 홈 10경기
+  - file: 2026-11-24-스포르팅맨유프리뷰-fig-5.png
+    caption: 두 팀 공격 포인트 비교
+  - file: 2026-11-24-스포르팅맨유프리뷰-fig-4.png
+    caption: 예상 선발 포메이션 맞대결
+thumbnail_prompt: "Photorealistic football photo, UEFA Champions League night match at the Estádio José Alvalade in Lisbon, Portugal, late November, bright floodlights, blurred stands full of Sporting CP fans in green and white with green-and-white scarves. Bruno Fernandes (브루노 페르난데스), the 32-year-old Portuguese attacking midfielder and captain of Manchester United, about 1.79 m, lean athletic build, light olive Mediterranean skin, long narrow face with defined cheekbones and a slightly pointed chin, deep-set dark brown eyes under thick dark straight eyebrows, a prominent straight nose, thin lips, short dark-brown stubble beard along the jaw and upper lip, short dark-brown hair: neatly faded short on the sides and back, a little longer and textured on top, pushed up and slightly back at the front. Shown from the front, facing the camera straight on, in midfield with the ball at his right foot, head up, left arm stretched forward pointing to direct a teammate, determined, intense expression. He wears Manchester United's authentic 2026-27 adidas away matchday kit exactly as in real broadcast photos, not a plain or generic shirt: royal blue shirt with a subtle embossed tonal wave pattern across the body, a V-neck collar with red and white trim, three red adidas stripes running over the shoulders, the white adidas Trefoil logo on the right chest, the real Manchester United crest on the left chest, the white 'Snapdragon' sponsor text across the middle of the chest (the current Man Utd shirt sponsor; NOT TeamViewer, no TeamViewer logo anywhere), the UEFA Champions League starball badge on the right sleeve, a captain's armband on his left arm; royal blue shorts with red detailing and the number 8, royal blue socks with red detailing. The name 'FERNANDES' is printed on the back of his shirt (not visible from this angle). Fabric with realistic folds and sweat. Behind him, blurred, a Sporting CP player in the green-and-white horizontal hooped home shirt and black shorts closes him down. Realistic match moment only. Camera at waist height, framed from head to knees, he fills about 70% of the image height. Top fifth of the image dark night sky and floodlight glow for text. No other text in the image apart from the real kit sponsors, logos and shirt number. Absolutely no national flags. The face must closely resemble the real Bruno Fernandes. Vertical 4:5."
+thumbnail_text: ["브루노의 친정 리스본", "맨유, 원정 0승 끊을까?"]
+thumbnail_file: "2026-11-24-스포르팅맨유프리뷰-썸네일-AI.png"
+threads_text: ""
+publish_at: ""
+---
+
+안녕하세요! 제임스입니다~
+
+26일(목) 새벽 5시, 맨유가 포르투갈 리스본에서 스포르팅과 챔피언스리그 리그 페이즈 5차전을 치러요. 리버풀 원정 0-4 다음 경기예요.
+이번 경기는 두 새 감독의 첫 챔스 경기예요. 맨유는 포체티노 감독이 데뷔전을 치른 지 나흘 만이고, 스포르팅도 11월 초 후이 보르즈스 감독과 결별하고 파울루 폰세카 감독을 데려왔어요(RTP).
+여기에 브루노 페르난데스가 2020년 1월까지 뛴 친정 조제 알발라드로 돌아가요. 스포르팅 맨유 프리뷰, 리버풀전 이야기는 지난 평점 글에 맡기고 오늘은 그 다음 경기만 봐요.
+
+[IMAGE]
+
+## 경기 정보: 스포르팅 맨유, UCL 10위 vs 17위
+
+리그 페이즈는 팀당 8경기를 치르고 8위까지 16강에 바로 가요. 9위부터 24위는 플레이오프로 가요.
+스포르팅은 3승 1패(8득 4실), 승점 9로 10위예요. 맨유는 2승 2패(8득 8실), 승점 6으로 17위예요. 승점 9인 팀이 4위부터 12위까지 9팀이 몰려 있어서, 맨유가 이기면 바로 그 무리에 들어가요(한스경제).
+맨유의 남은 일정은 12월 9일(수) 라이프치히(30위), 1월 21일(목) 바이에른(13위)과 홈에서 붙고, 1월 28일(목) 비야레알(28위) 원정으로 끝나요. 스포르팅은 로마 원정, 바르셀로나 홈, 맨시티 원정이 남아 있어 남은 길이 더 험해요.
+리그 사정도 달라요. 맨유는 EPL 19위(승점 8)로 리그 9경기째 이기지 못했고, 스포르팅은 포르투갈 3위(승점 24)지만 11전 전승 선두 포르투와 9점 차예요.
+
+## 결장자: 쿠냐는 징계, 요로는 출전 가능
+
+맨유의 가장 큰 공백은 쿠냐예요. 11월 4일 로마전에서 2골을 넣고도 90분에 두 번째 경고로 퇴장당했어요. UEFA는 추가 징계 없이 이번 스포르팅전 1경기만 출장 정지로 정했어요(베스트일레븐). 쿠냐는 이번 대회 맨유 8골 중 3골을 넣은 선수예요.
+요로는 뛸 수 있어요. 리버풀전 퇴장은 프리미어리그 징계라 챔피언스리그와는 상관없어요. 맨유는 이 퇴장에 대해 잉글랜드축구협회(FA)에 항소하겠다고 알렸어요(ESPN·스카이스포츠, 11월 23일). 10월 아틀레티코전 챔스 퇴장 징계는 코모전 결장으로 이미 채웠어요.
+API-Football 부상 명단(11월 24일 기준)에선 셰슈코(다리), 발레바(허벅지), 우가르테(무릎)와 백업 골키퍼 1명(근육)이 빠져요. 래시포드(엉덩이)와 쇼(근육)는 출전이 불투명해요.
+스포르팅은 수비수 데바스트와 왼쪽 자원 누누 산투스(무릎)가 빠지고, 나머지 주전은 대부분 뛸 수 있어요.
+
+## 원인 분석: 맨유는 왜 이렇게 무너졌을까
+
+[IMAGE]
+
+① 10월 중순부터 수비가 한꺼번에 무너졌어요
+API-Football 기록으로 맨유의 모든 대회 16경기를 반으로 나눠 보면 차이가 뚜렷해요. 첫 8경기는 2승 3무 3패, 12실점이었고 상대 기대득점(xG)은 경기당 1.32였어요. 10월 13일 아틀레티코전부터 최근 8경기는 1승 2무 5패, 22실점이고 상대 xG가 경기당 2.36까지 올랐어요. 상대에게 내주는 기회의 질이 거의 두 배가 된 거예요.
+② 퇴장 4장이 경기를 연달아 망쳤어요
+첫 8경기 퇴장은 0장이었는데, 최근 8경기는 4장이에요. 요로(아틀레티코전 74분), 리산드로(첼시전), 쿠냐(로마전 90분), 요로(리버풀전 8분)예요. 아틀레티코전과 리버풀전은 퇴장 뒤 실점했고, 쿠냐 퇴장은 이번 경기 결장으로 이어졌어요. 수비 라인이 뒤 공간을 버티지 못해 마지막 수비수가 반칙으로 막는 장면이 되풀이됐어요.
+③ 뛰는 양과 나이가 압박 축구와 맞지 않아요
+스카이스포츠(11월 14일)는 맨유가 이번 시즌 EPL 활동량 19위이고, 선발 평균 나이가 리그에서 가장 많은 편이라고 짚었어요. 포체티노 감독은 높은 압박과 빠른 전진 패스가 특징인데, 지금 선수단으로 그 강도를 바로 내긴 어렵다는 평가예요. 그래서 원정이 특히 약해요. 맨유는 이번 시즌 원정 8경기에서 0승 3무 5패, 5득 18실이에요.
+제이미 캐러거는 "맨유를 상대로 쉬운 팀은 없다"고 했고, 게리 네빌도 "강등권 싸움은 아니라고 보지만 지금 경기력은 믿음을 주지 못한다"고 했어요(ESPN, 11월 23일).
+
+## 상대 분석: 폰세카의 스포르팅, 홈 강점과 약점
+
+[IMAGE]
+
+스포르팅은 이번 시즌 조제 알발라드 공식전 10경기에서 7승 1무 2패, 23득 12실이에요. 홈 개막 5경기 무패였다가 10월 LASK 린츠(UCL 2-3), 아카데미쿠 비제우(리그 1-2)에 나흘 사이 연달아 졌어요.
+그런데 두 패배 모두 경기를 쥐고 진 경기예요. LASK전은 xG 3.24 대 1.12, 비제우전은 슈팅 28개 대 9개였어요. 스포르팅이 공을 오래 잡고 몰아치다가 역습 한두 번에 무너진 거예요. 수비를 촘촘히 세우고 빠르게 넘어가는 팀이 스포르팅 홈에서 기회를 잡을 수 있다는 뜻이에요.
+폰세카 감독 부임 뒤엔 2경기 5득 무실점이에요. 리그 모레이렌스전 1-0에서 4-3-3을 썼고, 점유율 71%에 슈팅 19개를 기록했어요.
+폰세카 감독은 맨유와 인연도 있어요. 2021년 유로파리그 4강에서 AS 로마를 이끌고 맨유를 만나 합계 5-8로 졌어요. 그때 맨유 홈 6-2 승리에서 2골을 넣은 선수가 브루노예요.
+
+[IMAGE]
+
+스포르팅 공격의 중심은 콜롬비아 공격수 루이스 수아레스예요. 이번 시즌 공식전 15경기 13골이고, 챔피언스리그 4경기에선 팀 8골 중 4골을 넣었어요. 오른쪽 카타모는 3골 4도움, 20세 왼쪽 윙어 이란쿤다는 폰세카 감독 첫 경기에서 선발로 나왔어요.
+맨유에선 브루노가 6골 3도움으로 가장 많은 공격 포인트를 올렸어요. 쿠냐(4골 2도움)가 빠지면 브루노와 음뵈모 둘에게 골이 더 몰릴 수밖에 없어요.
+
+## 포르투갈 원정: 브루노의 친정, 아모림 이야기는 짧게
+
+브루노는 2017년 여름부터 2020년 1월까지 스포르팅에서 뛰고 맨유로 왔어요. 이번 경기에선 친정 팬들 앞에서 주장 완장을 차고 나설 가능성이 커요.
+스포르팅에서 맨유로 온 아모림 감독 이야기도 있었지만, 그는 이미 맨유를 떠나 지금은 AC 밀란을 이끌어요. 이번 경기의 주인공은 두 새 감독이에요.
+포르투갈 원정 자체는 맨유에게 부담이에요. 이번 시즌 원정 0승에, 리버풀 원정 뒤 나흘 만의 경기이고, 사흘 뒤인 29일(일) 0시엔 브렌트퍼드와의 리그 홈 경기가 기다려요. 스포르팅도 30일(월) 새벽 5시 30분 선두 포르투 원정이 있어서, 폰세카 감독 역시 선발 일부를 아낄 수 있어요.
+
+[IMAGE]
+
+## 관전 포인트: 스포르팅 맨유전, 포체티노는 무엇을 바꿀까
+
+맨유 쪽에서 보면
+· 포체티노 감독은 스리백을 접고 4-2-3-1로 돌아갈까요? 스카이스포츠는 그가 사우샘프턴·토트넘·첼시에서 주로 4-2-3-1을 썼다고 정리했어요. 리버풀전 스리백은 더리흐트의 첫 판단 실수에서 무너졌어요.
+· 수비 라인을 얼마나 높일까요? 높은 라인을 쓰려면 요로·리산드로의 회복 속도가 필요해요. 리버풀전처럼 긴 공 하나에 뒤가 열리면 수아레스는 그 공간을 놓치지 않는 공격수예요.
+· 빌드업은 짧게 갈까요, 길게 갈까요? 라멘스의 긴 패스로 넘기면 쿠냐·셰슈코가 없는 최전방에서 공을 지켜 줄 선수가 마땅치 않아요. 마이누·틸레만스가 내려와 짧게 풀고 브루노가 사이 공간에서 받는 그림이 더 현실적이에요.
+스포르팅 쪽에서 보면
+· 수아레스가 챔스 5호 골을 넣을까요? 4골 중 2골이 페널티킥이에요. 최근 8경기 퇴장 4장인 맨유 수비가 박스 안에서 손을 대는 순간이 가장 위험해요.
+· 홈에서 또 역습에 당할까요? LASK·비제우전처럼 공을 오래 쥐다가 뒤를 내주면, 음뵈모·아마드의 속도가 맨유의 유일한 무기가 돼요.
+
+## 제임스의 예상
+
+· 스코어는 지난 리버풀전 평점 글의 예상대로 스포르팅의 2-1 승리를 유지해요. 맨유가 리버풀전보다는 단단해지겠지만, 쿠냐까지 빠진 공격으로 원정에서 두 골을 넣긴 어렵다고 봐요.
+· 맨유 골은 브루노가 넣을 것 같아요. 친정에서 이번 대회 3번째 골이에요. 스포르팅 골은 수아레스가 먼저 넣고, 결승골은 후반 교체로 들어온 선수에게서 나올 거라고 봐요.
+· 포체티노 감독은 4-2-3-1로 돌아가고, 수비 라인은 리버풀전보다 한 칸 내려 중간 높이로 설 거라고 예상해요. 오른쪽 수비는 달로 대신 마즈라위가 나서고, 센터백은 요로·리산드로예요.
+· 최전방은 음뵈모, 왼쪽엔 레이시를 깜짝 선발로 꼽아요. 스카이스포츠가 짚은 '젊은 에너지' 카드이고, 쿠냐 자리를 가장 빠르게 메울 선수라고 봐요.
+· 변수는 퇴장이에요. 최근 8경기 4장인 맨유가 이번에도 10명이 되면 점수 차는 더 벌어질 수 있어요.
+
+여러분은 포체티노 감독이 첫 챔스 경기에서 4-2-3-1로 돌아갈 거라고 보시나요? 맨유가 리스본에서 승점을 가져올 수 있을지 댓글로 남겨 주세요!
+
+※ UCL 순위, 경기 결과, 기대득점, 선수 기록, 부상과 징계 명단, 최근 선발과 다음 일정은 API-Football(11월 24일 오전 기준)이에요. 포체티노 감독의 전술 성향과 맨유 활동량 순위는 스카이스포츠(11월 14일), 요로 퇴장 항소는 ESPN·스카이스포츠(11월 23일), 캐러거·네빌 발언은 ESPN(11월 23일), 쿠냐 징계는 베스트일레븐, 5차전 판도는 한스경제(11월 23일), 폰세카 감독 부임은 RTP 보도예요. 예상 선발은 제 예상이고, 썸네일은 AI 생성 이미지예요.
+
+#스포르팅맨유 #스포르팅맨유프리뷰 #챔피언스리그 #UCL #맨유 #스포르팅 #포체티노 #폰세카 #브루노페르난데스 #쿠냐징계 #요로 #루이스수아레스 #음뵈모 #마이누 #이란쿤다 #리스본 #해외축구 #해축

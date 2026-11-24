@@ -1,0 +1,116 @@
+---
+style: classic
+title: 인테르 슈투트가르트 프리뷰, 라우타로냐 해트트릭 피오냐…4-4 악몽에 칼하노글루까지 빠진 인테르, 막판 실점 끊고 16강 직행 불씨 살릴까
+category: 일정·프리뷰
+post_type: preview
+summary: 26일(목) 새벽 5시 인테르와 슈투트가르트가 산시로에서 챔피언스리그 리그 페이즈 5차전을 치러요. UCL 15위 인테르는 아탈란타전 4-4로 다시 막판 실점 숙제를 안았고 칼하노글루가 빠져요. 14위 슈투트가르트는 슈틸러 없이 원정에 나서요. 라우타로 선발 여부, 막판 실점의 원인, 윙백 맞대결, 순위상 의미와 제임스의 예상 스코어까지 정리했어요.
+keywords: [인테르 슈투트가르트, 인테르 슈투트가르트 프리뷰, 라우타로 복귀, 피오 에스포지토]
+tags: [인테르슈투트가르트, 인테르슈투트가르트프리뷰, 챔피언스리그, UCL, 인테르, 슈투트가르트, 라우타로, 라우타로복귀, 피오에스포지토, 칼하노글루, 키부, 회네스, 데미로비치, 운다프, 디마르코, 미텔슈테트, 해외축구, 해축]
+sources: ["https://sport.sky.it/calcio/serie-a/2026/11/23/calhanoglu-infortunio-inter-news", "https://www.goal.com/it/notizie/infortunio-calhanoglu-le-condizioni-e-quanto-torna-il-centrocampista-dell-inter-le-ultime-sui-tempi-di-recupero/bltc9ab22418fe49d06", "https://www.sportschau.de/regional/swr/swr-vfb-stuttgart-wartet-gegen-schalke-vergeblich-auf-das-quaentchen-glueck-100.html", "https://www.sportschau.de/regional/swr/swr-hoeness-lobt-spalt-hat-sich-in-position-gebracht-100.html", "https://www.besteleven.com/news/articleView.html?idxno=314273", "https://www.espn.com/soccer/match/_/gameId/401875001/internazionale-atalanta", "https://www.api-football.com/documentation-v3"]
+source_note: "API-Football(UCL·리그 순위, 경기 결과와 이벤트, 기대득점, 선수 기록, 부상 명단, 최근 선발, 다음 일정, 11월 23일 기준), 스카이 스포르트 이탈리아·골닷컴 이탈리아(11월 23일 칼하노글루 허벅지 부상, 슈투트가르트전 결장), 스포츠샤우(11월 19일 슈틸러 결장, 11월 21일 샬케전 회네스·운다프 발언), 베스트일레븐(피오 에스포지토 해트트릭 뒤 발언)"
+data_as_of: "2026-11-24 07:00 KST"
+images:
+  - file: 2026-11-24-인테르슈투트가르트프리뷰-fig-1.png
+    caption: 인테르 슈투트가르트전 한눈에
+  - file: 2026-11-24-인테르슈투트가르트프리뷰-fig-2.png
+    caption: 인테르 시간대별 실점과 득점
+  - file: 2026-11-24-인테르슈투트가르트프리뷰-fig-4.png
+    caption: 라우타로와 피오 에스포지토의 90분당 득점
+  - file: 2026-11-24-인테르슈투트가르트프리뷰-fig-3.png
+    caption: 예상 선발 포메이션 맞대결
+thumbnail_prompt: "Photorealistic football photo, UEFA Champions League night match at San Siro (Stadio Giuseppe Meazza) in Milan, bright floodlights, the steep blurred stands full of Inter fans in black and blue with scarves. Lautaro Martínez (라우타로 마르티네스), the 29-year-old Argentine striker and captain of Inter Milan, about 1.74 m, compact, stocky and muscular build, broad chest and thick thighs, light tan olive skin, oval face with a firm defined jaw, dark brown deep-set eyes under thick dark straight eyebrows, straight medium nose, full lips, a short dense neatly trimmed dark brown-black beard covering jaw, chin and upper lip, black hair in a high fade: very short, sharply faded and polished at the sides and back, with a short, choppy, textured top. Tattoos on both forearms. Shown from the front, close to the camera, three-quarter view, celebrating a goal near the corner flag with both fists clenched at chest height, mouth open in a roar, intense eyes. He wears Inter's authentic 2026-27 Nike home matchday kit exactly as in real broadcast photos, not a plain or generic shirt: vertical black and bright blue stripes with the black stripes wider than the blue ones, the blue stripes ending in small zig-zag edges, a black polo-style collar, the Nike swoosh in gold on the right chest, the real round Inter crest on the left chest, the gold 'betsson.sport' sponsor text across the middle of the chest, the 'BBVA' sleeve sponsor patch on the left sleeve, the UEFA Champions League starball badge on the right sleeve, a captain's armband on his left arm; black shorts with the number 10, black socks. Fabric with realistic folds and sweat. Behind him, blurred, a VfB Stuttgart player in the white shirt with a red chest band and white shorts. Realistic match moment only. Camera at waist height, framed from head to knees, he fills about 70% of the image height. Top fifth of the image dark night sky for text. No other text in the image apart from the real kit sponsors, logos and shirt number. The face must closely resemble the real Lautaro Martínez. Vertical 4:5."
+thumbnail_text: ["4-4 악몽 뒤 챔스", "라우타로가 구할까?"]
+thumbnail_file: "2026-11-24-인테르슈투트가르트프리뷰-썸네일-AI.png"
+threads_text: ""
+publish_at: ""
+---
+
+안녕하세요! 제임스입니다~
+
+26일(목) 새벽 5시, 인테르가 산시로에서 슈투트가르트를 상대로 챔피언스리그 리그 페이즈 5차전을 치러요. 두 팀의 첫 공식 맞대결이에요.
+인테르는 사흘 전 아탈란타 원정에서 피오 에스포지토의 해트트릭에도 4-4로 비겼어요. 76분까지 4-2로 앞섰던 경기라 막판 실점이 다시 숙제가 됐고, 중원의 칼하노글루는 허벅지 부상으로 이번 경기에 못 나와요.
+그리고 5주 만에 돌아온 라우타로가 있어요. 인테르 슈투트가르트 프리뷰, 라우타로냐 피오냐부터 순위 계산까지 같이 볼게요.
+
+[IMAGE]
+
+## 경기 정보: 인테르 슈투트가르트, UCL 15위 vs 14위
+
+리그 페이즈는 팀당 8경기를 치르고 8위까지 16강에 바로 올라가요. 9위부터 24위는 플레이오프로 가요. 지금 8위 리버풀이 승점 9인데, 4위부터 12위까지 9팀이 승점 9에 몰려 있어요.
+인테르는 4경기 2승 2패(8득 6실), 승점 6으로 15위예요. 레알 마드리드 원정 1-2, 브뤼헤 홈 3-4로 졌고, 샤흐타르(1-0)와 페예노르트(3-0)는 이겼어요.
+슈투트가르트는 2승 1무 1패(7득 4실), 승점 7로 14위예요. 비킹(3-1)과 슬로반 브라티슬라바(3-0)를 이기고 아틀레티코와 1-1로 비긴 뒤, 직전 갈라타사라이 원정에서 0-2로 졌어요.
+그래서 이번 경기는 사실상 '승점 9 그룹'에 들어갈 자격을 다투는 경기예요. 이긴 팀은 8위권과 승점이 같아지고, 진 팀은 남은 3경기에서 거의 다 이겨야 해요.
+일정은 슈투트가르트 쪽이 조금 편해요. 슈투트가르트는 릴(홈)·브뤼헤(홈)·PSV(원정)가 남았고, 인테르는 도르트문트(원정)·리버풀(홈)·슬로반(원정)이 남았어요.
+리그 상황은 달라요. 인테르는 세리에A 3위(승점 29)로 선두 라치오와 3점 차이고, 슈투트가르트는 분데스리가 8위(승점 13)로 최근 리그 2경기에서 1골에 그쳤어요.
+
+## 결장자: 칼하노글루 OUT, 슈틸러도 OUT
+
+칼하노글루는 아탈란타전 33분에 스스로 교체를 요청하고 나갔어요. 스카이 스포르트 이탈리아와 골닷컴 이탈리아(11월 23일)는 오른쪽 허벅지 뒤쪽 근육 문제로 슈투트가르트전과 29일(일) 제노아전에 빠진다고 전했어요. 정밀 검사는 24일이에요. 이번 시즌 두 번째 근육 부상이에요.
+API-Football 부상 명단(11월 23일 기준)에는 지엘린스키(발), 보니(근육)도 결장으로 나와요. 칼하노글루 대신 공을 나눠 줄 첫 후보는 아탈란타전에 대신 들어가 페널티킥 골을 넣은 수치치예요.
+슈투트가르트는 중원의 핵심 슈틸러가 사타구니(내전근) 부상으로 빠져요. 회네스 감독은 19일 "멀지 않았다"면서도 샬케전 결장을 알렸고, API 명단에도 이번 경기 결장으로 올라 있어요(스포츠샤우). 슈틸러는 이번 대회 3경기에서 2도움을 기록한 빌드업의 출발점이에요.
+센터백 자케스(갈비뼈)도 빠지고, 공격수 자우어는 출전이 불투명해요. 샬케전에선 19살 슈팔트가 슈틸러 자리를 대신했어요.
+
+[IMAGE]
+
+## 원인 분석: 인테르는 왜 막판에 흔들릴까
+
+아탈란타전 4-4는 한 경기의 사고처럼 보이지만, 시즌 전체를 보면 흐름이 있어요. API-Football 경기 이벤트로 세리에A·챔스 16경기를 15분 단위로 나눠 보면, 인테르는 23실점 중 8골을 61분 이후에 내줬어요.
+재밌는 건 같은 시간대에 가장 많이 넣는 팀도 인테르라는 거예요. 76분 이후에만 14골을 넣었어요. 인테르 경기는 막판에 양쪽으로 열린다는 뜻이에요. 그 이유를 세 가지로 봤어요.
+① 교체로 수비 구성이 바뀐 뒤 실점
+챔스 브뤼헤전(3-4)에서 키부 감독은 67분 칼하노글루·튀람, 78분 디마르코·바렐라를 뺐어요. 그 사이 74분과 87분에 실점했어요. 그날 브뤼헤 수비에는 이한범도 있었어요. 아탈란타전도 64분 디마르코·바렐라 교체 뒤 72분, 80분, 추가시간에 골을 내줬어요. 두 경기 모두 왼쪽 윙백 디마르코와 바렐라가 빠진 뒤 상대가 교체 카드로 속도를 올렸고, 인테르 3-5-2의 측면과 중원 사이가 벌어졌어요.
+② 칼하노글루가 없는 시간의 중원
+3-5-2에서 칼하노글루는 공을 잡아 템포를 늦추는 선수예요. 브뤼헤전 막판 2실점, 아탈란타전 3실점 모두 칼하노글루가 이미 빠진 뒤였어요. 이번 슈투트가르트전은 아예 처음부터 그가 없어요. 수치치가 90분 내내 그 역할을 해야 해요.
+③ 기회 자체를 많이 내줘요
+인테르는 브뤼헤전에서 기대득점 4.29, 레알 원정에서 2.76, 아탈란타전에서 2.96을 허용했어요(API-Football). 공을 오래 갖는 팀이지만, 뺏겼을 때 뒤가 넓게 열린다는 뜻이에요. 다만 페예노르트·샤흐타르전처럼 리드를 잡고 무리하지 않은 경기에선 무실점이었다는 점도 같이 봐야 해요.
+
+[IMAGE]
+
+## 라우타로 vs 피오 에스포지토: 누가 선발일까
+
+라우타로는 10월 중순 햄스트링 부상으로 빠졌다가 아탈란타전 77분에 들어와 5주 만에 복귀했어요. 13분을 뛰었어요.
+기록만 보면 라우타로가 앞서요. 세리에A·챔스 합산 545분 6골로 90분당 0.99골이에요. 피오 에스포지토는 769분 7골로 90분당 0.82골이고, 튀람은 1,087분 6골 3도움이에요.
+하지만 흐름은 피오 에스포지토 쪽이에요. 21살 피오는 리그 9경기 선발로 라우타로의 공백을 메웠고, 아탈란타전에서 유효 슈팅 4개로 해트트릭을 했어요. 그는 경기 뒤 "이제 챔피언스리그에 집중해야 한다, 즉시 만회해야 한다"고 말했어요(베스트일레븐).
+변수는 일정이에요. 인테르는 슈투트가르트전 뒤 29일(일) 새벽 4시 45분 제노아, 12월 2일(수) 새벽 5시 제노아와 코파 이탈리아 16강이 이어져요. 햄스트링에서 막 돌아온 라우타로를 90분 쓰기엔 부담이 큰 일정이에요.
+
+## 상대 분석: 슈투트가르트의 압박과 전환
+
+회네스 감독의 슈투트가르트는 최근 3-4-2-1을 써요. 3백 앞에 윙백 레벨링(오른쪽)과 미텔슈테트(왼쪽)를 높게 올리고, 운다프·퓌리히가 데미로비치 뒤를 받쳐요. 수비할 때는 이 세 명이 상대 센터백과 수비형 미드필더를 바로 압박해요.
+미텔슈테트는 분데스리가에서 키패스 22개, 태클 26개, 가로채기 20개로 공수 모두 팀 최다 수준이에요(API-Football). 공을 뺏는 자리가 곧 공격이 시작되는 자리예요.
+전환이 가장 잘 드러난 경기는 10월 31일 레버쿠젠 원정이었어요. 점유율 37%로도 4-2로 이겼고, 기대득점은 2.88로 레버쿠젠(2.07)보다 높았어요.
+문제는 마무리예요. 갈라타사라이 원정(기대득점 2.20)과 샬케전(2.52) 모두 무득점이었어요. 회네스 감독은 샬케전 뒤 "앞에서 골을 넣는 데 필요한 결정을 내리지 못했다"고 했고, 주장 운다프는 "지금은 첫 골이 부족하다"고 했어요(스포츠샤우).
+그래도 챔스 득점 감각은 데미로비치가 살아 있어요. 4경기 163분 만에 4골이에요. 비킹전에선 12분 사이 해트트릭을 했어요.
+
+[IMAGE]
+
+## 전술 분석: 승부처는 윙백과 수치치
+
+① 디마르코 vs 레벨링, 인테르 왼쪽
+인테르 공격의 출구는 디마르코예요. 리그 키패스 24개로 팀 1위예요. 슈투트가르트 오른쪽 윙백 레벨링은 이번 대회 아틀레티코전 골을 넣은 공격적인 선수예요. 디마르코가 올라간 뒤 공간을 레벨링이 노리면, 브뤼헤·아탈란타전처럼 측면이 흔들릴 수 있어요.
+② 스펜스 vs 미텔슈테트, 인테르 오른쪽
+반대쪽은 슈투트가르트가 더 강해요. 미텔슈테트가 스펜스를 수비 쪽으로 묶어 두면 인테르 오른쪽 공격이 막혀요. 바렐라가 얼마나 오른쪽을 도와주느냐가 중요해요.
+③ 수치치를 노리는 압박
+슈투트가르트가 노릴 곳은 칼하노글루가 빠진 인테르 중원이에요. 운다프·퓌리히가 수치치를 등지게 만들면 인테르의 빌드업이 바로 막혀요. 대신 슈투트가르트도 슈틸러가 없어서, 압박을 벗겨 냈을 때 공을 차분히 돌릴 선수가 부족해요.
+
+## 관전 포인트: 인테르 슈투트가르트전, 두 팀의 숙제
+
+인테르 쪽에서 보면
+· 칼하노글루 없는 3-5-2에서 수치치가 슈투트가르트의 압박을 버텨 낼까요? 첫 15분 6실점은 인테르의 또 다른 약점이에요.
+· 키부 감독은 라우타로를 선발로 쓸까요, 아니면 피오 에스포지토를 믿고 라우타로를 후반 카드로 남겨 둘까요?
+· 리드를 잡았을 때 디마르코·바렐라를 언제 빼느냐가 이번에도 승부를 가를까요?
+슈투트가르트 쪽에서 보면
+· 리그 2경기 1골의 마무리 부진을 데미로비치의 챔스 득점 감각으로 끊을 수 있을까요?
+· 슈틸러 없이 19살 슈팔트와 프뢰멜이 원정 중원을 지켜 낼까요?
+· 사흘 뒤 프랑크푸르트전(29일 새벽 2시 30분)을 앞두고 회네스 감독이 운다프를 90분 쓸까요?
+
+## 제임스의 예상
+
+· 스코어는 지난 글에서 예상한 대로 인테르의 2-1 승리를 유지할게요. 슈투트가르트가 한 골은 넣겠지만, 막판 승부에선 인테르 공격진이 더 강하다고 봐요.
+· 선발 투톱은 피오 에스포지토와 튀람으로 예상해요. 라우타로는 벤치에서 시작해 60분 안팎에 들어오고, 결승골을 넣을 것 같아요. 지난 글의 '라우타로 골' 예상과 같은 흐름이에요.
+· 인테르 첫 골은 피오 에스포지토예요. 슈투트가르트 골은 데미로비치가 넣을 것 같아요.
+· 칼하노글루 자리는 수치치가 맡고, 므키타리안·바렐라가 양옆을 지킬 거라고 봐요. 3백은 비세크·아칸지·바스토니예요.
+· 변수는 70분 이후예요. 인테르가 1골 차로 앞선 채 디마르코를 빼면, 레벨링 쪽에서 동점골이 나올 수 있어요. 저라면 디마르코를 끝까지 둘 것 같아요.
+
+여러분은 라우타로가 선발로 나와야 한다고 보시나요, 아니면 해트트릭의 피오 에스포지토를 계속 믿어야 할까요? 댓글로 남겨 주세요!
+
+※ UCL·리그 순위, 경기 결과와 시간대별 득실점, 기대득점, 선수 기록, 부상 명단, 최근 선발과 다음 일정은 API-Football(11월 23일 기준)이에요. 칼하노글루 부상은 스카이 스포르트 이탈리아·골닷컴 이탈리아(11월 23일), 슈틸러 결장과 회네스·운다프 발언은 스포츠샤우(11월 19일·21일), 피오 에스포지토 발언은 베스트일레븐 보도예요. 예상 선발은 제 예상이에요. 썸네일은 AI 생성 이미지예요.
+
+#인테르슈투트가르트 #인테르슈투트가르트프리뷰 #챔피언스리그 #UCL #인테르 #슈투트가르트 #라우타로 #라우타로복귀 #피오에스포지토 #칼하노글루 #키부 #회네스 #데미로비치 #운다프 #디마르코 #미텔슈테트 #해외축구 #해축
