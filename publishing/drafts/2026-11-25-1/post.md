@@ -1,0 +1,126 @@
+---
+title: 김민수 애버딘전 평점, 후반 투입 11분 만에 3골 역전…황인범 페예노르트전 평점, 친정 울렸다
+category: 경기 리뷰·논평
+post_type: review
+style: classic
+summary: 수요일 새벽 코리안리거 두 경기 평점이에요. 벤치에서 시작한 김민수는 0-1로 뒤진 하프타임에 들어갔고, 레인저스는 후반 11분 사이 3골을 넣어 애버딘을 3-2로 뒤집었어요. 황인범은 친정 페예노르트 원정에서 60분 교체로 들어가 포르투의 1-0 승리를 지켰어요. 두 선수의 출전 시간과 API 평점, 패스·경합·드리블 기록, 역할과 포메이션 원인 분석, 프리뷰 예상 채점, 다음 일정을 정리했어요.
+keywords: [김민수 애버딘전 평점, 황인범 페예노르트전 평점, 레인저스 애버딘, 페예노르트 포르투, 코리안리거 평점]
+tags: [코리안리거, 코리안리거평점, 김민수, 김민수평점, 레인저스, 애버딘, 레인저스애버딘, 황인범, 황인범평점, 포르투, 페예노르트, 페예노르트포르투, 챔피언스리그, 파리올리, 스코틀랜드프리미어십, 해외축구, 해축]
+sources: ["https://www.api-football.com/documentation-v3", "https://www.skysports.com/football/news/13615718/rangers-vs-aberdeen-derek-mcinnes-ready-for-different-dons-challenge-under-mario-frick-live-on-sky", "https://www.skysports.com/football/video/13616132/spfl-rangers-score-twice-in-two-minutes-to-come-from-behind-to-lead-aberdeen", "https://www.interfootball.co.kr/news/articleView.html?idxno=699122", "https://www.mydaily.co.kr/page/view/2026112218454742202", "http://www.footballist.co.kr/news/articleView.html?idxno=217185", "http://www.footballist.co.kr/news/articleView.html?idxno=217244", "https://www.xportsnews.com/article/2200014", "https://isplus.com/article/view/isp202611250009", "https://www.newspim.com/news/view/20261125000057", "http://www.yonhapnewstv.co.kr/news/AKR20261125090629p0l"]
+source_note: "API-Football(경기 기록·선수 평점·선발 명단·교체·순위·다음 일정, 경기 직후 기준), 스카이스포츠 11월 23일(매키니스 감독 경기 전 인터뷰), 스카이스포츠 경기 영상(레인저스 2분 사이 2골), 인터풋볼(파리올리 감독 경기 전 발언), 마이데일리·풋볼리스트 11월 22~23일(김민수 마더웰전 첫 도움과 현지 평가), 풋볼리스트·엑스포츠뉴스·연합뉴스TV(김민수 애버딘전), 일간스포츠·뉴스핌(황인범 페예노르트전)"
+data_as_of: "2026-11-25 11:10 KST"
+images:
+  - file: 2026-11-25-코리안리거챔스주중평점-fig-1.png
+    caption: 코리안리거 두 경기 한눈에
+  - file: 2026-11-25-코리안리거챔스주중평점-fig-2.png
+    caption: 김민수 황인범 평점과 기록
+  - file: 2026-11-25-코리안리거챔스주중평점-fig-4.png
+    caption: 레인저스 애버딘 후반 포메이션
+  - file: 2026-11-25-코리안리거챔스주중평점-fig-3.png
+    caption: 페예노르트 포르투 실제 선발
+  - file: 2026-11-25-코리안리거챔스주중평점-fig-5.png
+    caption: 프리뷰 예상 채점
+  - file: 2026-11-25-코리안리거챔스주중평점-fig-6.png
+    caption: 두 선수 다음 일정
+thumbnail_prompt: "Photorealistic football photo, Scottish Premiership night match at Ibrox Stadium in Glasgow, late November, bright floodlights under a dark sky, blurred packed stands full of Rangers fans in royal blue. Kim Min-su (김민수), the 19-year-old South Korean attacking midfielder of Rangers, about 1.77 m, slim and light athletic build with narrow shoulders and long legs, light fair East Asian skin, youthful slim oval face with a narrow jaw and a softly pointed chin, narrow single-lid dark brown eyes, straight thin black eyebrows, a straight slim nose, thin lips, clean-shaven with no facial hair, thick layered dark brown-black hair of medium length: a long full fringe falling over the forehead down to the eyebrows and slightly parted in the middle, soft volume on top, side hair covering the upper half of the ears, back trimmed short at the nape, slightly tousled by the wind (not shaved, no undercut, no fade). Shown from the front, three-quarter view, dribbling the ball at speed with his left foot through the centre, body leaning forward, eyes fixed on the ball, determined expression. He wears Rangers' real 2026-27 Umbro home kit: royal blue shirt with thin white vertical pinstripes, a V-neck with thin red and white piping, the white Umbro double-diamond logo on the right chest, the real Rangers crest on the left chest, the white 'UNIBET' chest sponsor text, the 'BOXT' sleeve sponsor patch, the SPFL Premiership sleeve badge, white shorts with number 10, black socks with red tops, number 10. Behind him, blurred, an Aberdeen midfielder in Aberdeen's red shirt and red shorts stretching to tackle. Realistic match moment only. Camera at waist height, framed from head to knees, he fills about 70% of the image height. Top fifth of the image dark night sky and floodlight glow for text. No other text in the image apart from the real kit sponsors, logos and shirt number. Absolutely no national flags. The face must closely resemble the real Kim Min-su. Vertical 4:5."
+thumbnail_text: ["벤치→하프타임 투입,", "김민수 들어가자 3골 역전"]
+thumbnail_file: "2026-11-25-코리안리거챔스주중평점-썸네일-AI.png"
+threads_text: ""
+publish_at: ""
+---
+
+안녕하세요! 제임스입니다~
+
+수요일 새벽 5시, 코리안리거 두 경기가 같은 시각에 열렸어요. 두 팀 모두 이겼지만 두 선수의 하루는 꽤 달랐어요.
+리그 11경기 중 10경기에 선발로 나왔던 김민수가 이번엔 벤치에서 시작했어요. 0-1로 뒤진 하프타임에 들어갔고, 레인저스는 그 뒤 11분 사이에 3골을 넣어 애버딘을 3-2로 뒤집었어요.
+황인범은 친정 페예노르트 원정에서 60분 교체로 들어가 포르투의 1-0 승리를 지켰어요. 2분 만에 나온 자책골 하나를 93분 동안 지킨 경기였어요. 오늘은 두 선수의 평점과 기록, 그리고 왜 그런 역할을 맡았는지 정리했어요.
+
+[IMAGE]
+
+## 경기 흐름: 레인저스 3-2 애버딘, 하프타임에 바뀐 경기
+
+전반은 애버딘의 흐름이었어요. 마리오 프릭 감독이 온 뒤 두 번째 경기였는데, 30분 핀들레이 마셜의 크로스를 브래드 라이언스가 머리로 넣었어요. VAR 확인 뒤 골이 인정됐어요.
+데릭 매키니스 감독은 하프타임에 세 명을 한꺼번에 바꿨어요. 최전방 켈시 대신 김민수, 오른쪽 수비 고드프리 대신 롬멘스, 오른쪽 윙어 부아나니 대신 커티스가 들어갔어요.
+효과는 바로 나왔어요. 46분 나데리가 동점골을 넣었고, 1분 뒤엔 나데리의 도움으로 가사마가 역전골을 넣었어요. 56분엔 가사마의 패스를 라스킨이 마무리해 3-1이 됐어요. 애버딘이 57분 마셜의 골로 한 골 따라붙었지만 더는 뒤집지 못했어요.
+레인저스는 슈팅 20개 대 11개, 기대득점(xG) 3.01 대 0.6으로 앞섰어요. 이 승리로 승점 33이 되어 선두 셀틱(34)과 1점 차로 좁혔어요.
+
+## 경기 흐름: 페예노르트 0-1 포르투, 2분 자책골을 끝까지 지켰다
+
+포르투는 경기 시작 2분 만에 앞서갔어요. 페예노르트 미드필더 타르갈린의 자책골이었어요. 그 뒤로는 페예노르트가 공을 더 오래 가졌어요(점유율 54%). 슈팅도 17개로 포르투(9개)보다 많았어요.
+하지만 슈팅 17개 중 10개가 박스 밖에서 나왔어요. 기대득점은 페예노르트 0.80, 포르투 0.85로 거의 같았어요. 88분 교체로 들어온 나초 페리가 골망을 흔들었지만 VAR 끝에 취소됐어요.
+황인범은 60분 경고를 안고 있던 프로홀트 대신 들어갔고, 1분 뒤 히메네스 대신 사무 아게호와가 들어갔어요(연합뉴스·일간스포츠). 이 승리로 포르투는 챔피언스리그 승점 6, 26위에서 20위로 올라 플레이오프권에 들어왔고, 페예노르트는 공식전 4연패에 빠졌어요.
+
+[IMAGE]
+
+## 선수 평점: 김민수 7.2, 황인범 6.9
+
+API-Football 평점(경기 직후 기준)으로 김민수는 7.2예요. 후반 44분 동안 드리블 6번 중 5번을 성공했고, 경합 13번 중 8번을 이겼어요. 슈팅은 3개(유효 1개)였어요. 공격 포인트는 없었고, 키패스도 0개였어요.
+레인저스 최고 평점은 1골 1도움의 나데리(8.18)였어요. 1골 1도움의 가사마가 7.73으로 뒤를 이었어요.
+황인범은 35분을 뛰고 6.9를 받았어요. 패스 7개 중 6개를 성공했고, 경합 3번과 드리블 1번을 모두 이겼어요. 포르투에선 태클 8개, 슈팅 블록 4개를 기록한 로사리오가 9.5로 경기 최고 평점이었어요. 골키퍼 디오구 코스타도 선방 4개로 8.0을 받았어요.
+
+## 원인 분석: 김민수는 왜 들어가자마자 흐름을 바꿨을까
+
+[IMAGE]
+
+① 벤치 출발은 '체력 관리'에 가까워요
+김민수는 리그 11경기 중 10경기에 선발로 나왔고, 사흘 전 마더웰전에선 첫 도움을 올렸어요. 스카이스포츠는 레인저스가 12월 말까지 리그컵 결승을 포함해 8경기를 치른다고 전했고, 매키니스 감독은 경기 전날 "내일은 한두 자리를 신선하게 바꿀 수 있다"고 했어요. 바로 나흘 뒤엔 폴커크전이 있어요. 그래서 이번 벤치는 문책보다는 로테이션으로 보는 게 맞다고 봐요. 다만 마더웰전 뒤 구단 레전드 앤디 할리데이의 혹평도 있었던 터라(마이데일리) 이 선택이 계속 화제가 될 수는 있어요.
+② 최전방 '가짜 9번'이 다이아몬드를 흔들었어요
+김민수는 전형적인 공격수 켈시 자리에 들어갔어요. API는 김민수 포지션을 '공격수'로 적었어요. 켈시는 전반 45분 동안 패스 5개, 경합 6번 중 2번 승리에 그쳤어요. 애버딘은 4-3-1-2 다이아몬드라서 수비형 미드필더 아레무 한 명이 중앙 뒤를 지켜요. 김민수가 아래로 내려와 공을 받고 드리블로 밀고 들어가자, 아레무가 김민수와 나데리 두 명을 함께 막아야 했어요. 김민수의 드리블 성공 5번은 이 경기 레인저스 선수 중 가장 많아요.
+③ 골은 동료가 넣었지만 공간은 함께 만들었어요
+동점골과 역전골은 나데리와 가사마가 직접 만들었어요. 김민수의 이름은 득점 장면 기록에 없어요. 그래도 왼쪽에서는 펜리스가 키패스 5개, 가사마가 1골 1도움으로 측면을 무너뜨렸고, 중앙에서 김민수가 수비를 끌어당긴 시간과 겹쳐요. 하프타임 교체 3장이 동시에 들어갔기 때문에 김민수 한 명의 효과로만 볼 수는 없어요. 다만 슈팅 3개와 드리블 5개는 켈시가 전반에 보여 주지 못한 움직임이었어요.
+
+## 원인 분석: 황인범은 왜 '지키는 카드'였을까
+
+[IMAGE]
+
+① 1-0 리드에서 들어간 '관리형 8번'이었어요
+포르투는 4-3-3에서 로사리오(6번)·프로홀트(오른쪽 8번)·베이가(왼쪽 8번)로 중원을 꾸렸어요. 황인범은 13분 경고를 받은 프로홀트 대신 들어가 오른쪽 8번 자리를 그대로 이어받았어요. 1분 뒤 최전방도 히메네스에서 사무로 바뀌었어요. 1-0 리드에서 경고 누적 위험을 지우고, 앞선부터 다시 압박할 다리를 넣는 교체였어요.
+② 공을 많이 만지는 경기가 아니었어요
+황인범의 패스는 35분 동안 7개였어요. 같은 시간대 페예노르트가 공을 더 오래 잡았고, 포르투는 라인을 내려 슈팅을 막는 데 집중했어요. 황인범의 역할은 템포를 잡는 쪽보다 간격을 지키고 경합을 버티는 쪽이었어요. 경합 3번을 모두 이긴 기록이 그 역할에 맞아요.
+③ 위험은 황인범의 반대편에서 왔어요
+페예노르트에서 가장 위협적인 선수는 오른쪽 윙어 하지 무사였어요. 포르투 왼쪽 풀백 자이두를 상대로 드리블 8번 중 7번을 성공했고, 평점 8.2로 경기 전체 2위였어요. 공이 그쪽으로 몰릴수록 반대편 오른쪽 중원의 황인범은 앞으로 나가기보다 안쪽으로 좁혀 간격을 지켜야 했어요. 황인범의 패스가 적었던 이유도 여기에 있다고 봐요.
+경기 전 파리올리 감독은 황인범의 페예노르트 경험을 참고했다고 밝혔어요(인터풋볼). 결과적으로 황인범은 선발이 아니라 리드를 지키는 카드로 쓰였어요. 챔피언스리그 5경기 모두 교체 출전이에요.
+
+## 국내 매체 반응: '친정 울린 35분', '드리블로 수비 폭파'
+
+황인범 쪽은 연합뉴스 계열 보도가 대부분 '친정팀 상대 교체 출전, 포르투 UCL 2연승'으로 정리했어요. 일간스포츠는 페예노르트의 강한 전방 압박 속에서도 황인범이 탈압박과 빌드업의 연결고리 역할을 했고, 영리한 위치 선정으로 중원의 궂은일을 맡았다고 평가했어요. 공격 포인트와 슈팅이 없었다는 점은 여러 매체가 함께 짚었어요.
+김민수 쪽은 반응이 더 뜨거웠어요. 풋볼리스트는 드리블 6번 중 5번 성공이 이 경기 1위였다며 "상대 진영을 완전히 헤집었다"고 썼어요. 문전으로 찌른 패스가 동료 발끝을 스쳐 기회 창출 기록은 남지 않았다고도 전했어요. 엑스포츠뉴스는 '교체 투입하고 3골 폭발'이라는 제목을 달았고, 연합뉴스TV는 후반 시작 직후 박스 밖 오른발 슈팅이 골키퍼 정면으로 갔다고 전했어요. 벤치 출발은 주말 첫 도움 뒤 '관리가 필요한 20세'의 체력 관리라는 해석이 많았어요.
+
+## 프리뷰 채점: 황인범 투입 시간은 맞혔고, 김민수 골은 또 빗나갔다
+
+[IMAGE]
+
+11월 23일 프리뷰의 예상을 채점해 볼게요.
+· 페예노르트 1-2 포르투 → 실제 0-1이에요. 포르투 승리는 맞혔고 스코어는 틀렸어요.
+· 황인범 벤치 출발, 후반 15분 전후 투입 → 60분 투입으로 맞혔어요. 다만 '베이가 대신'은 틀렸어요. 베이가는 79분까지 뛰었고, 황인범은 프로홀트와 교체됐어요. 세트피스로 결승골 관여도 빗나갔어요. 결승골은 2분 자책골이었어요.
+· 레인저스 2-0 애버딘 → 실제 3-2예요. 승리만 맞혔어요.
+· 김민수 레인저스 첫 골 → 이번에도 빗나갔어요. 슈팅 3개 중 유효 슈팅 1개였어요. 벤치에서 시작할 거라고는 예상하지 못했어요.
+
+## 다음 일정: 황인범은 스포르팅전, 김민수는 폴커크전
+
+[IMAGE]
+
+포르투는 30일(월) 새벽 5시 30분 스포르팅을 홈으로 불러요. 리그 11전 전승 1위 포르투와 3위 스포르팅의 라이벌전이에요. 그다음 12월 6일(일) 새벽엔 산타클라라 원정이에요. 챔피언스리그 6차전은 12월 10일(목) 리버풀 원정이에요.
+레인저스는 29일(일) 0시 폴커크를 홈으로 불러요. 폴커크는 최근 5연승으로 3위예요. 이어 12월 3일(목) 새벽엔 던디 유나이티드를 만나요.
+
+## 관전 포인트 복기: 다음 경기에서 볼 것
+
+코리안리거 쪽에서 보면
+· 김민수는 폴커크전에 다시 선발로 돌아올까요? 이번 45분이 '가짜 9번' 실험의 시작일지도 지켜볼 만해요.
+· 황인범은 스포르팅전을 앞두고 베이가 대신 중원 선발 기회를 받을까요? 챔피언스리그 5경기 연속 교체였어요.
+상대 팀 쪽에서 보면
+· 애버딘은 프릭 감독 체제 두 경기에서 11골이 나왔어요(킬마녹 원정 4-2 승, 이번 2-3 패). 높은 압박이 강팀 원정에선 뒷공간을 내준다는 게 이번 후반에 드러났어요.
+· 페예노르트는 공식전 4연패예요. 29일(일) 아약스전까지 지면 판 브롱크호르스트 감독의 입지가 더 흔들릴 수 있어요.
+
+## 제임스의 생각
+
+· 저는 김민수의 오늘 45분을 이번 시즌 가장 의미 있는 출전으로 봐요. 골은 없었지만 드리블 5번 성공과 슈팅 3개는 '10번'보다 '가짜 9번'이 더 맞을 수도 있다는 신호예요.
+· 폴커크전엔 김민수가 다시 선발로 나와 첫 골을 넣을 거라고 예상해요. 레인저스 2-1 승리예요. 세 번째 같은 예상이지만, 이번엔 최전방 자리라서 기회가 더 많을 거라고 봐요.
+· 황인범은 이제 '확실한 교체 1순위'까지는 올라왔어요. 다만 파리올리 감독은 리드를 지킬 때 황인범을 쓰고 있어서, 선발로 올라서려면 공격 포인트가 필요해요.
+· 포르투 2-1 스포르팅을 예상해요. 황인범은 이번에도 60분 전후 교체로 들어갈 것 같아요.
+
+여러분은 김민수를 최전방에 계속 써야 한다고 보시나요? 황인범의 챔스 선발은 언제쯤 나올까요? 댓글로 남겨 주세요!
+
+※ 경기 기록, 선수 평점, 선발 명단, 교체, 순위, 다음 일정은 API-Football(경기 직후 기준, 한국 시간)이에요. 평점은 이후 수정될 수 있어요(오전 11시 API 수정치는 김민수 6.97·45분, 황인범 6.6·30분). API 교체 기록은 황인범-히메네스로 적혀 있지만, 국내 보도(연합뉴스·일간스포츠)에 따라 프로홀트 교체로 썼어요. 황인범과 김민수의 경기 중 위치는 교체 순서와 API 포지션 표기를 바탕으로 한 제 해석이에요. 매키니스 감독 발언은 스카이스포츠(11월 23일), 파리올리 감독 경기 전 발언은 인터풋볼, 김민수 마더웰전 평가는 마이데일리·풋볼리스트, 경기 뒤 반응은 풋볼리스트·엑스포츠뉴스·연합뉴스TV·일간스포츠·뉴스핌 보도를 참고했어요. 썸네일 사진 출처는 김민수 인스타그램(@minsu_kim_06)이에요.
+
+#코리안리거 #코리안리거평점 #김민수 #김민수평점 #레인저스 #애버딘 #레인저스애버딘 #황인범 #황인범평점 #포르투 #페예노르트 #페예노르트포르투 #챔피언스리그 #파리올리 #스코틀랜드프리미어십 #해외축구 #해축

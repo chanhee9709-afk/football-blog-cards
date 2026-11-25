@@ -1,0 +1,116 @@
+---
+title: 요케레스 아스널 도르트문트 평점, 중거리 원더골에도 1-1…골대 두 번에 5위 추락, 아스널 또 후반에 무너졌나
+category: 경기 리뷰·논평
+post_type: review
+style: classic
+summary: 아스널이 에미레이츠에서 도르트문트와 1-1로 비겼어요. 요케레스가 10분 중거리포로 앞서갔지만 55분 18세 센터백 가두의 질주에 이은 바이어의 골로 동점이 됐고, 슈팅 27개와 골대 두 번에도 결승골은 없었어요. 선수 평점, 팀 통계, 왜 슈팅 폭격이 1골에 그쳤는지 원인 분석, UCL 순위 변화와 프리뷰 예상 채점까지 정리했어요.
+keywords: [아스널 도르트문트 평점, 요케레스, 아스널 도르트문트, 외데고르, 케파]
+tags: [아스널도르트문트, 아스널도르트문트평점, 챔피언스리그, UCL, 아스널, 도르트문트, 요케레스, 외데고르, 케파, 마두에케, 바이어, 가두, 페이르만, 라야부상, 아르테타, 코바치, 해외축구, 해축]
+sources: ["https://www.skysports.com/football/arsenal-vs-borussia-dortmund/report/577669", "https://www.independent.co.uk/sport/football/arsenal-borussia-dortmund-live-stream-score-champions-league-b3090541.html", "https://www.skysports.com/football/news/13615438/david-raya-injury-arsenal-goalkeeper-avoids-surgery-and-blow-is-not-as-bad-as-first-feared-says-mikel-arteta", "https://www.api-football.com/documentation-v3"]
+source_note: "API-Football(경기 기록·팀 통계·선수 평점·선발 명단·UCL 순위·다음 일정, 경기 직후 기준), 스카이스포츠 11월 24일(경기 리포트, 라야 부상과 아르테타 기자회견), 인디펜던트 11월 24일(문자 중계·경기 장면·순위)"
+data_as_of: "2026-11-25 07:30 KST"
+images:
+  - file: 2026-11-25-아스널도르트문트평점-fig-1.png
+    caption: 아스널 도르트문트전 한눈에
+  - file: 2026-11-25-아스널도르트문트평점-fig-2.png
+    caption: 아스널 도르트문트 팀 통계
+  - file: 2026-11-25-아스널도르트문트평점-fig-3.png
+    caption: 아스널 도르트문트 선수 평점
+  - file: 2026-11-25-아스널도르트문트평점-fig-4.png
+    caption: 실제 선발 포메이션 맞대결
+  - file: 2026-11-25-아스널도르트문트평점-fig-5.png
+    caption: 챔피언스리그 리그 페이즈 순위 변화
+  - file: 2026-11-25-아스널도르트문트평점-fig-6.png
+    caption: 프리뷰 예상 채점
+thumbnail_prompt: "Photorealistic football photo, UEFA Champions League night match at the Emirates Stadium in London, late November, bright floodlights, blurred stands full of Arsenal fans in red and white with red-and-white scarves raised. Viktor Gyökeres (빅토르 요케레스), the 28-year-old Swedish striker of Arsenal, about 1.89 m, tall, broad-shouldered, powerful muscular build with thick thighs, fair Scandinavian skin with a light tan, strong rectangular face with a wide square jaw, deep-set dark brown eyes under thick straight dark eyebrows, straight broad nose, full lips, a short dense dark-brown beard covering the jaw, chin and upper lip, dark-brown hair cut short and faded on the sides and back, a little longer on top and pushed back. Shown from the front, facing the camera straight on, sprinting toward the camera in celebration just after scoring a long-range goal, both fists clenched at chest height, mouth wide open in a roar, veins visible on his neck. He wears Arsenal's authentic 2026-27 adidas home matchday kit exactly as in real broadcast photos, not a plain or generic shirt: bright red body with white sleeves, white collar and cuff trim, three white adidas stripes running over the shoulders, the white adidas logo on the right chest, the real Arsenal cannon crest on the left chest, the white 'Emirates FLY BETTER' sponsor text across the middle of the chest, the UEFA Champions League starball badge on the sleeve; white shorts with red trim and the number 14, red socks with white tops. Fabric with realistic folds and sweat. Behind him, blurred, a Borussia Dortmund defender in the yellow Puma home shirt with black trim and the 'Vodafone' chest sponsor and black shorts looks back toward his goal. Realistic match moment only. Camera at waist height, framed from head to knees, he fills about 70% of the image height. Top fifth of the image dark night sky and floodlight glow for text. No other text in the image apart from the real kit sponsors, logos and shirt number. Absolutely no national flags. The face must closely resemble the real Viktor Gyökeres. Vertical 4:5."
+thumbnail_text: ["요케레스 원더골에도", "아스널 또 후반에 샜다"]
+thumbnail_file: "2026-11-25-아스널도르트문트평점-썸네일-AI.png"
+threads_text: ""
+publish_at: ""
+---
+
+안녕하세요! 제임스입니다~
+
+아스널이 에미레이츠 스타디움에서 도르트문트와 1-1로 비겼어요. 챔피언스리그 리그 페이즈 5차전이에요.
+요케레스가 10분 중거리 슛으로 먼저 골을 넣었지만, 55분 바이어에게 동점골을 내줬어요. 아스널은 슈팅 27개를 쏘고 골대를 두 번 맞히고도 결승골을 넣지 못했어요.
+아스널은 챔피언스리그 무패는 지켰지만 3위에서 5위로 내려갔어요. 아스널 도르트문트 평점과 함께, 왜 슈팅 폭격이 1골로 끝났는지 장면별로 볼게요.
+
+[IMAGE]
+
+## 경기 흐름: 요케레스 원더골, 가두의 질주로 끝난 리드
+
+10분, 마두에케가 내준 공을 요케레스가 한 번 잡아 놓고 박스 밖에서 때렸어요. 코벨이 잡을 수 있다고 본 공이 크게 떨어지며 크로스바 아래로 들어갔어요(인디펜던트). 요케레스의 이번 대회 2호골이에요.
+전반 중반까지는 아스널 흐름이었어요. 하지만 전반 막판부터 아스널이 느슨해졌고, 도르트문트는 후반 시작과 함께 밀고 올라왔어요. 48분 바이어가 왼쪽 크로스를 놓쳤고, 54분엔 벨링엄의 중거리 슛을 케파가 잡았어요.
+결국 55분, 18세 센터백 가두가 공을 몰고 가운데로 치고 올라와 바이어에게 찔러 줬어요. 바이어는 침착하게 케파를 지나 골문 구석에 넣었어요(스카이스포츠·인디펜던트).
+그 뒤로도 기회는 아스널이 더 많았어요. 61분 힌카피에의 헤더는 코벨이 막았고, 78분 프리킥 뒤 컷백은 굴절돼 골대를 맞혔어요. 막판에는 라이스의 슈팅도 골대를 때렸어요. 도르트문트도 67분 벨링엄이 골망을 흔들었지만 오프사이드로 취소됐어요.
+
+[IMAGE]
+
+## 팀 통계: 기대득점 1.93 대 0.88, 그런데 유효 슈팅은 4 대 4
+
+API-Football 기록(경기 직후 기준)으로 아스널은 기대득점 1.93을 만들고 도르트문트는 0.88에 그쳤어요. 점유율도 61% 대 39%로 아스널이 앞섰어요.
+그런데 골문으로 간 슈팅은 두 팀 다 4개였어요. 아스널 슈팅 27개 중 15개는 빗나갔고 8개는 수비 몸에 막혔어요. 스카이스포츠는 아스널 슈팅을 29개로 셌어요.
+아스널은 뉴캐슬전 2-2에 이어 두 경기 연속 전반을 쥐고도 후반에 실점했어요. 스카이스포츠도 "두 경기 연속 기회를 살리지 못한 대가"라고 썼어요.
+
+[IMAGE]
+
+## 선수 평점: 외데고르 8.6, 도르트문트는 페이르만 8.3·가두 8.0
+
+API-Football 평점(경기 직후 기준)으로 가장 높은 선수는 외데고르예요. 8.6으로 골도 도움도 없었지만 키패스를 9개나 만들었어요. 아스널이 만든 기회 대부분이 그의 발에서 나왔다는 뜻이에요.
+요케레스가 7.7로 뒤를 이었어요. 슈팅 6개를 쏴 1골을 넣었지만, 42분 마두에케가 박스 안에서 내준 공을 크로스바 위로 날렸고 75분 가까운 거리 헤더도 빗나갔어요. 라야 대신 나선 케파는 선방 3개로 7.5를 받았어요.
+도르트문트에선 페이르만이 8.3으로 가장 높았어요. 태클 4개로 박스 앞을 지켰어요. 18세 가두는 태클 6개에 동점골 도움까지 더해 8.0이에요.
+가장 낮은 선수는 아스널 촐리스와 도르트문트 은메차로 둘 다 6.2예요. 촐리스는 경합 8번 중 2번만 이기고 65분에 교체됐어요.
+
+## 원인 분석: 왜 슈팅 27개가 1골로 끝났을까
+
+[IMAGE]
+
+① 골은 박스 밖에서, 좋은 기회는 박스 안에서 놓쳤어요
+아이러니하게도 유일한 골은 성공 확률이 낮은 박스 밖 슈팅이었어요. 정작 기대득점이 높은 박스 안 기회, 42분 요케레스의 슈팅과 75분 헤더, 61분 힌카피에의 헤더는 모두 골이 되지 않았어요. 기대득점 1.93 중 1골만 넣었으니 마무리에서 1골쯤을 손해 본 셈이에요. 아스널 슈팅 10개는 박스 밖에서 나왔고, 8개는 막혔어요. 도르트문트는 동점 뒤 모든 선수를 공 뒤로 내렸는데(인디펜던트), 3-4-2-1이 수비할 때는 윙백까지 내려와 5백이 되고 그 앞을 페이르만·은메차가 막아요. 박스 앞 중거리는 계속 수비 몸에 걸렸어요.
+② 실점은 스리백 센터백 한 명이 중원으로 올라온 장면이었어요
+도르트문트 오른쪽 센터백 가두가 공을 들고 가운데로 올라오자 아스널은 순간적으로 수적 열세가 됐어요. 아스널 4-2-3-1은 외데고르가 높이 올라가 압박하면 중원에 라이스와 루이스-스켈리 둘만 남아요. 여기에 페이르만·은메차, 벨링엄과 올라온 가두까지 붙으면 둘이서 막기 어려워요. 이건 제 분석이에요. 스리백의 바깥 센터백이 공을 들고 올라오는 장면은 4백 팀이 누가 막을지 정하기 어려운 장면이에요. 후반 시작 10분 동안 아스널이 느슨했던 흐름(인디펜던트)과 겹치면서 골로 이어졌어요.
+③ 주전 공백과 로테이션이 왼쪽과 중원을 흔들었어요
+아스널은 사카·수비멘디·라야가 빠졌고, 살리바는 몸을 풀었지만 끝내 나오지 않았어요. 아르테타 감독은 30일(월) 맨시티전을 앞두고 에제·팀버·기마랑이스를 벤치에 두고 촐리스·벤 화이트·루이스-스켈리로 시작했어요. 오른쪽 마두에케는 선제골 도움과 키패스 4개로 살아났지만, 왼쪽 촐리스는 슈팅 3개 중 유효 슈팅 1개에 그쳤어요. 65분 세 명을 한꺼번에 바꾼 뒤에야 에제의 슈팅, 골대를 맞힌 두 장면이 나왔어요. 교체가 조금만 빨랐다면 결과가 달랐을 수도 있다고 봐요.
+
+## UCL 순위: 아스널 3위→5위, 도르트문트 12위→7위
+
+[IMAGE]
+
+아스널은 3승 2무, 승점 11로 5위가 됐어요. 레알 마드리드가 PSV를 5-1로 이겨 승점 15로 1위에 올랐고, 코모와 레알 베티스가 이기면서 아스널을 밀어냈어요(25일 새벽 경기까지 반영한 계산, 인디펜던트도 5위로 전했어요). 아직 8위 안이라 16강 직행권이에요.
+도르트문트는 3승 1무 1패, 승점 10으로 12위에서 7위로 올랐어요. 기라시 없이 시작한 원정에서 승점 1을 챙긴 게 컸어요. 승점 9 팀이 많아서 26일(목) 새벽 경기가 끝나면 순위는 또 바뀔 수 있어요.
+
+## 프리뷰 채점: 요케레스·케파는 맞고, 스코어는 틀렸어요
+
+[IMAGE]
+
+지난 프리뷰에서 저는 아스널 2-1 승리를 예상했어요. 결과는 1-1이라 틀렸어요. 맞은 건 요케레스의 아스널 첫 골, 케파 선발, 그리고 마두에케와 스벤손이 맞서는 아스널 오른쪽이 승부처라는 점이에요. 선제골이 바로 그쪽에서 마두에케의 도움으로 나왔어요.
+틀린 것도 많아요. 도르트문트 골은 은메차가 아니라 바이어가 넣었고, 은메차는 팀에서 가장 낮은 6.2를 받았어요. 아스널 중원은 라이스·기마랑이스가 아니라 라이스·루이스-스켈리였고, 은와네리는 친정에서 끝내 뛰지 못했어요. 결장할 거라던 기라시는 64분 교체로 나왔어요.
+
+## 관전 포인트 복기: 케파는 버텼고, 요케레스는 반만 답했어요
+
+아스널 쪽에서 보면
+· 케파가 공중볼과 세트피스를 버텨 줄까요? 버텼어요. 도르트문트 코너킥 5개를 무난히 처리했고, 실점은 세트피스가 아니라 중원 돌파에서 나왔어요. 67분 뤼에르손의 슈팅을 쳐낸 공이 벨링엄에게 갔지만 오프사이드로 살았어요.
+· 요케레스는 챔피언스리그에서 다시 터질까요? 원더골로 답했지만, 쉬운 기회 두 번을 놓쳐 반쪽 답이 됐어요. 이번 시즌 리그에선 8경기 182분만 뛰고 아직 골이 없어요(API-Football).
+도르트문트 쪽에서 보면
+· 기라시 없이 골을 넣을 수 있을까요? 바이어가 이번 대회 첫 골로 답했어요. 기라시는 부상 명단에 있었지만 64분 교체로 돌아왔어요.
+· 은와네리가 친정 팬들 앞에 설까요? 코바치 감독은 은와네리 대신 카레차스·기라시·자비처·마네를 넣었어요.
+
+## 다음 일정: 아스널은 맨시티, 도르트문트는 레버쿠젠
+
+아스널은 30일(월) 새벽 1시 30분 맨시티를 홈으로 불러요. 이어 12월 3일(목) 새벽 5시 15분 브렌트퍼드 원정이 있어요. 라야는 수술은 피했지만 맨시티전 출전 여부는 추가 검사 뒤에 정해진다고 아르테타 감독이 말했어요(스카이스포츠).
+도르트문트는 30일(월) 새벽 3시 30분 홈에서 레버쿠젠과 분데스리가 경기를 하고, 12월 3일(목) 새벽 4시 45분 프랑크푸르트 원정에서 포칼을 치러요.
+챔피언스리그 6차전은 12월 10일(목) 새벽 5시예요. 아스널은 레알 마드리드, 도르트문트는 인테르를 홈에서 만나요.
+
+## 제임스의 생각
+
+· 저는 오늘 무승부를 아스널이 진 경기에 가깝다고 봐요. 기대득점 두 배, 슈팅 두 배를 만들고 승점 2를 놓쳤어요. 진짜 문제는 마무리보다 두 경기 연속 후반 초반에 집중력이 떨어진 거예요.
+· 요케레스는 원더골로 존재감을 보였지만, 맨시티전에서도 선발로 나올 거라고 봐요. 다만 박스 안 기회를 또 놓치면 하베르츠에게 자리를 내줄 수 있어요.
+· 도르트문트의 가장 큰 수확은 18세 가두예요. 태클 6개에 동점골 도움까지, 에미레이츠에서 이런 경기를 한 센터백은 오래 기억될 거예요.
+· 맨시티전은 아스널의 2-1 승리를 예상해요. 라야는 아직 돌아오지 못하고 케파가 다시 골문을 지킬 것 같아요. 에제·팀버·기마랑이스는 선발로 돌아올 거예요.
+· 도르트문트는 레버쿠젠과 1-1로 비길 것 같아요. 챔피언스리그에선 아스널이 레알전 결과와 상관없이 8위 안을 지킬 거라고 봐요.
+
+여러분은 오늘 아스널, 마무리가 문제였다고 보세요, 아니면 아르테타 감독의 로테이션이 문제였다고 보세요? 요케레스 평가도 댓글로 남겨 주세요!
+
+※ 경기 기록, 팀 통계, 선수 평점, 선발 명단, 다음 일정은 API-Football(경기 직후 기준)이에요. 평점과 통계는 이후 수정될 수 있고, 슈팅 수는 스카이스포츠 집계(29개)와 달라요. UCL 순위는 11월 24일 순위에 25일 새벽 경기 결과를 더해 계산했어요. 경기 장면은 스카이스포츠·인디펜던트(11월 24일), 라야 부상과 아르테타 감독 발언은 스카이스포츠 보도예요. 원인 분석 ②는 제 해석이에요. 썸네일은 AI 생성 이미지예요.
+
+#아스널도르트문트 #아스널도르트문트평점 #챔피언스리그 #UCL #아스널 #도르트문트 #요케레스 #외데고르 #케파 #마두에케 #바이어 #가두 #페이르만 #라야부상 #아르테타 #코바치 #해외축구 #해축
