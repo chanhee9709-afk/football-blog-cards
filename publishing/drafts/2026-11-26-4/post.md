@@ -1,0 +1,113 @@
+---
+style: classic
+title: 고든 바르사 사바 평점, 하피냐 벤치·야말 결장에도 4골…바쿠만 오면 터지는 고든, 야말 자리 아데예미는 합격일까
+category: 경기 리뷰·논평
+post_type: review
+summary: 바르셀로나가 아제르바이잔 바쿠에서 사바를 4-1로 꺾고 챔피언스리그 4승째를 챙겼어요. 야말이 발목 문제로 빠지고 하피냐가 벤치에서 시작했지만, 고든이 멀티골을 넣고 아데예미·가브리엘 제주스도 골을 보탰어요. 플릭 감독의 로테이션, 야말 자리를 채운 오른쪽, 골 장면이 어디서 나왔는지, 선수 평점과 순위 변화, 다음 일정까지 정리했어요.
+keywords: [사바 바르사 평점, 고든 바르사, 아데예미 야말, 바르사 챔피언스리그, 바르사 순위]
+tags: [사바바르사, 사바바르사평점, 바르셀로나, 바르사, 챔피언스리그, UCL, 사바, 고든, 아데예미, 가브리엘제주스, 하피냐, 야말결장, 플릭, 바르사로테이션, 발데, 더용, 페드리, 해외축구, 해축]
+sources: ["https://www.mundodeportivo.com/futbol/fc-barcelona/20261125/1004255470/cronica-sabah-barcelona.html", "https://www.mundodeportivo.com/futbol/fc-barcelona/20261125/1004255497/1x1-barca-sabah.html", "https://www.mundodeportivo.com/futbol/fc-barcelona/20261125/1004255549/flick-hacerlo-mejor-contento.html", "https://www.mundodeportivo.com/futbol/fc-barcelona/20261125/1004255525/balde-asistencia-reivindicarse-salida-accidentada.html", "https://www.mundodeportivo.com/futbol/fc-barcelona/20261125/1004255508/gordon-despierta-barca-gol-killer.html", "https://www.mundodeportivo.com/futbol/fc-barcelona/20261125/1004255548/mosqueo-flick-gol-sabah-golpea-balon-quita-chaqueta.html", "https://www.marca.com/futbol/champions-league/sabah-barcelona/2026/11/25/01_0103_20261125_13645_178-directo.html", "https://www.marca.com/futbol/barcelona/2026/11/25/anthony-gordon-non-grato-azerbaiyan.html", "https://www.marca.com/futbol/barcelona/2026/11/25/hansi-flick-contento-triunfo-gol-concedido.html", "https://www.marca.com/futbol/barcelona/2026/11/25/dos-partidos-sancion-fermin-podra-jugar-atletico.html"]
+source_note: "API-Football(경기 기록·선수 평점·선발 명단·교체·부상자·순위·다음 일정, 경기 직후 기준), 마르카 11월 25일(문자 중계·선수 평가·플릭 기자회견·페르민 징계), 문도 데포르티보 11월 25일(경기 리포트·선수별 평가·플릭 인터뷰·발데·고든·아데예미 기사)"
+data_as_of: "2026-11-26 07:00 KST"
+images:
+  - file: 2026-11-26-사바바르사평점-fig-1.png
+    caption: 사바 바르사전 한눈에
+  - file: 2026-11-26-사바바르사평점-fig-2.png
+    caption: 사바 바르사 선수 평점
+  - file: 2026-11-26-사바바르사평점-fig-3.png
+    caption: 실제 선발 포메이션 맞대결
+  - file: 2026-11-26-사바바르사평점-fig-4.png
+    caption: 야말 자리와 4골의 출처
+  - file: 2026-11-26-사바바르사평점-fig-5.png
+    caption: UCL 리그 페이즈 잠정 순위
+  - file: 2026-11-26-사바바르사평점-fig-6.png
+    caption: 프리뷰 예상 채점
+thumbnail_prompt: "Photorealistic football photo, UEFA Champions League night match at the Baku Olympic Stadium in Azerbaijan, late November, cold night, bright floodlights, a huge blurred bowl of stands under a dark sky. Anthony Gordon (앤서니 고든), the 25-year-old English winger of FC Barcelona, about 1.83 m, slim, wiry and athletic, fair skin, narrow angular face with prominent cheekbones and a sharp defined jaw, light-coloured eyes, thin straight eyebrows, a straight narrow nose, thin lips, light stubble, his current blond hair: medium length, swept back off the forehead with soft volume and loose waves falling to the tops of the ears (not short, not a buzz cut, no man bun, no braids). Shown from the front, three-quarter view, a second after tapping in a rebound from close range for his second goal, running away from the goal toward the camera with his right fist clenched at chest height, mouth open in a shout of joy. He wears FC Barcelona's authentic 2026-27 Nike third kit exactly as in real Champions League photos, not a plain or generic shirt and not the blue-and-garnet home shirt: a retro 1990s-style shirt split into a pale mint 'Frost Green' side and a muted 'Cactus Dust' side divided by a zigzag line, the Nike swoosh on the upper right chest, the full-colour FC Barcelona crest on the left chest, the 'Spotify' logo and wordmark across the centre of the chest, the UEFA Champions League starball badge on the sleeve; matching shorts with the number 17 and matching socks. Fabric with realistic folds and sweat. Behind him, blurred, Gabriel Jesus and Karim Adeyemi in the same Barcelona kit run to join him, and a Sabah player in an all-black kit kneels near the goal. Realistic match moment only. Camera at waist height, framed from head to knees, he fills about 70% of the image height. Top fifth of the image dark night sky and stadium roof for text. No other text in the image apart from the real kit sponsors, logos and shirt number. Absolutely no national flags. The face must closely resemble the real Anthony Gordon. Vertical 4:5."
+thumbnail_text: ["하피냐 벤치, 야말 결장", "고든이 다 해결했다"]
+thumbnail_file: "2026-11-26-사바바르사평점-썸네일-AI.png"
+threads_text: ""
+publish_at: ""
+---
+
+안녕하세요! 제임스입니다~
+
+바르셀로나가 26일(목) 새벽 아제르바이잔 바쿠에서 사바를 4-1로 이겼어요. 챔피언스리그 리그 페이즈 4승 1패, 승점 12예요.
+야말은 오른쪽 발목 문제로 바쿠에 오지 않았고, 하피냐는 벤치에서 시작했어요. 그런데도 처음 맞춰 본 고든·가브리엘 제주스·아데예미 앞선이 4골을 모두 넣었어요. 고든은 바르사 유니폼을 입고 첫 멀티골을 넣었는데, 올해 2월 뉴캐슬 시절 카라바흐 원정 4골까지 합치면 아제르바이잔에서만 6골이에요.
+오늘은 사바 바르사 평점과 함께 플릭 감독의 로테이션, 야말 자리를 누가 어떻게 채웠는지, 4골이 어디서 나왔는지를 숫자로 풀어요.
+
+[IMAGE]
+
+## 경기 흐름: 30분 동안 답답하다가, 후반 10분 만에 3골
+
+시작은 바르사답지 않았어요. 사바가 앞에서부터 강하게 눌렀고, 두 케이로스가 주안 가르시아와 일대일로 마주 섰고, 코너킥에선 알리예프의 슈팅이 크로스바를 때렸어요(문도 데포르티보). 마르카 문자 중계는 경기 초반 "바르사가 아직 슈팅 하나, 위협적인 접근 하나 만들지 못했다"고 적었어요.
+31분 균형이 깨졌어요. 아데예미가 오른쪽에서 수비를 제치고 크로스를 올렸고, 골키퍼 포카틸로프가 쳐낸 공을 왼쪽에서 문전으로 들어온 고든이 밀어 넣었어요. 직후 고든이 한 골을 더 넣었지만 시작 장면의 가브리엘 제주스 오프사이드로 취소됐어요.
+후반은 바르사 쪽으로 확 기울었어요. 51분 세 공격수가 주고받은 뒤 가브리엘 제주스의 돌파를 포카틸로프가 다시 쳐냈고, 또 고든이 마무리했어요. 55분엔 발데의 왼쪽 낮은 크로스를 아데예미가 먼 쪽 포스트에서 받아 넣었고, 60분엔 고든의 코너킥을 쿤데가 머리로 돌려 놓은 공이 다시 골키퍼 손에 맞고 나오자 가브리엘 제주스가 넘어진 채로 밀어 넣었어요.
+63분 사바가 한 골을 만회했어요. 발데가 슈팅 뒤 발목을 다쳐 치료를 받느라 바르사가 10명으로 뛰던 때였고, 은와추쿠의 패스를 받은 미켈스가 침착하게 넣었어요. 이 골에 플릭 감독은 옆에 있던 공을 걷어차고 재킷을 벗어 던졌어요(문도 데포르티보).
+
+## 선수 평점: 고든 9.0 혼자 9점대, 하피냐는 14분
+
+[IMAGE]
+
+API-Football 평점(경기 직후 기준)으로는 고든이 9.02로 가장 높아요. 슈팅 5개 중 3개가 골문으로 향했고, 2골에 네 번째 골의 시작이 된 코너킥까지 찼어요. 문도 데포르티보는 그를 "아제르바이잔에서 다시 킬러 본능을 보였다"고 썼고, 이번 시즌 바르사 기록은 5골 5도움이 됐어요.
+가브리엘 제주스는 슈팅 7개(유효 4개)로 1골, 7.85예요. 이번 시즌 첫 챔스 선발이었는데 전반엔 무거웠고, 후반에 두 번째 골의 돌파와 네 번째 골을 만들었어요. 아데예미는 1골에 키패스 2개로 7.7, 챔스 5경기 중 3경기에서 골을 넣었어요.
+중원에선 페르민이 키패스 3개, 경합 5번 모두 승리로 7.4를 받았어요. 생일(24번째)에 선발로 나선 페드리는 45분만 뛰고 7.17이에요. 20분 페드리의 발리 슈팅을 포카틸로프가 몸을 날려 막은 장면이 전반 바르사의 가장 좋은 기회였어요.
+76분 고든과 교체된 하피냐는 14분 동안 패스 13개, 슈팅은 없었어요. 사바에선 선방 9개를 기록한 포카틸로프가 7.22로 가장 높지만, 마르카는 "모든 실점 장면에서 약점이 드러났다"고 평가했어요. 바르사는 슈팅 25개, 기대득점 4.12를 만들었고 사바는 슈팅 8개, 기대득점 1.27이었어요.
+
+## 원인 분석: 야말·하피냐 없이 어떻게 4골이 나왔을까
+
+[IMAGE]
+
+① 로테이션: 다섯 명을 바꾸고, 페드리는 처음부터 45분
+플릭 감독은 22일 비야레알전과 비교해 선발 5명을 바꿨어요. 야말·하피냐·칸셀루·에릭 가르시아·베르날이 빠지고 고든·가브리엘 제주스·발데·쿤데·가비가 들어왔어요. 페드리 교체도 계획이었어요. 플릭 감독은 "경기가 어떻게 흘러가든 45분만 뛰게 할 생각이었고, 올모도 45분만 뛰게 했다"고 말했어요(마르카).
+수비 가운데는 이번에도 미드필더 더 용이었어요. 마르카에 따르면 올 시즌 6경기 중 3경기를 센터백으로 뛰었고, 이번엔 "센터백이 하나 탄생했다"는 평가까지 받았어요. 더 용과 제라르 마르틴은 패스 159개를 합작했고, 제라르 마르틴의 패스 92개는 양 팀 통틀어 가장 많았어요. 바르사가 점유율 72%, 패스 685개로 경기를 쥘 수 있었던 바탕이에요.
+
+② 야말 자리는 아데예미, 그 뒤를 페르민·쿤데가 받쳤어요
+야말이 서던 오른쪽 윙엔 아데예미가 섰어요. 처음엔 어색했어요. 문도 데포르티보는 "야말 역할을 맡았지만 왼발로 안으로 파고드는 각이 없어 불편해 보였다"고 했고, 마르카도 "페르민과 호흡이 맞지 않았고, 쿤데와 겹쳐 올라가는 움직임도 잘 안 됐다"고 짚었어요. 실제로 아데예미의 경합은 10번 중 3번 승리였고, 전반 그의 패스 실수에서 사바의 위험한 역습이 나오기도 했어요.
+그래도 답을 찾은 것도 아데예미였어요. 안쪽 대신 바깥 오른쪽으로 치고 나가자 첫 골이 나왔어요(문도 데포르티보). 뒤에선 쿤데가 경합 7번을 모두 이기고 태클 5개로 오른쪽을 지켰고, 페르민은 패스 66개, 키패스 3개로 연결을 맡았어요. 다만 사바의 골은 페르민이 공을 뺏긴 데서 시작됐어요. 비야레알전 첫 실점과 같은 장면이에요(문도 데포르티보).
+
+③ 4골 중 3골이 골키퍼가 쳐낸 공, 고든은 늘 그 자리에 있었어요
+네 골의 출발점은 오른쪽(아데예미), 가운데(세 공격수 연계), 왼쪽(발데), 코너킥으로 고르게 나뉘었어요. 공통점은 따로 있었어요. 첫 골, 두 번째 골, 네 번째 골 모두 포카틸로프가 앞으로 쳐낸 공이었어요. 문도 데포르티보는 고든의 두 골을 "측면 돌파, 크로스, 골키퍼의 짧은 펀칭, 문전 마무리로 거의 똑같은 골"이라고 했어요.
+왼쪽 역할 분담도 눈여겨볼 만해요. 고든이 터치라인에 붙어 사바 오른쪽 수비수를 바깥으로 끌어내면, 발데가 그 수비수와 센터백 사이 통로로 파고들었어요(문도 데포르티보). 이번 시즌 첫 선발이던 발데는 바로 그 통로에서 세 번째 골을 도왔어요. 그렇게 측면을 넓게 벌려 두니 고든은 공이 흘러나올 문전 가운데로 늦게 들어갈 수 있었어요. 바르사 슈팅 25개 중 15개가 페널티 박스 안에서 나왔어요.
+
+[IMAGE]
+
+다만 아쉬움도 남아요. 바르사는 챔스 5경기 중 애스턴 빌라전만 무실점이었고, 이번에도 4-0에서 10명일 때 실점했어요. 플릭 감독은 "이런 수준에선 그런 쉬운 실수를 해선 안 된다"고 했어요(마르카). 리그 페이즈 순위는 골득실까지 따지니 이 1골도 작지 않아요.
+
+## UCL 순위 변화: 5위에서 4위로, 사바는 33위
+
+[IMAGE]
+
+바르사는 승점 12(18득 7실)로 26일 새벽 경기까지 계산한 잠정 순위 4위예요. 승점 12 팀이 코모·바르사·리버풀·베티스 넷이라 골득실로 갈렸고, 이번 1실점이 아쉬운 이유가 여기 있어요. 같은 날 PSG는 로마와 2-2로 비겨 승점 13으로 2위, 리버풀은 브뤼헤를 3-0으로 이기고 5위로 올라왔어요.
+16강 직행 마지노선인 8위 맨시티(승점 10)와는 2점 차라 아직 안심할 수 없어요. 남은 상대가 맨시티(홈), 스포르팅(원정), 코모(홈)로 모두 상위권 팀이에요. 특히 12월 9일 맨시티전은 8위 안팎을 가르는 맞대결이에요.
+사바는 1승 4패, 승점 3(5득 14실)으로 33위까지 내려갔어요. 같은 날 릴이 바이에른을 2-1로 꺾고 승점 4가 되면서 한 계단 더 밀렸어요. 플레이오프 마지노선인 24위와 차이가 벌어져, 남은 비야레알 원정·나폴리 홈·아스널 원정에서 승점을 쌓아야 해요.
+
+## 다음 일정: 30일(월) 데포르티보 원정, 12월 3일(목) 아틀레티코
+
+바르사는 30일(월) 새벽 0시 15분 리아소르에서 데포르티보와 라리가 14라운드를 치러요. 이어 12월 3일(목) 새벽 5시 30분 캄 노우에서 아틀레티코, 6일(일) 새벽 5시 셀타를 만나고, 챔스 6차전은 9일(수) 새벽 5시 맨시티 홈경기예요.
+부상·징계 소식이 많아요. 발데는 오른쪽 발목을 다쳐 26일 바르셀로나에서 검사를 받아요. 문도 데포르티보는 첫 진단이 염좌이고 구단은 큰 부상은 아닌 것으로 본다고 전했어요. 구단은 야말이 데포르티보전엔 돌아올 수 있다고 발표했어요. 반대로 페르민은 비야레알전 퇴장 징계 2경기가 확정돼 데포르티보전과 아틀레티코전에 못 나와요(마르카). API-Football 부상 명단엔 크리스텐센, 로드리, 에스파르트, 바르지도 아직 올라 있어요.
+사바는 29일(일) 0시 아라즈와 리그 홈경기를 치르고, 챔스 6차전은 12월 9일(수) 새벽 2시 45분 비야레알 원정이에요.
+
+## 관전 포인트 복기: 프리뷰에서 던진 질문의 답
+
+바르사 쪽에서 보면
+· 하피냐가 2경기 침묵을 깨고 멀티골을 넣을까요? 아니었어요. 플릭 감독은 하피냐를 벤치에 앉혔고, 76분 투입 뒤 슈팅이 없었어요. 무득점 경기가 3경기로 늘었어요. 페널티킥도 나오지 않았어요.
+· 야말 없는 오른쪽에서 누가 기회를 만들까요? 아데예미였어요. 첫 골을 만들고 세 번째 골을 넣었지만, 전반엔 경합과 패스에서 흔들렸어요.
+· 플릭 감독이 페드리를 쉬게 할까요? 반만 쉬게 했어요. 선발로 나와 전반을 지휘한 뒤 계획대로 하프타임에 빠졌어요.
+사바 쪽에서 보면
+· 매카시 없이 바르사의 수비 라인 뒤를 역습으로 찌를 수 있을까요? 전반엔 됐어요. 두 케이로스의 일대일, 알리예프의 크로스바가 있었어요. 하지만 골은 바르사가 10명일 때 한 번뿐이었어요.
+· 홈 분위기가 바르사 상대로도 통할까요? 30분까지는 통했어요. 첫 실점 뒤엔 마르카 표현대로 "빈틈이 보이기" 시작했어요.
+
+## 제임스의 생각
+
+[IMAGE]
+
+· 제 예상은 바르사 3-1 승리, 하피냐 2골(페널티킥 포함), 아데예미 1골, 사바 골은 패리스의 역습이었어요. 바르사 승리와 사바 1골, 아데예미 골, 오른쪽 아데예미는 맞혔어요. 하지만 하피냐는 벤치였고, 사바 골은 패리스가 아닌 하프타임에 들어온 미켈스가 넣었어요.
+· 선발 예상은 11명 중 6명만 맞았어요. 쿠바르시·에릭 가르시아 대신 더 용·제라르 마르틴이 센터백을 봤고, 쉬게 할 거라던 페드리·제라르 마르틴이 선발이었어요. 페르민은 징계가 경기 직전 확정됐고, 바쿠에서 90분을 다 뛰었어요. 플릭 감독이 쉬게 한 건 하피냐였어요.
+· 저는 오늘 가장 큰 수확을 고든보다 더 용 센터백으로 봐요. 쿠바르시를 벤치에 두고도 수비 라인이 공을 잘 돌렸고, 아틀레티코전에서도 쓸 수 있는 카드가 됐어요.
+· 걱정은 오른쪽이에요. 아데예미는 골을 넣었지만, 마르카 말대로 오른쪽은 결국 야말의 자리예요. 페르민까지 2경기 빠지니 데포르티보·아틀레티코전엔 야말과 올모의 비중이 더 커져요. 데포르티보전은 바르사 3-1 승리, 쉬고 온 하피냐가 3경기 침묵을 깨는 골을 넣을 거라고 봐요.
+
+여러분은 오늘 바르사의 MVP를 누구로 보시나요? 멀티골의 고든, 야말 자리를 채운 아데예미, 센터백으로 뛴 더 용 중에서 골라 댓글로 남겨 주세요!
+
+※ 경기 기록, 선수 평점, 선발 명단, 교체, 부상자, 다음 일정은 API-Football(경기 직후 기준)이에요. 평점은 이후 수정될 수 있어요. UCL 순위는 API-Football 순위에 26일 새벽 경기 결과를 더해 직접 계산한 잠정 순위예요. 경기 장면과 선수 평가, 플릭 감독 기자회견, 페르민 징계는 마르카(11월 25일), 경기 리포트와 선수별 평가, 발데 부상, 고든·아데예미 관련 내용은 문도 데포르티보(11월 25일) 보도를 참고했어요. 원인 분석과 해석은 제 분석이에요. 썸네일은 AI 생성 이미지예요.
+
+#사바바르사 #사바바르사평점 #바르셀로나 #바르사 #챔피언스리그 #UCL #사바 #고든 #아데예미 #가브리엘제주스 #하피냐 #야말결장 #플릭 #바르사로테이션 #발데 #더용 #페드리 #해외축구 #해축
