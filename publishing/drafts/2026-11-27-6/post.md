@@ -1,0 +1,99 @@
+---
+style: classic
+title: 손흥민 세인트루이스 2차전, 지면 시즌 끝…5경기 무승 LAFC 홈에서 3차전 끌고 갈까
+category: 일정·프리뷰
+post_type: preview
+summary: 29일(일) 오전 10시 30분 손흥민의 LAFC가 홈 BMO 스타디움에서 세인트루이스와 MLS컵 플레이오프 1라운드 2차전을 치러요. 3전 2선승제에서 1차전을 2-3으로 진 LAFC는 이 경기를 지면 바로 탈락하고, 비기면 연장 없이 승부차기예요. 1차전에서 키패스 5개를 만들고도 유효 슈팅이 없던 손흥민의 자리, 정상빈이 흔든 LAFC 왼쪽, 홈 맞대결 무패 기록과 예상 스코어까지 정리했어요.
+keywords: [손흥민 세인트루이스 2차전, 손흥민 플레이오프, LAFC 세인트루이스, 정상빈, 손흥민 탈락 위기]
+tags: [손흥민, 손흥민세인트루이스, 손흥민세인트루이스2차전, 손흥민플레이오프, 손흥민탈락위기, LAFC, 세인트루이스, LAFC세인트루이스, 정상빈, 코리안더비, MLS, MLS컵, MLS플레이오프, 부앙가, 타마리트, 미국프로축구, 해외축구, 해축]
+sources: ["https://www.mlssoccer.com/news/round-one-best-of-3-series-format-key-info-audi-2026-mls-cup-playoffs", "https://www.news1.kr/sports/overseas-soccer/6367520", "https://www.mydaily.co.kr/page/view/2026112619085534220", "http://www.osen.co.kr/article/G1112915587", "https://www.sportschosun.com/football/2026-11-27/202611270100170000015715"]
+source_note: "API-Football(1차전 기록·선발 명단·교체, 정규시즌 순위·홈 성적, 최근 경기, 맞대결, 부상자 명단, 선수 기록, 11월 27일 기준), MLS 공식 안내(1라운드 3전 2선승제, 90분 무승부 시 연장 없이 승부차기), 뉴스1·마이데일리(11월 26일 3전 2선승제·3차전 상위 시드 홈), OSEN(11월 26일 LAFC 구단 2차전 전망), 스포츠조선(11월 26~27일 현지 전망과 정상빈 인터뷰), 인터풋볼(MLS 공식 7골 15도움)"
+data_as_of: "2026-11-27 07:30 KST"
+images:
+  - file: 2026-11-27-손흥민세인트루이스2차전프리뷰-fig-1.png
+    caption: LAFC 세인트루이스 2차전 한눈에
+  - file: 2026-11-27-손흥민세인트루이스2차전프리뷰-fig-2.png
+    caption: 1차전 기록 다시 보기
+  - file: 2026-11-27-손흥민세인트루이스2차전프리뷰-fig-3.png
+    caption: LAFC 최근 경기와 홈 맞대결
+  - file: 2026-11-27-손흥민세인트루이스2차전프리뷰-fig-4.png
+    caption: 예상 선발 포메이션 맞대결
+  - file: 2026-11-27-손흥민세인트루이스2차전프리뷰-fig-5.png
+    caption: 손흥민 시즌·1차전 기록
+thumbnail_prompt: "Photorealistic football photo, MLS Cup playoff afternoon match at BMO Stadium in Los Angeles, USA, late autumn sun and stadium lights, blurred steep stands packed with LAFC supporters in black and gold waving black-and-gold scarves and smoke in the supporters' end. Son Heung-min (손흥민), the 34-year-old South Korean forward of Los Angeles FC, about 1.83 m, lean athletic build, light tan East Asian skin, oval face with a defined jaw, double eyelids, straight dark eyebrows, straight nose, short neat black hair with a slightly textured top and short tidy sides, natural hairline, clean-shaven, mature look. Shown from the front in a three-quarter view inside the penalty area, just left of the penalty spot, striking the ball first-time with his RIGHT foot, body leaning over the ball, eyes on the ball, fierce determined expression. He wears LAFC's authentic 2026 adidas primary (home) matchday kit exactly as in real broadcast photos, not a plain or generic shirt: black shirt with a subtle repeating gold Art Deco geometric pattern, gold trim on the collar and cuffs, the gold adidas three stripes on the shoulders, the adidas logo on the right chest and the real LAFC black-and-gold crest on the left chest, the 'BMO' sponsor logo across the middle of the chest, the 'Ford' sponsor patch on the right sleeve and the MLS badge on the left sleeve; black shorts with the number 7 in gold, black socks with gold details. Fabric with realistic folds and sweat. Behind him, blurred, a St. Louis City SC defender in a white away shirt with red and navy trim lunges to block. Realistic match moment only. Camera at waist height, framed from head to knees, he fills about 70% of the image height. Top fifth of the image dark sky for text. No other text in the image apart from the real kit sponsors, logos and shirt number. Absolutely no national flags. The face must closely resemble the real Son Heung-min. Vertical 4:5."
+thumbnail_text: ["지면 시즌 끝", "손흥민, 3차전 끌고 갈까?"]
+thumbnail_file: "2026-11-27-손흥민세인트루이스2차전프리뷰-썸네일-AI.png"
+threads_text: ""
+publish_at: ""
+---
+
+안녕하세요! 제임스입니다~
+
+29일(일) 오전 10시 30분, 손흥민의 LAFC가 홈 BMO 스타디움에서 세인트루이스와 MLS컵 플레이오프 1라운드 2차전을 치러요. 1차전 원정에서 2-3으로 졌기 때문에, 이번에 지면 그대로 시즌이 끝나요.
+손흥민은 1차전에서 키패스 5개로 양 팀 최다 기회를 만들었지만 유효 슈팅은 0개였어요. 반대로 세인트루이스의 정상빈은 골을 넣고 "2차전에서 끝내겠다"고 했어요(스포츠조선).
+이번 글에서는 손흥민 세인트루이스 2차전의 규칙부터, LAFC가 1차전에서 왜 졌고 홈에서 무엇을 바꿔야 하는지, 예상 선발과 스코어까지 차례로 볼게요.
+
+[IMAGE]
+
+## 시리즈 방식: 비기면 연장 없이 바로 승부차기
+
+헷갈리기 쉬운 부분부터요. MLS컵 플레이오프 1라운드는 3전 2선승제예요. 합산 스코어가 아니라 경기마다 승자를 따로 가리고, 먼저 2승을 한 팀이 올라가요(MLS 공식 안내, 뉴스1).
+90분을 비기면 연장전 없이 곧바로 승부차기로 그 경기 승자를 정해요(MLS 공식 안내). 그래서 2차전에서 LAFC가 비긴 뒤 승부차기를 이기면 1승 1패가 되고, 지면 탈락이에요.
+1승 1패가 되면 3차전은 정규시즌 순위가 높은 세인트루이스 홈에서 열려요(뉴스1·마이데일리). 세인트루이스는 서부 3위(승점 54), LAFC는 6위(승점 47)였어요.
+
+## 1차전 복기: 더 차고도 진 LAFC
+
+[IMAGE]
+
+LAFC는 1차전에서 슈팅 17개, 기대득점 2.09로 세인트루이스(10개, 1.48)보다 많이 찼어요(API-Football, 이후 수정값). 그런데 유효 슈팅은 4개로 세인트루이스(6개)보다 적었고, 17개 중 7개가 상대 몸에 막혔어요.
+세인트루이스는 에델만(34분), 정상빈(51분), 베허(78분)가 골을 넣었고, LAFC는 팔렌시아(62분)와 부앙가의 페널티킥(85분)으로 따라붙었어요. 점유율은 오히려 세인트루이스가 59%로 높았어요.
+LAFC 구단도 2차전 전망 글에서 "손흥민이 계속 위협적이어야 한다"며 1차전 손흥민을 올 시즌 최고 수준이라고 평가했어요(OSEN). 반면 현지 전망에선 압박 인원이 부족했고 핵심 공격수를 초반에 제대로 쓰지 못했다는 지적이 나왔어요(스포츠조선).
+
+## 원인 분석: 손흥민은 왜 박스에서 멀어졌을까
+
+① 2선 중앙, 더킨과 에델만 사이에 갇혔어요
+타마리트 감독은 4-2-3-1에서 손흥민을 시브 아래 2선 중앙에 세웠어요. 세인트루이스의 3-4-3은 더킨·에델만 두 중앙 미드필더가 손흥민 앞 공간을 번갈아 지웠고, 손흥민은 슈팅보다 패스로 답했어요. 키패스 5개, 슈팅 3개(유효 0개)가 그 결과예요.
+② 왼쪽에서 부앙가가 수비까지 떠안았어요
+정상빈과 윙백 월렘이 LAFC 왼쪽을 계속 두드렸어요. 왼쪽 수비 체베르코는 79분에 홀링스헤드와 교체됐어요. 정규시즌 18골의 부앙가가 수비 부담을 나누면서, 손흥민과 부앙가가 서로를 살리는 장면이 거의 없었어요.
+③ 교체 뒤에 골이 났어요
+60분 델가도 대신 이고르 제주스, 61분 발타 대신 바스케스가 들어간 뒤 LAFC는 두 골을 넣었어요. 박스 안에 사람이 늘자 손흥민의 패스도 받아 줄 곳이 생겼어요. 2차전에서 처음부터 더 공격적으로 나올 근거예요. 이건 경기 기록을 바탕으로 한 제 해석이에요.
+
+[IMAGE]
+
+## LAFC 흐름: 5경기 무승, 그래도 홈에선 단단했어요
+
+LAFC의 마지막 승리는 10월 15일 오스틴전 3-1이에요. 손흥민이 1골 2도움을 올린 경기였어요. 그 뒤로 2무 3패, 5경기째 이기지 못했어요.
+그래도 홈은 달라요. 정규시즌 홈 17경기 9승 4무 4패, 32골 18실점이었어요. 세인트루이스와의 홈 맞대결은 2023년부터 4경기 3승 1무로 진 적이 없고, 올해 3월에도 2-0으로 이겼어요.
+세인트루이스는 원정에서 6승 5무 6패로 홈(9승 4무 4패)보다 약했어요. 다만 지난달 US오픈컵 결승에서 콜럼버스를 승부차기로 꺾은 팀이라, 승부차기까지 가는 경기에도 익숙해요.
+
+[IMAGE]
+
+## 예상 선발: 4-2-3-1 그대로, 앞쪽만 바뀐다
+
+LAFC는 요리스, 홀링스헤드·세구라·포티어스·팔렌시아, 델가도·쇼이니에르, 부앙가·손흥민·발타, 최전방 이고르 제주스를 예상해요. 1차전 교체 뒤 흐름이 좋았던 홀링스헤드와 이고르 제주스가 먼저 나오는 그림이에요. 샤펠버그(갈비뼈)는 이번에도 빠지고, 틸만(골반)은 출전이 불투명해요(API-Football).
+세인트루이스는 1차전과 같은 3-4-3을 예상해요. 뷔르키 앞에 폴바라·바움가르틀·맥노튼, 토틀란·에델만·더킨·월렘, 정상빈·나바로·마찬이에요. 월렘과 마찬은 출전이 불투명하고, 홀세는 이번에도 빠져요.
+승부처는 두 곳이에요. 손흥민이 더킨·에델만 뒤로 빠져 박스 앞에서 공을 받느냐, 그리고 LAFC 왼쪽이 정상빈의 침투를 막느냐예요.
+
+[IMAGE]
+
+## 관전 포인트: LAFC 세인트루이스 2차전, 두 팀의 숙제
+
+LAFC 쪽에서 보면
+· 타마리트 감독이 손흥민을 더 앞으로 올릴까요? 박스 안에서 공을 받는 횟수가 늘어야 5경기 무득점이 끝나요.
+· 지면 끝인 경기에서 수비 라인을 얼마나 올릴까요? 올리면 정상빈·나바로의 역습 공간도 함께 커져요.
+세인트루이스 쪽에서 보면
+· 원정에서도 더킨·에델만의 중원이 손흥민을 지울 수 있을까요? 1차전 승리의 가장 큰 이유가 이 두 미드필더였어요.
+· 정상빈은 "2차전에서 끝내겠다"는 말을 지킬까요? 1차전처럼 LAFC 왼쪽 뒤를 파고들면 시리즈가 바로 끝날 수 있어요.
+
+## 제임스의 예상
+
+· 지난 기록부터요. 11월 22일 프리뷰에선 1차전을 세인트루이스 2-1 승, LAFC 골은 손흥민으로 봤어요. 세인트루이스 승리는 맞았지만 스코어(3-2)와 손흥민 골은 틀렸어요.
+· 2차전은 1차전 리뷰 때 말한 LAFC 2-1 승리를 그대로 갈게요. 홈 맞대결 무패와 홈 18실점이 근거예요. 다만 5경기 무승 흐름을 생각하면, 1-1 뒤 승부차기까지 갈 가능성도 30% 정도로 봐요.
+· 손흥민은 90분을 뛰고 1골을 넣는다고 봐요. 이고르 제주스가 최전방에서 수비를 끌어 주면 손흥민이 박스 앞에서 슈팅할 공간이 생겨요. LAFC 두 번째 골은 부앙가예요.
+· 세인트루이스 골은 정상빈 쪽 왼쪽 역습에서 나올 거예요. 그렇게 시리즈는 1승 1패, 세인트루이스 원정 3차전까지 간다고 봐요.
+
+여러분은 LAFC가 홈에서 3차전을 만들어 낼 거라고 보시나요? 손흥민이 2선 중앙과 최전방 중 어디에 서야 할까요? 댓글로 남겨 주세요!
+
+※ 1차전 기록, 선발 명단과 교체, 정규시즌 순위·홈 성적, 최근 경기, 맞대결, 부상자 명단, 선수 기록은 API-Football(11월 27일 기준)이에요. 1차전 기록은 경기 뒤 수정된 값이라 리뷰 글 숫자와 조금 달라요. 3전 2선승제와 승부차기 규정은 MLS 공식 안내와 뉴스1·마이데일리(11월 26일), 구단 2차전 전망은 OSEN(11월 26일), 현지 전망과 정상빈 인터뷰는 스포츠조선(11월 26~27일) 보도예요. 손흥민의 MLS 공식 7골 15도움은 한 골에 도움 2개까지 주는 MLS 집계(인터풋볼)이고, API-Football은 12도움이에요. 예상 선발은 제 예상이에요. 썸네일은 AI 생성 이미지예요.
+
+#손흥민 #손흥민세인트루이스 #손흥민세인트루이스2차전 #손흥민플레이오프 #손흥민탈락위기 #LAFC #세인트루이스 #LAFC세인트루이스 #정상빈 #코리안더비 #MLS #MLS컵 #MLS플레이오프 #부앙가 #타마리트 #미국프로축구 #해외축구 #해축

@@ -1,0 +1,113 @@
+---
+style: classic
+title: 김민재 함부르크전 다시 벤치일까…릴 충격패 사흘 뒤, 케인 없는 뮌헨 '지난 1월 2-2' 폭스파르크 원정
+category: 일정·프리뷰
+post_type: preview
+summary: 바이에른 뮌헨이 28일(토) 밤 11시 30분 함부르크 원정에서 분데스리가 11라운드를 치러요. 릴전 1-2 패배로 시즌 첫 패를 당한 바이에른은 케인·올리세 없이 공식전 2경기 무승을 끊어야 해요. 릴전 89분을 뛴 김민재가 다시 벤치로 갈지, 콤파니 감독의 로테이션 패턴과 함부르크 전력, 상대 전적, 예상 선발과 스코어까지 정리했어요.
+keywords: [김민재 함부르크전, 함부르크 바이에른, 김민재 선발, 김민재 벤치, 바이에른 함부르크]
+tags: [김민재, 김민재함부르크전, 김민재선발, 함부르크바이에른, 바이에른뮌헨, 함부르크, 분데스리가, 콤파니, 우파메카노, 조나탄타, 케인부상, 루이스디아스, 키미히, 폴친, 다카, 코리안리거, 해외축구, 해축]
+sources: ["https://search.naver.com/search.naver?where=news&query=%EA%B9%80%EB%AF%BC%EC%9E%AC+%ED%95%A8%EB%B6%80%EB%A5%B4%ED%81%AC", "https://search.naver.com/search.naver?where=news&query=%EA%B9%80%EB%AF%BC%EC%9E%AC+%EC%84%A0%EB%B0%9C+%EC%A0%9C%EC%99%B8", "https://www.api-football.com/documentation-v3"]
+source_note: "API-Football(분데스리가 순위·경기 결과·선발 명단·선수 기록·부상자 명단·상대 전적, 11월 27일 새벽 기준), 국내 보도(네이버 뉴스 검색: 도르트문트전 실수 뒤 김민재 선발 제외, 조나탄 타 입지 기사, 케인 발목 수술 3~4개월)"
+data_as_of: "2026-11-27 06:30 KST"
+images:
+  - file: 2026-11-27-김민재함부르크전프리뷰-fig-1.png
+    caption: 함부르크 바이에른전 한눈에
+  - file: 2026-11-27-김민재함부르크전프리뷰-fig-2.png
+    caption: 분데스리가 순위
+  - file: 2026-11-27-김민재함부르크전프리뷰-fig-3.png
+    caption: 김민재 시즌 출전 패턴
+  - file: 2026-11-27-김민재함부르크전프리뷰-fig-4.png
+    caption: 함부르크 최근 5경기
+  - file: 2026-11-27-김민재함부르크전프리뷰-fig-5.png
+    caption: 함부르크 바이에른 상대 전적
+  - file: 2026-11-27-김민재함부르크전프리뷰-fig-6.png
+    caption: 예상 선발 포메이션 맞대결
+thumbnail_prompt: "Photorealistic football photo, German Bundesliga evening match at the Volksparkstadion in Hamburg, bright floodlights, steep blurred stands full of Hamburger SV fans in white, blue and black scarves. Kim Min-jae (김민재), the 30-year-old South Korean centre-back of FC Bayern Munich, 1.90 m, tall, broad-shouldered powerful build, light tan East Asian skin, large wide slightly square face with a broad jaw, narrow single-lid dark eyes, thick low straight black eyebrows, a broad flat nose, medium full lips, clean-shaven with no beard or stubble, calm but serious expression. His hair: short straight black hair with neat short sides and back and a slightly longer top swept to the side, not spiky, not dyed, no buzz cut. Shown from the front in a three-quarter view standing on the touchline next to the fourth official's area, about to come on as a substitute, adjusting the cuff of his sleeve, eyes fixed on the pitch. He wears FC Bayern Munich's authentic 2026-27 adidas home matchday kit exactly as in real Bundesliga broadcast photos, not a plain or generic shirt: red shirt with white trim, the white adidas logo on the right chest, the round FC Bayern crest on the left chest, the magenta-and-white Deutsche Telekom 'T' logo across the middle of the chest, the Bundesliga sleeve badge on the right sleeve, red shorts, red socks, white number 3 on the shorts. Fabric with realistic folds. Behind him, blurred, a Hamburger SV player in the white HSV home shirt with the black-white-blue diamond crest and red shorts. Realistic match moment only. Camera at waist height, framed from head to knees, he fills about 70% of the image height. Top fifth of the image dark evening sky and stadium roof for text. No other text in the image apart from the real kit sponsors, logos and shirt number. Absolutely no national flags. The face must closely resemble the real Kim Min-jae. Vertical 4:5."
+thumbnail_text: ["릴전 패배 사흘 뒤,", "김민재 다시 벤치?"]
+thumbnail_file: "2026-11-27-김민재함부르크전프리뷰-썸네일-AI.png"
+threads_text: ""
+publish_at: ""
+---
+
+안녕하세요! 제임스입니다~
+
+김민재의 바이에른 뮌헨이 28일(토) 밤 11시 30분, 함부르크의 폭스파르크슈타디온에서 분데스리가 11라운드 함부르크 원정을 치러요.
+바이에른은 26일 릴 원정에서 1-2로 역전패하며 이번 시즌 공식전 첫 패배를 당했어요. 그 직전 쾰른전 1-1까지 공식전 2경기째 승리가 없고, 케인은 발목 인대 수술로 3~4개월 빠져요.
+김민재는 릴전에서 우파메카노와 짝을 이뤄 89분을 뛰었어요. 그럼 사흘 뒤 함부르크전에도 선발로 나올까요? 이번 글에서는 콤파니 감독의 로테이션 패턴으로 김민재 함부르크전 선발 가능성을 따져 보고, 함부르크 전력과 예상 스코어까지 차례로 볼게요.
+
+[IMAGE]
+
+## 경기 정보: 무패 2위 바이에른, 홈에선 다른 팀 함부르크
+
+바이에른은 분데스리가 10경기 6승 4무, 아직 리그에선 지지 않았어요. 하지만 무승부가 4번이나 되면서 승점 22로 2위예요. 1위 도르트문트(승점 24)와는 2점 차라, 이번 원정에서 미끄러지면 격차가 더 벌어질 수 있어요.
+함부르크는 4승 6패, 승점 12로 12위예요. 10골을 넣고 24골을 내줘 득실이 -14예요. 그런데 홈과 원정 성적이 완전히 달라요. 홈 4경기는 3승 1패, 원정 6경기는 1승 5패예요(API-Football).
+즉 바이에른이 상대하는 건 '득실 -14의 하위권 팀'이 아니라 '홈에서 4경기 3승을 거둔 팀'이에요. 지난 1월 폭스파르크에서도 바이에른은 2-2로 비겼어요.
+
+[IMAGE]
+
+## 김민재 출전 패턴: UCL 선발 다음 리그 경기에서는
+
+[IMAGE]
+
+이번 시즌 김민재의 공식전 기록을 한 줄씩 펼쳐 보면 콤파니 감독의 계산이 보여요.
+분데스리가 10경기 중 김민재가 선발로 나온 건 4번(슈투트가르트·엘버스베르크·라이프치히·도르트문트)이에요. 나머지 6경기는 모두 우파메카노와 타가 선발 센터백이었어요. 리그 출전 시간도 김민재 406분, 타 552분, 우파메카노는 835분으로 전 경기 선발이에요.
+챔피언스리그 선발 직후 리그 경기만 떼어 보면 이래요. 10월 14일 바이킹전 선발 뒤 라이프치히전엔 다시 선발로 나왔지만, 10월 22일 아스널전 선발 뒤 프라이부르크전엔 명단에서 빠졌어요.
+11월부터는 흐름이 더 분명해요. 도르트문트전 선발 이후 국내 보도에서 '라이벌전 실수 뒤 다시 벤치'라는 평가가 나왔고, 마인츠전 벤치, 쾰른전 70분 교체 투입이 이어졌어요. 리그는 우파메카노·타, 챔피언스리그는 김민재가 들어가는 식의 분담이 굳어지는 모양새예요.
+
+## 원인 분석: 김민재 함부르크전, 왜 벤치 쪽이 무거울까
+
+① 릴전에서 쉰 선수는 타예요
+릴전 선발 센터백은 우파메카노와 김민재였고, 타는 추가시간에 김민재 대신 들어가 몇 분만 뛰었어요. 사흘 간격 원정 2연전에서 체력이 가장 남아 있는 센터백이 타예요.
+우파메카노는 리그 전 경기 선발에 3골을 넣은 주전이라 빠질 이유가 적어요. 결국 '우파메카노 + 한 명'의 한 자리를 두고 89분 뛴 김민재와 쉰 타가 경쟁하는 그림이고, 로테이션 논리로는 타 쪽이 앞서요.
+② 다음 주 포칼이 김민재 몫일 가능성이 커요
+바이에른은 12월 2일(수) 새벽 헤르타 베를린과 DFB 포칼 홈경기, 12월 5일(토) 새벽 파더보른전, 12월 9일 슬라비아 프라하와 챔피언스리그를 치러요. 열흘 안에 4경기예요.
+지난 포칼 마그데부르크전에선 타와 이토가 선발이었지만, 시즌 첫 포칼 오스나브뤼크전엔 김민재가 90분을 뛰었어요. 함부르크전에서 아끼고 포칼에서 김민재를 쓰는 배분이 가장 자연스러워요. 이건 일정과 출전 기록을 바탕으로 한 제 해석이에요.
+③ 함부르크 원정은 '높이와 몸싸움' 경기예요
+함부르크는 폴친 감독 아래 3-5-2를 쓰고, 최전방에 다카와 뢰싱렐레시트 투톱을 세워요. 바이에른을 상대로는 공을 내주고 투톱에게 빠르게 연결하는 경기가 예상돼요.
+원정 기록도 타 쪽을 가리켜요. 이번 시즌 바이에른의 리그 원정 5경기 중 4경기(샬케·아우크스부르크·프라이부르크·마인츠)가 우파메카노·타 선발이었고, 김민재는 엘버스베르크전 한 번뿐이었어요.
+반대 근거도 있어요. 릴전 동점골처럼 높은 라인 뒤를 노리는 상대라면, 발이 빠른 김민재가 커버 범위에서 더 낫다는 시각도 있어요. 릴전 김민재의 패스 성공률 97%, 가로채기 4회도 콤파니 감독이 무시하기 어려운 숫자예요.
+
+## 함부르크 전력: 득점 1·2위가 모두 빠졌어요
+
+[IMAGE]
+
+함부르크의 최근 5경기는 1승 1무 3패예요. 직전 경기인 23일 브레멘 원정에선 0-4로 크게 졌어요. 반면 마지막 리그 홈경기였던 묀헨글라트바흐전은 3-1로 이겼어요.
+부상자 명단이 더 큰 문제예요. 리그 팀 내 득점 1위 무하임(3골)과 2위 풀센(2골)이 모두 부상으로 빠지고, 미드필더 렘베르크·로콩가·나디르까지 결장해요(API-Football 부상자 명단). 그렇지 않아도 10경기 10골인 공격에서 5골이 사라진 셈이에요.
+남은 무기는 그뢴베크예요. 리그 1골 4도움으로 팀 공격 포인트가 가장 많은 선수예요. 브레멘전 선발에서 무하임이 섰던 왼쪽 윙백 자리엔 묄러 볼페가 들어갈 가능성이 커요.
+
+## 상대 전적: 8-0과 6-0, 그리고 2-2
+
+[IMAGE]
+
+두 팀의 최근 6번 맞대결에서 바이에른은 5승 1무예요. 8-0(2017년), 6-0(2018년), 5-0(2025년 9월)처럼 대승이 많았어요.
+그런데 가장 최근 경기가 바로 지난 1월 폭스파르크 원정 2-2 무승부예요. 함부르크가 2018년 강등 뒤 7년 만에 돌아온 승격 첫 시즌, 홈에서 바이에른을 붙잡은 경기였어요. 이번에도 무대는 같은 폭스파르크예요.
+
+## 예상 선발: 우파메카노·타 센터백, 최전방엔 디아스
+
+[IMAGE]
+
+바이에른은 우르비히 골키퍼 앞에 라이머·우파메카노·타·스타니시치, 중원에 키미히·파블로비치, 2선에 브라운·비쇼프·칼, 최전방엔 루이스 디아스를 예상해요. 노이어(발)·케인(발목)·올리세(다리)·데이비스(햄스트링)·그나브리(근육)·사이바리(발목)는 빠져요.
+케인이 빠진 뒤 콤파니 감독은 아직 정통 9번을 찾지 못했어요. 릴전엔 라이머가 최전방에 섰지만 박스 안 슈팅이 4개뿐이었어요. 이번 시즌 리그 6경기 4골의 디아스를 가운데로 옮기는 게 가장 현실적인 답이라고 봐요. 부상에서 돌아온 무시알라는 후반 카드예요.
+함부르크는 호이어 페르난데스 골키퍼, 카팔도·보르나우·오마리 스리백, 엘우아디·파비우 비에이라·그뢴베크·아델린·묄러 볼페의 미드필드, 다카와 뢰싱렐레시트 투톱을 예상해요.
+
+## 관전 포인트: 함부르크 바이에른전, 두 팀의 숙제
+
+바이에른 쪽에서 보면
+· 케인 없는 최전방에서 필드 골이 나올까요? 릴전 바이에른의 골은 우파메카노의 코너킥 헤더 하나였어요. 디아스든 무시알라든 박스 안에서 마무리할 선수가 나와야 해요.
+· 콤파니 감독이 릴전 뒤에도 센터백 조합을 바꿀까요? 김민재가 다시 선발로 나오면 '챔스용 센터백'이라는 공식이 깨지는 거고, 벤치라면 리그 우파메카노·타 체제가 굳어지는 거예요.
+함부르크 쪽에서 보면
+· 무하임과 풀센 없이 골을 넣을 수 있을까요? 다카가 바이에른의 높은 라인 뒤를 한 번만 파고들어도 릴전 같은 장면이 다시 나올 수 있어요.
+· 홈 3승 1패의 폭스파르크 기운이 이어질까요? 지난 1월 2-2처럼 초반 실점만 피하면 함부르크 관중이 경기를 끌고 갈 수 있어요.
+
+## 제임스의 예상
+
+· 김민재는 벤치에서 시작한다고 봐요. 우파메카노·타 조합이 다시 나오고, 김민재는 경기 흐름에 따라 후반 막판 15분 안팎을 뛰거나 출전하지 않을 거예요. 릴전 리뷰에서 했던 예상 그대로이고, 이유는 위의 세 가지예요. 대신 12월 2일 포칼 헤르타전엔 김민재 선발을 예상해요.
+· 스코어는 바이에른의 2-1 승리를 예상해요. 이것도 릴전 리뷰 때 예상과 같아요. 공식전 2경기 무승이라 콤파니 감독이 베스트 멤버에 가깝게 내보낼 거고, 디아스가 첫 골을 넣는다고 봐요.
+· 함부르크의 한 골은 다카의 역습에서 나온다고 봐요. 바이에른은 이번 시즌 원정 리그 5경기에서 5골을 내줬고, 함부르크는 홈에서 4경기 6골을 넣었어요.
+· 다만 바이에른이 전반에 골을 못 넣으면 지난 1월처럼 무승부 가능성도 커요. 그 경우 무승 경기가 3경기로 늘어나요.
+
+여러분은 함부르크전 센터백, 우파메카노·타와 우파메카노·김민재 중 어느 조합이 나올 거라고 보시나요? 케인 없는 최전방엔 누가 서야 할까요? 댓글로 남겨 주세요!
+
+※ 분데스리가 순위, 경기 결과, 선발 명단, 선수 기록, 부상자 명단, 상대 전적은 API-Football(11월 27일 새벽 기준)이에요. 날짜는 한국 시간이에요. 도르트문트전 실수 뒤 김민재 선발 제외 평가와 케인 수술 뒤 3~4개월 결장 전망은 국내 보도(네이버 뉴스 검색)를 참고했어요. 예상 선발, 김민재 벤치 예상, 원인 분석은 제 예상과 해석이에요. 썸네일은 AI 생성 이미지예요.
+
+#김민재 #김민재함부르크전 #김민재선발 #함부르크바이에른 #바이에른뮌헨 #함부르크 #분데스리가 #콤파니 #우파메카노 #조나탄타 #케인부상 #루이스디아스 #키미히 #폴친 #다카 #코리안리거 #해외축구 #해축

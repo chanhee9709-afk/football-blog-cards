@@ -1,0 +1,114 @@
+---
+style: classic
+title: 인테르 제노아 프리뷰, 라우타로 선발 복귀할까…7경기 5승 데 로시의 제노아가 선두 3점 차 인테르 발목 잡을까
+category: 일정·프리뷰
+post_type: preview
+summary: 29일(일) 새벽 4시 45분 인테르가 산시로에서 제노아와 세리에A 13라운드를 치러요. 선두 라치오에 승점 3 뒤진 3위 인테르는 찰하놀루에 이어 바스토니까지 빠질 가능성이 크고, 데 로시 감독의 제노아는 최근 7경기 5승으로 올라왔어요. 4일 뒤 코파 이탈리아에서 또 만나는 두 팀의 전력과 결장자, 라우타로 선발 복귀 가능성, 순위 경쟁, 맞대결 기록, 예상 선발과 예상 스코어까지 정리했어요.
+keywords: [인테르 제노아, 라우타로 제노아전, 인테르 세리에A, 데 로시 제노아, 세리에A 순위]
+tags: [인테르제노아, 인테르, 제노아, 세리에A, 라우타로, 라우타로선발, 디마르코, 바스토니, 바스토니부상, 피오에스포지토, 수치치, 키부, 데로시, 오스마이치, 엘샤라위, 세리에A순위, 해외축구, 해축]
+sources: ["https://www.gazzetta.it/Calcio/prob_form/", "https://www.gazzetta.it/calcio/fantanews/strumenti-fantacalcio/indisponibili/25-11-2026/bastoni-infortunio-le-condizioni-del-difensore-dell-inter.shtml", "http://www.footballist.co.kr/news/articleView.html?idxno=214291", "https://www.news1.kr/sports/overseas-soccer/6166343"]
+source_note: "API-Football(세리에A 순위·일정·경기 결과, 기대득점·점유율, 선발 명단, 선수 시즌 기록, 부상자, 맞대결, 11월 27일 기준), 가제타 델로 스포르트(11월 26일 예상 선발·결장자·선발 경합 확률, 11월 25일 바스토니 부상), 풋볼리스트(데 로시 감독 선임과 엘샤라위 영입), 뉴스1(인테르 지난 시즌 리그·코파 이탈리아 2관왕)"
+data_as_of: "2026-11-27 09:00 KST"
+images:
+  - file: 2026-11-27-인테르제노아프리뷰-fig-1.png
+    caption: 인테르 제노아 한눈에
+  - file: 2026-11-27-인테르제노아프리뷰-fig-2.png
+    caption: 세리에A 순위와 13라운드 일정
+  - file: 2026-11-27-인테르제노아프리뷰-fig-3.png
+    caption: 제노아 최근 7경기
+  - file: 2026-11-27-인테르제노아프리뷰-fig-4.png
+    caption: 인테르 공격수 90분당 골
+  - file: 2026-11-27-인테르제노아프리뷰-fig-5.png
+    caption: 예상 선발 포메이션 맞대결
+  - file: 2026-11-27-인테르제노아프리뷰-fig-6.png
+    caption: 인테르 제노아 최근 10경기 맞대결
+thumbnail_prompt: "Photorealistic football photo, Italian Serie A night match at San Siro (Stadio Giuseppe Meazza) in Milan, late November, bright floodlights, the steep blurred stands full of Inter fans in black and blue with scarves. Lautaro Martínez (라우타로 마르티네스), the 29-year-old Argentine striker and captain of Inter Milan, about 1.74 m, compact, stocky and muscular build, broad chest and thick thighs, light tan olive skin, oval face with a firm defined jaw, dark brown deep-set eyes under thick dark straight eyebrows, straight medium nose, full lips, a short dense neatly trimmed dark brown-black beard covering jaw, chin and upper lip, black hair in a high fade: very short, sharply faded at the sides and back, with a short, choppy, textured top. Tattoos on both forearms. He wears the captain's armband on his left arm. Shown from the front, three-quarter view, inside the opponent's penalty area, shielding the ball with his back half-turned to a defender, right foot on the ball, about to swivel and shoot, eyes fixed on goal, determined expression. He wears Inter's authentic 2026-27 Nike home matchday kit exactly as in real Serie A broadcast photos, not a plain or generic shirt: vertical black and bright blue stripes with the black stripes wider than the blue ones, the blue stripes ending in small zig-zag edges, gold detailing, the Nike swoosh in gold on the right chest, the real round Inter crest on the left chest, the 'betsson.sport' sponsor text across the middle of the chest, the Serie A league badge on the right sleeve; black shorts with the number 10, black socks. Fabric with realistic folds and sweat. Behind him, a Genoa CFC centre-back in a white away shirt with red and dark navy trim, white shorts and white socks presses him from behind, slightly blurred. Realistic match moment only. Camera at waist height, framed from head to knees, he fills about 70% of the image height. Top fifth of the image dark night sky and stadium roof for text. No other text in the image apart from the real kit sponsors, logos and shirt number. Absolutely no national flags. The face must closely resemble the real Lautaro Martínez. Vertical 4:5."
+thumbnail_text: ["라우타로 선발 복귀?", "7경기 5승 제노아가 온다"]
+thumbnail_file: "2026-11-27-인테르제노아프리뷰-썸네일-AI.png"
+threads_text: ""
+publish_at: ""
+---
+
+안녕하세요! 제임스입니다~
+
+29일(일) 새벽 4시 45분, 인테르가 홈 산시로에서 제노아와 세리에A 13라운드를 치러요.
+인테르는 26일 챔피언스리그에서 슈투트가르트를 2-0으로 꺾었어요. 69분 벤치에서 나온 라우타로가 5분 만에 골을 넣었지만, 바스토니가 허벅지를 다쳐 전반에 나갔어요.
+상대 제노아는 데 로시 감독 아래 최근 7경기 5승을 올린 팀이에요. 그리고 두 팀은 12월 2일(수) 코파 이탈리아 16강에서 또 만나요. 나흘 사이 같은 상대와 두 번이에요. 이번 글에서는 인테르 제노아 전력과 결장자, 라우타로 선발 복귀 가능성, 순위 경쟁과 예상 스코어까지 차례로 볼게요.
+
+[IMAGE]
+
+## 경기 정보: 홈 6전 전승 인테르, 최근 7경기 5승 제노아
+
+인테르는 12경기 9승 2무 1패(32득 17실), 승점 29로 3위예요. 홈에선 6전 전승에 19골 7실점이에요. 유일한 패배는 10월 31일 밀란 더비(1-3)였어요.
+제노아는 5승 1무 6패(13득 16실), 승점 16으로 10위예요. 원정은 2승 3패에 5골 6실점이에요.
+결장자도 많아요. API-Football 기준 인테르는 찰하놀루(근육), 지엘린스키(발), 보니(근육)가 빠지고 바스토니가 출전 불투명이에요. 가제타 델로 스포르트는 찰하놀루가 한 달 뒤에나 돌아오고, 바스토니는 제노아전에 빠질 가능성이 크다고 봤어요. 제노아는 공격수 콜롬보가 십자인대를 다쳐 시즌을 접었고, 센터백 외스티고르는 독감으로 병원 신세를 진 뒤라 출전이 불투명해요(가제타).
+
+## 순위 경쟁: 선두 라치오와 3점, 4위 밀란과 2점
+
+세리에A 상위권은 승점 6 안에 다섯 팀이 붙어 있어요. 라치오 32점, 로마 30점, 인테르 29점, 밀란 27점, 코모 26점이에요. 유벤투스는 21점으로 6위, 나폴리는 18점으로 8위예요.
+이번 라운드 순서도 인테르에 유리해요. 선두 라치오가 29일(일) 새벽 2시 토리노 원정을 먼저 치르고, 인테르는 그 결과를 보고 킥오프해요. 로마는 30일(월) 몬차, 밀란은 12월 1일(화) 칼리아리 원정이에요.
+인테르는 지난 시즌 리그와 코파 이탈리아 2관왕 팀이에요(뉴스1). 디펜딩 챔피언이 선두를 다시 잡으려면 이런 홈경기에서 승점을 놓치면 안 돼요.
+
+[IMAGE]
+
+## 제노아 전력: 첫 5경기 무승, 그 뒤 7경기 5승
+
+제노아는 지난 시즌 도중 비에이라 감독 대신 데 로시 감독을 앉혀 16위로 잔류했고, 이번 시즌은 처음부터 데 로시 감독이 이끌어요(풋볼리스트).
+출발은 나빴어요. 첫 5경기 1무 4패, 한 번도 못 이겼어요. 그런데 10월 10일 피오렌티나전 승리 뒤 7경기 5승 2패로 완전히 달라졌어요. 유벤투스를 2-0으로 꺾었고, 밀란에도 1-2로 졌지만 슈팅은 17대 6으로 더 많이 때렸어요(API-Football).
+골은 최전방 오스마이치에게 몰려 있어요. 리그 6골로 인테르의 튀람·피오 에스포지토와 같고, 22일 사수올로 원정에서 두 골을 넣었어요. 그 뒤를 주니오르 메시아스(2골 1도움)와 엘샤라위가 받쳐요.
+약점도 분명해요. 원정에서 강팀을 만나면 골이 말라요. 라치오 원정 0-1, 로마 원정 0-2로 두 경기 모두 무득점이었어요.
+
+[IMAGE]
+
+## 원인 분석: 인테르 제노아전, 승부를 가를 세 가지
+
+① 라우타로 선발 복귀, 90분당 0.99골의 결정력
+가제타는 라우타로와 튀람의 선발 경합을 60대 40으로 보고, 라우타로가 피오 에스포지토와 투톱으로 돌아올 거라고 예상했어요.
+숫자로 보면 이유가 있어요. 라우타로는 햄스트링 부상 때문에 리그 365분만 뛰고도 4골, 90분당 0.99골이에요. 피오 에스포지토(0.82골), 튀람(0.66골)보다 높아요. 슈투트가르트전에서도 들어간 지 5분 만에 디마르코의 패스를 받아 골을 넣었어요.
+제노아 3백은 라인을 깊게 내리는 편이라 박스 안 공간이 좁아요. 이럴 땐 등지고 버티다 반 박자 빠르게 돌아서 때리는 라우타로 같은 공격수가 더 위협적이에요.
+② 바스토니가 빠지면 왼쪽이 '디마르코 모드'로 바뀌어요
+가제타는 바스토니 대신 카를로스 아우구스투가 3백 왼쪽으로 내려가고, 디마르코가 왼쪽 윙백으로 나설 거라고 봤어요.
+슈투트가르트전에서 이미 효과를 봤어요. 40분 바스토니 대신 들어온 디마르코가 49분 동안 키패스 4개, 페널티킥을 만든 크로스, 라우타로 골 도움까지 해냈어요. 디마르코가 높이 올라가면 인테르 왼쪽은 공격은 강해지지만, 그 뒤 공간은 3백 왼쪽 카를로스 아우구스투 혼자 지켜야 해요. 제노아 오른쪽 윙백 에히지부에가 노릴 곳이에요.
+③ 나흘 뒤 같은 상대, 키부 감독의 로테이션
+찰하놀루가 빠진 중원은 수치치가 계속 맡고, 커티스 존스와 디우프가 선발 기회를 받을 수 있어요. 가제타는 골키퍼까지 조제프 마르티네스 대신 프로베델을 예상 선발에 넣었어요.
+코파 이탈리아 16강이 수요일 새벽에 같은 산시로에서 열리니, 키부 감독은 리그와 컵을 나눠 쓰는 계산을 할 수밖에 없어요. 제노아도 마찬가지라 두 감독의 수 싸움이 두 경기에 걸쳐 이어져요. 이건 일정을 보고 한 제 해석이에요.
+
+[IMAGE]
+
+## 예상 선발: 인테르 3-5-2, 제노아 3-4-2-1
+
+인테르는 프로베델, 파바르·아칸지·카를로스 아우구스투, 디우프·바렐라·수치치·존스·디마르코, 투톱 라우타로·피오 에스포지토를 예상해요. 가제타 예상과 같아요.
+제노아는 빌로우 골키퍼 앞에 마르칸달리·오토아·바스케스 3백, 에히지부에·트라오레·위아페·엘레르트손 미드필드 넷, 2선 메시아스·엘샤라위, 원톱 오스마이치예요.
+승부처는 인테르 왼쪽이에요. 디마르코의 왼발이 에히지부에를 묶어 두면 인테르가 경기를 쥐고, 반대로 에히지부에가 디마르코 뒤를 먼저 파고들면 제노아의 역습이 살아나요.
+
+[IMAGE]
+
+## 맞대결: 10경기 7승 3무, 산시로에선 5전 전승
+
+최근 10번의 세리에A 맞대결에서 인테르는 7승 3무로 한 번도 지지 않았어요.
+산시로에선 3-0, 4-0, 2-1, 1-0, 2-0으로 5전 전승이고, 다섯 경기 중 네 번이 무실점이었어요. 무승부 세 번은 모두 제노아 홈에서 나왔어요.
+지난 2월 산시로 맞대결도 인테르의 2-0 승리였어요.
+
+[IMAGE]
+
+## 관전 포인트: 인테르 제노아, 두 팀의 숙제
+
+인테르 쪽에서 보면
+· 키부 감독이 라우타로를 선발로 내세울까요, 코파 이탈리아를 위해 한 번 더 아낄까요? 선발로 나오면 리그 5호 골이 걸려 있어요.
+· 바스토니 없는 3백이 오스마이치를 막을 수 있을까요? 인테르는 리그 12경기에서 17골을 내줘 상위 5팀 중 가장 많이 실점했어요.
+제노아 쪽에서 보면
+· 원정 강팀 상대로 두 번 연속 무득점이었던 공격이 산시로에서 골을 넣을 수 있을까요? 오스마이치의 머리와 엘샤라위의 슈팅이 열쇠예요.
+· 데 로시 감독은 나흘 뒤 컵 경기를 생각해 이번 경기에 힘을 다 쏟을까요? 7경기 5승의 흐름을 리그에서 이어 가는 게 더 중요해 보여요.
+
+## 제임스의 예상
+
+· 스코어는 인테르의 2-0 승리를 예상해요. 슈투트가르트전 리뷰 때 예상 그대로예요. 인테르는 최근 홈 두 경기(코모·슈투트가르트)를 모두 무실점으로 이겼고, 제노아는 라치오·로마 원정에서 골을 못 넣었어요.
+· 라우타로가 선발로 돌아와 선제골을 넣는다고 봐요. 70분 안팎을 뛰고 튀람과 바꿀 것 같아요.
+· 두 번째 골은 디마르코의 왼발에서 나온다고 봐요. 도움이든 세트피스든, 바스토니 공백이 오히려 인테르 왼쪽을 더 날카롭게 만드는 그림이에요.
+· 제노아는 전반엔 버티겠지만 슈팅 수에서 크게 밀릴 거예요. 다만 에히지부에가 디마르코 뒤를 파고드는 장면은 몇 번 나올 것 같아요.
+
+여러분은 라우타로가 선발로 돌아올 거라고 보시나요? 7경기 5승의 제노아가 산시로에서 이변을 만들 수 있을까요? 예상 스코어를 댓글로 남겨 주세요!
+
+※ 세리에A 순위, 경기 결과, 기대득점·점유율·슈팅, 선발 명단, 선수 시즌 기록, 부상자, 맞대결과 다음 일정은 API-Football(11월 27일 기준)이에요. 예상 선발과 선발 경합 확률, 찰하놀루·바스토니·콜롬보·외스티고르 상태는 가제타 델로 스포르트(11월 25~26일), 데 로시 감독 선임은 풋볼리스트, 인테르의 지난 시즌 2관왕은 뉴스1 보도예요. 원인 분석과 예상 선발은 제 해석이에요. 썸네일은 AI 생성 이미지예요.
+
+#인테르제노아 #인테르 #제노아 #세리에A #라우타로 #라우타로선발 #디마르코 #바스토니 #바스토니부상 #피오에스포지토 #수치치 #키부 #데로시 #오스마이치 #엘샤라위 #세리에A순위 #해외축구 #해축
