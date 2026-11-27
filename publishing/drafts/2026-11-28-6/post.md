@@ -1,0 +1,112 @@
+---
+style: classic
+title: 은메차·기라시의 도르트문트 레버쿠젠전, 무패 선두가 홈 2연패 징크스 깰까
+category: 일정·프리뷰
+post_type: preview
+summary: 30일(월) 새벽 3시 30분 분데스리가 선두 도르트문트가 홈에서 5위 레버쿠젠을 만나요. 도르트문트는 리그 10경기 무패지만 지난 시즌 홈에서 레버쿠젠에 두 번 모두 0-1로 졌어요. 하루 먼저 열리는 뮌헨-함부르크전 결과에 따라 선두 싸움도 달라져요. 순위와 흐름, 결장자, 예상 선발, 상대 전적과 스코어 예상까지 정리했어요.
+keywords: [도르트문트 레버쿠젠, 분데스리가 선두, 기라시 복귀, 코바치, 카를레스 마르티네스]
+tags: [도르트문트레버쿠젠, 도르트문트, 레버쿠젠, 분데스리가, 분데스리가선두, 코바치, 카를레스마르티네스, 은메차, 기라시, 기라시복귀, 조브벨링엄, 뤼에르손, 시크, 알레이스가르시아, 엠레잔, 지그날이두나파크, 해외축구, 해축]
+sources: ["https://www.sportschau.de/regional/wdr/wdr-kovac-und-die-kunst-nicht-nach-muenchen-zu-schauen-100.html", "https://www.sport1.de/news/fussball/bundesliga/2026/11/nutzniesser-dortmund-kovac-deutlich-das-ist-ja-wahnsinn", "https://www.bundesliga.com/en/bundesliga/news/carles-martinez-new-bayer-leverkusen-head-coach-kasper-hjulmand-37693"]
+source_note: "API-Football(분데스리가 순위·홈/원정 기록, 경기 결과, 선발 명단, 선수 기록, 부상 명단, 상대 전적, 11월 28일 기준), 스포츠샤우(WDR) 11월 27일(코바치 감독 발언, 기라시 복귀, 투톱 가능성), 슈포르트1 11월 27일(코바치 감독 기자회견, 아스널 원정 뒤 새 부상자 없음), 분데스리가 공식 홈페이지(카를레스 마르티네스 감독 선임)"
+data_as_of: "2026-11-28 07:30 KST (뮌헨-함부르크전 전)"
+images:
+  - file: 2026-11-28-도르트문트레버쿠젠프리뷰-fig-1.png
+    caption: 도르트문트 레버쿠젠전 한눈에
+  - file: 2026-11-28-도르트문트레버쿠젠프리뷰-fig-2.png
+    caption: 두 팀 최근 6경기
+  - file: 2026-11-28-도르트문트레버쿠젠프리뷰-fig-3.png
+    caption: 도르트문트 레버쿠젠 결장자
+  - file: 2026-11-28-도르트문트레버쿠젠프리뷰-fig-6.png
+    caption: 두 팀 리그 공격 포인트
+  - file: 2026-11-28-도르트문트레버쿠젠프리뷰-fig-4.png
+    caption: 예상 선발 포메이션 맞대결
+  - file: 2026-11-28-도르트문트레버쿠젠프리뷰-fig-5.png
+    caption: 도르트문트 레버쿠젠 최근 상대 전적
+thumbnail_prompt: "Photorealistic football photo, Bundesliga Sunday night match at Signal Iduna Park in Dortmund, late November, cold misty air, bright floodlights, the huge blurred yellow wall of the Südtribüne behind, fans waving black-and-yellow scarves. Felix Nmecha (펠릭스 은메차), the 26-year-old German central midfielder of Borussia Dortmund, about 1.90 m, tall, long-legged and athletic, dark brown skin, long oval face with high cheekbones and a defined jaw, dark brown eyes, thick dark eyebrows, a broad nose, full lips, a short neat black beard along the jaw and chin, short black hair in small natural tight curls, close-cropped on the sides. Shown from the front, three-quarter view, just outside the penalty arc, a second after striking a low right-footed shot from distance, his right leg still swinging through, eyes following the ball, focused and intense expression. He wears Borussia Dortmund's authentic 2026-27 Puma home matchday kit exactly as in real broadcast photos, not a plain or generic shirt: a bright YELLOW shirt with black trim, the black Puma cat logo on the right chest, the real BVB 09 crest on the left chest, the black 'Vodafone' sponsor text across the middle of the chest, a small 'Polestar' sponsor patch on the left sleeve and the Bundesliga badge on the right sleeve; BLACK shorts with the number 8 and yellow socks. The name 'NMECHA' and number 8 are printed on the back of his shirt (not visible from this angle). Fabric with realistic folds and sweat. Behind him, blurred, a Bayer Leverkusen player in a dark away kit tries to block. Realistic match moment only. Camera at waist height, framed from head to knees, he fills about 70% of the image height. Top fifth of the image dark night sky and floodlight glow for text. No other text in the image apart from the real kit sponsors, logos and shirt number. The face must closely resemble the real Felix Nmecha. Vertical 4:5."
+thumbnail_text: ["무패 선두 도르트문트", "레버쿠젠 징크스 깰까?"]
+thumbnail_file: "2026-11-28-도르트문트레버쿠젠프리뷰-썸네일-AI.png"
+threads_text: ""
+publish_at: ""
+---
+
+안녕하세요! 제임스입니다~
+
+30일(월) 새벽 3시 30분, 도르트문트가 지그날 이두나 파크에서 레버쿠젠과 분데스리가 11라운드를 치러요. 현지 시간으로는 29일(일) 저녁 7시 30분, 이번 라운드 마지막 경기예요.
+도르트문트는 리그 10경기 무패(7승 3무), 승점 24로 1위예요. 그런데 지난 시즌 홈에서 레버쿠젠에 포칼과 리그 두 번 모두 0-1로 졌어요.
+2위 뮌헨(승점 22)은 하루 먼저 28일(토) 23시 30분 함부르크 원정을 치러요. 이 글은 그 경기 전에 썼어요. 도르트문트 레버쿠젠전을 순위와 흐름, 결장자, 예상 선발과 제 스코어 예상까지 한 번에 볼게요.
+
+[IMAGE]
+
+## 경기 정보: 1위 도르트문트, 5위 레버쿠젠
+
+도르트문트는 7승 3무, 17골 7실점이에요. 득점은 뮌헨(30골)·레버쿠젠(24골)보다 적지만, 7실점은 리그 최소예요. 홈에선 4승 1무, 10골 3실점이에요.
+레버쿠젠은 6승 1무 3패, 승점 19로 5위예요. 24골을 넣고 17골을 내줘 공격은 화끈하지만 수비 기복이 있어요. 원정 성적은 2승 1무 2패예요.
+선두 싸움은 뮌헨-함부르크전 결과에 달려 있어요. 뮌헨이 이기면 승점 25로 먼저 1위에 올라서고, 도르트문트는 이 경기를 이겨야 선두를 되찾아요. 뮌헨이 비기거나 지면 도르트문트는 이기는 순간 격차를 4~5점으로 벌릴 수 있어요.
+
+## 최근 흐름: 도르트문트 무패, 레버쿠젠 3연승
+
+[IMAGE]
+
+도르트문트는 최근 6경기 4승 2무예요. 뮌헨 원정 2-2, 베티스 2-1, 엘버스베르크 2-1, 묀헨글라트바흐 원정 1-0, 아스널 원정 1-1이에요.
+지난주 묀헨글라트바흐전은 국가대표 카스트로프가 왼쪽 윙백으로 선발로 나선 경기였어요. 그 경기도 80분 은메차의 중거리 슛 한 방으로 이겼을 만큼, 도르트문트는 최근 한 골 차 승부가 많아요.
+레버쿠젠은 슈투트가르트전 2-4, 마르세유전 0-1 연패 뒤 3연승이에요. 쾰른 원정 2-1, 파더보른 4-0, 그리고 27일 유로파리그 디나모 자그레브 원정 2-0이에요.
+다만 레버쿠젠은 목요일 밤 원정을 치르고 사흘 만에 다시 원정을 와요. 도르트문트는 화요일 아스널 원정 뒤 나흘을 쉬어서 체력에선 도르트문트가 조금 앞서요.
+
+## 결장자: 엠레 잔은 없고, 기라시가 돌아온다
+
+[IMAGE]
+
+도르트문트는 주장 엠레 잔(무릎)과 레르마(근육), 이나시우·콘스탄텔리아스(무릎)가 빠져요(API-Football). 슈포르트1(11월 27일)에 따르면 런던 원정에서 새 부상자는 나오지 않았어요.
+가장 큰 소식은 기라시예요. 스포츠샤우(11월 27일)는 기라시가 허벅지 부상을 털고 선발 후보로 돌아왔다고 전했어요. 코바치 감독은 그를 '생명 보험'이라고 불렀어요.
+레버쿠젠은 공격수 테리에(근육), 오른쪽 수비 루카스 바스케스, 아이히호른(질병)이 빠져요. 주전 대부분은 그대로 나올 수 있어요.
+
+## 원인 분석: 도르트문트는 왜 레버쿠젠에 약했나
+
+[IMAGE]
+
+① 레버쿠젠은 공을 오래 갖는 팀이에요
+코바치 감독은 "카를레스 마르티네스 감독의 색깔이 점점 보인다, 공격적이고 공 중심의 축구를 한다"고 말했어요(스포츠샤우). 툴루즈를 이끌던 마르티네스 감독은 올여름 휼만 감독 후임으로 왔어요(분데스리가 공식 홈페이지).
+알레이스 가르시아(1골 2도움)가 수비 앞에서 공을 돌리고, 시크(9골 2도움)가 마무리해요. 도르트문트가 내려앉아 버티는 방식은 이런 팀을 상대로 한 골 싸움이 되기 쉬워요.
+② 도르트문트는 골이 적어요
+17골은 상위 5팀 중 가장 적어요. 은메차 5골이 팀 최다이고, 기라시·파비우 실바가 3골씩이에요. 지난 시즌 홈 두 경기도 0-1이었는데, 수비는 버텼지만 한 골을 못 넣은 경기였어요.
+그래서 기라시의 복귀가 중요해요. 스포츠샤우는 기라시와 파비우 실바의 투톱 가능성도 언급했어요. 박스 안에 공격수가 두 명 서면 측면 크로스의 목표가 늘어나요.
+③ 측면 싸움이 열쇠예요
+레버쿠젠 왼쪽 수비 구티에레스는 리그 4도움으로 팀 최다 도움이에요. 그 앞엔 도르트문트에서 크로스가 가장 좋은 오른쪽 윙백 뤼에르손이 서요. 뤼에르손이 구티에레스를 묶어 두느냐가 수비와 공격을 동시에 결정해요.
+
+## 예상 선발: 기라시·파비우 실바 투톱
+
+[IMAGE]
+
+도르트문트는 3-4-1-2로 코벨, 슐로터베크·안톤·가두, 스벤손·은메차·조브 벨링엄·뤼에르손, 바이어, 기라시·파비우 실바를 예상해요. 카레차스는 코바치 감독이 "아직 우리가 원하는 수준이 아니다"고 해서 벤치에서 시작할 것 같아요.
+레버쿠젠은 파더보른전처럼 4-2-3-1로 플레컨, 콴사·바데·탑소바·구티에레스, E. 페르난데스·알레이스 가르시아, 텔라·틸만·아폰수 모레이라, 원톱 시크를 예상해요.
+가운데에선 바이어와 은메차가 알레이스 가르시아의 첫 패스를 얼마나 막느냐가 중요해요. 이 압박이 통하면 레버쿠젠의 공 점유가 도르트문트의 역습 기회로 바뀌어요.
+
+## 상대 전적: 홈에서 2연패
+
+[IMAGE]
+
+최근 10경기는 도르트문트 4승 2무 4패로 팽팽해요. 그런데 장소에 따라 결과가 갈렸어요.
+도르트문트는 레버쿠젠 원정에서 2연승(2-1, 4-2)을 했지만, 홈에선 2025년 12월 포칼 16강 0-1, 2026년 4월 리그 0-1로 연달아 졌어요. 코바치 감독도 "우리가 이번엔 유리하다"면서 지난 홈 두 경기보다 낫게 하겠다고 했어요(스포츠샤우).
+
+## 관전 포인트: 도르트문트 레버쿠젠전
+
+도르트문트 쪽에서 보면
+· 기라시가 선발로 돌아와 골을 넣을까요? 득점이 적은 도르트문트에게 기라시의 골은 홈 징크스를 깨는 가장 빠른 길이에요.
+· 뮌헨의 결과를 신경 쓰지 않을 수 있을까요? 코바치 감독은 "뮌헨에서 무슨 일이 있든 상관없다, 우리는 우리 일에 집중한다"고 했어요(슈포르트1).
+레버쿠젠 쪽에서 보면
+· 유로파리그 원정 사흘 뒤에도 공 점유 축구를 유지할 수 있을까요? 후반 체력이 떨어지면 도르트문트의 역습이 늘어나요.
+· 시크가 리그 최소 실점 수비를 뚫을까요? 9골의 시크가 막히면 레버쿠젠의 득점 루트는 측면 크로스 하나로 좁아져요.
+
+## 제임스의 예상
+
+· 아스널전 리뷰에서 저는 이 경기를 1-1 무승부로 예상했어요. 이번엔 도르트문트 2-1 승리로 바꿀게요.
+· 바꾼 이유는 기라시예요. 아스널전 땐 기라시가 한 시간 가까이 지나 교체로 들어올 만큼 몸 상태가 확실하지 않았는데, 이제 선발 후보예요. 레버쿠젠은 사흘 전 자그레브 원정을 치렀고, 도르트문트는 하루 더 쉬었어요.
+· 도르트문트 골은 기라시와 은메차가 넣을 거라고 봐요. 기라시는 뤼에르손의 크로스에서, 은메차는 이번에도 박스 밖 슈팅으로요.
+· 레버쿠젠의 한 골은 시크가 넣을 것 같아요. 레버쿠젠은 10경기 중 한 경기만 빼고 모두 골을 넣었을 만큼 득점력이 꾸준해요.
+· 다만 레버쿠젠이 먼저 골을 넣으면 지난 두 번의 0-1이 다시 떠오를 거예요. 그땐 1-1이 현실적인 결과라고 봐요.
+
+여러분은 무패 선두 도르트문트가 레버쿠젠 홈 징크스를 깰 거라고 보시나요? 뮌헨과의 선두 싸움은 어떻게 될까요? 댓글로 남겨 주세요!
+
+※ 순위, 홈·원정 기록, 경기 결과, 선발 명단, 선수 기록, 부상 명단, 상대 전적은 API-Football(11월 28일, 뮌헨-함부르크전 전 기준)이에요. 결장 명단은 경기 전에 바뀔 수 있어요. 코바치 감독 발언과 기라시 복귀, 투톱 가능성은 스포츠샤우(WDR, 11월 27일)와 슈포르트1(11월 27일), 마르티네스 감독 선임은 분데스리가 공식 홈페이지를 참고했어요. 예상 선발은 제 예상이고, 썸네일은 AI 생성 이미지예요.
+
+#도르트문트레버쿠젠 #도르트문트 #레버쿠젠 #분데스리가 #분데스리가선두 #코바치 #카를레스마르티네스 #은메차 #기라시 #기라시복귀 #조브벨링엄 #뤼에르손 #시크 #알레이스가르시아 #엠레잔 #지그날이두나파크 #해외축구 #해축

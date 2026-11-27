@@ -1,0 +1,116 @@
+---
+style: classic
+title: 이삭 원정 6경기 연속골, 머지사이드 더비서도 터질까…타코우스키 빠진 에버턴, 리버풀 더비 4연승 막을까
+category: 일정·프리뷰
+post_type: preview
+summary: 29일(일) 밤 9시 에버턴과 리버풀이 힐 디킨슨 스타디움에서 프리미어리그 12라운드 머지사이드 더비를 치러요. 리버풀은 리그 원정 무패에 이삭이 원정 6경기 연속골을 넣고 있고, 에버턴은 주장 타코우스키가 퇴장 징계로 빠져요. 순위와 흐름, 결장자, 예상 선발, 상대 전적과 스코어 예상까지 정리했어요.
+keywords: [에버턴 리버풀, 머지사이드 더비, 이삭, 이라올라, 모예스]
+tags: [에버턴리버풀, 머지사이드더비, 리버풀, 에버턴, 프리미어리그, EPL, 이삭, 비르츠, 이라올라, 모예스, 티에르노바리, 듀스버리홀, 타코우스키, 소보슬러이, 학포, 힐디킨슨스타디움, 해외축구, 해축]
+sources: ["https://www.independent.co.uk/sport/football/victor-munoz-injury-latest-liverpool-everton-andoni-iraola-b3092811.html", "https://www.independent.co.uk/sport/football/brentford-vs-everton-score-james-tarkowski-lewis-potter-b3090259.html", "https://www.skysports.com/football/news/11095/13616467/florian-wirtz-helping-to-unlock-alexander-isak-at-liverpool-as-antonio-silva-shines-for-bournemouth-the-radar", "https://www.skysports.com/football/news/11095/13612885/everton-how-premier-leagues-sleeping-giant-are-exceeding-expectations-ahead-of-brentford-test"]
+source_note: "API-Football(프리미어리그 순위·홈/원정 기록, 경기 결과, 선발 명단, 선수 기록, 부상·징계 명단, 상대 전적, 11월 28일 기준), 인디펜던트 11월 24일(브렌트퍼드-에버턴 경기, 타코우스키 퇴장)·11월 27일(이라올라 감독 부상자 회견), 스카이스포츠 11월 21일(에버턴 스쿼드·바리 빅찬스 기록)·11월 27일(이삭 원정 연속골, 비르츠-이삭 패스, 옵타)"
+data_as_of: "2026-11-28 09:00 KST"
+images:
+  - file: 2026-11-28-리버풀에버턴프리뷰-fig-1.png
+    caption: 에버턴 리버풀 머지사이드 더비 한눈에
+  - file: 2026-11-28-리버풀에버턴프리뷰-fig-2.png
+    caption: 두 팀 최근 6경기
+  - file: 2026-11-28-리버풀에버턴프리뷰-fig-3.png
+    caption: 에버턴 리버풀 결장자
+  - file: 2026-11-28-리버풀에버턴프리뷰-fig-4.png
+    caption: 두 팀 리그 공격 포인트
+  - file: 2026-11-28-리버풀에버턴프리뷰-fig-5.png
+    caption: 예상 선발 포메이션 맞대결
+  - file: 2026-11-28-리버풀에버턴프리뷰-fig-6.png
+    caption: 에버턴 리버풀 최근 상대 전적
+thumbnail_prompt: "Photorealistic football photo, Premier League Merseyside derby at Everton's new Hill Dickinson Stadium on the Liverpool waterfront on a cold late-November Sunday afternoon, grey sky with the floodlights already on, blurred steep stands packed with Everton fans in royal blue and a block of Liverpool away fans in red in the far corner. Alexander Isak (알렉산더 이삭), the 27-year-old Swedish striker of Liverpool, about 1.92 m, very tall and slim with long legs and long arms, Swedish of Eritrean descent with warm dark-brown skin, long narrow face with high cheekbones and a defined jaw, dark brown eyes, thin dark eyebrows, a slim straight nose, full lips, a thin dark moustache and light short stubble on the chin, black curly hair of medium length pulled back from the face and tied in a small neat bun at the back of the head, short at the sides (not shaved bald, no dyed colour, no headband). Shown from the front, three-quarter view, running away from goal after scoring, right index finger raised to the sky, calm confident smile, the Everton goalkeeper on the ground behind him, blurred. He wears Liverpool's authentic 2026-27 adidas home matchday kit exactly as in real Premier League broadcast photos, not a plain or generic shirt: deep red shirt with a subtle tonal red retro print, a red crew collar with a thin white band, the white adidas three stripes on the shoulders, the white adidas logo on the right chest, the white Liverpool crest with the Liver bird on the left chest, the white 'Standard Chartered' sponsor text across the middle of the chest, the Premier League badge on the right sleeve; deep red shorts with the white number 9, deep red socks. The name 'ISAK' and number 9 are printed on the back of his shirt (not visible from this angle). Fabric with realistic folds and sweat. Behind him, blurred, an Everton defender in Everton's royal-blue home shirt and white shorts looks down. Realistic match moment only. Camera at waist height, framed from head to knees, he fills about 70% of the image height. Top fifth of the image dark grey sky and floodlight glow for text. No other text in the image apart from the real kit sponsors, logos and shirt number. Absolutely no national flags. The face must closely resemble the real Alexander Isak. Vertical 4:5."
+thumbnail_text: ["원정 6경기 연속골 이삭", "더비도 뚫을까?"]
+thumbnail_file: "2026-11-28-리버풀에버턴프리뷰-썸네일-AI.png"
+threads_text: ""
+publish_at: ""
+---
+
+안녕하세요! 제임스입니다~
+
+29일(일) 밤 9시, 에버턴과 리버풀이 힐 디킨슨 스타디움에서 프리미어리그 12라운드 머지사이드 더비를 치러요. 에버턴 새 구장에서 열리는 두 번째 더비예요.
+리버풀은 브뤼헤 원정 3-0까지 공식전 3연승이고, 리그 원정에선 아직 진 적이 없어요. 이삭은 공식전 원정 6경기 연속골을 넣고 있어요.
+에버턴은 사흘 전 브렌트퍼드에 0-4로 크게 졌고, 주장 타코우스키가 그 경기 퇴장으로 빠져요. 에버턴 리버풀 더비를 순위와 흐름, 결장자, 예상 선발과 제 스코어 예상까지 한 번에 볼게요.
+
+[IMAGE]
+
+## 경기 정보: 9위 에버턴, 4위 리버풀
+
+리버풀은 11경기 6승 3무 2패, 승점 21로 4위예요. 18골 10실점이고, 원정에선 4승 1무로 10골 4실점이에요. 오히려 안필드 성적(2승 2무 2패)이 더 안 좋아요.
+에버턴은 4승 4무 3패, 승점 16으로 9위예요. 브렌트퍼드전 전까지는 6위였는데 한 경기 만에 세 계단 내려왔어요. 홈에선 3승 1무 1패로 강했어요.
+두 팀 차이는 승점 5예요. 에버턴이 이기면 승점 2 차이로 리버풀을 바짝 따라붙어요.
+
+## 최근 흐름: 리버풀 3연승 10득점, 에버턴 0-4 완패
+
+[IMAGE]
+
+리버풀은 팰리스 3-1, 맨유 4-0, 브뤼헤 3-0으로 3경기에서 10골을 넣고 1골만 내줬어요. 그 전엔 페네르바흐체 2-3, 아스널 0-1로 2연패가 있었는데, 이라올라 감독이 그 흐름을 빠르게 끊었어요.
+에버턴은 11월 초 뉴캐슬 1-0, 코번트리 3-1로 2연승을 하다가 브렌트퍼드 원정에서 무너졌어요. 인디펜던트(11월 24일)에 따르면 0-2로 끌려가던 40분 타코우스키가 야르몰류크의 정강이를 스터드로 밟아 퇴장당했고, 그 뒤엔 경기가 사실상 끝났어요.
+그날은 모예스 감독이 에버턴 지휘 593번째 경기로 해리 캐터릭의 구단 최다 기록을 넘어선 날이었어요. 기념일이 악몽이 된 셈이에요.
+
+## 결장자: 타코우스키 징계, 리버풀은 2선 셋이 흔들
+
+[IMAGE]
+
+에버턴은 API-Football 명단상 타코우스키 한 명만 빠져요. 다만 수비 리더이자 주장이라 공백이 커요. 킨이 브랜스웨이트 옆에 설 가능성이 높아요.
+리버풀은 빠지는 선수가 많아요. 에키티케(아킬레스건), 브래들리·레오니(무릎), 날로(다리)는 장기 결장이에요. 이라올라 감독은 27일 회견에서 "학포는 확실히 못 나온다", "흐라벤베르흐도 어렵다"고 말했어요(인디펜던트).
+브뤼헤전에서 무릎을 다친 빅토르 무뇨스는 "구조적 손상은 없지만 큰 타박상"이라 경기 전날 훈련 뒤에 결정해요. 무뇨스가 빠지면 17세 은구모하가 오른쪽에 설 거예요.
+그래도 에버턴 쪽 소식도 하나 있어요. 규율 위반으로 빠졌던 그릴리시가 브렌트퍼드전 교체로 돌아왔어요(인디펜던트 11월 23일).
+
+## 원인 분석: 리버풀은 왜 원정에서 더 강할까
+
+[IMAGE]
+
+① 비르츠가 찾고, 이삭이 뛰어요
+스카이스포츠(11월 27일, 옵타)에 따르면 비르츠는 리그에서 이삭에게 패스 29개를 줬어요. 두 번째 동료보다 10개 많아요. 이삭은 침투 횟수, 박스 안으로 끝나는 침투 모두 리그 1위예요.
+그래서 이삭의 리그 7골 중 상당수가 상대 수비 뒤 공간에서 나왔어요. 올 시즌엔 왼발로도 4골을 넣어 수비가 한쪽만 막을 수 없어요. 상대가 라인을 올리는 경기일수록 이 연결이 더 잘 통해요.
+② 이라올라식 역습이 원정에서 살아나요
+이라올라 감독의 리버풀은 공을 오래 잡는 팀이 아니에요. 높이 압박해서 뺏고, 두세 번 만에 슈팅까지 가요. 홈 팬 앞에서 공격적으로 나오는 원정 팀 상대일수록 뒷공간이 넓어지니, 원정 10골 4실점이라는 숫자가 나와요.
+③ 에버턴은 바리 한 명에 기대요
+스카이스포츠(11월 21일)는 에버턴이 1군 18명, 정통 스트라이커는 티에르노 바리 한 명뿐이라고 짚었어요. 바리는 리그 6골 1도움으로 팀 12골의 절반을 넣었지만, 놓친 빅찬스도 16개로 리그에서 가장 많아요. 바리가 막히면 에버턴 공격도 같이 멈춰요.
+
+## 에버턴 전력: 듀스버리-홀의 압박, 세트피스가 무기
+
+모예스 감독은 4-2-3-1을 써요. 가너와 18세 암스트롱이 3선을 지키고, 듀스버리-홀이 그 위에서 거의 모든 곳에 나타나요. 듀스버리-홀은 리그 3골 1도움에 평점 7.27로 팀 내 최고예요(API-Football).
+에버턴이 리버풀을 잡으려면 리버풀 3선을 압박해야 해요. 흐라벤베르흐가 빠지면 소보슬러이와 맥 알리스터가 공을 돌려야 하는데, 듀스버리-홀과 바리가 첫 패스를 막으면 비르츠까지 공이 덜 가요.
+또 하나는 세트피스예요. 리버풀은 챔피언스리그 앞선 4경기에서 10골을 내줬을 만큼 수비가 흔들린 적이 있어요. 지난 4월 이 구장에서 열린 첫 더비에서도 에버턴은 한 골을 넣었어요.
+
+## 예상 선발: 킨이 타코우스키 자리, 리버풀은 은구모하
+
+[IMAGE]
+
+에버턴은 4-2-3-1로 픽포드, 오브라이언·킨·브랜스웨이트·미콜렌코, 가너·암스트롱, 뢸·듀스버리-홀·타이리크 조지, 최전방 바리를 예상해요.
+리버풀도 4-2-3-1이에요. 알리송, 프림퐁·자케·반 다이크·케르케즈, 소보슬러이·맥 알리스터, 은구모하·비르츠·바르콜라, 최전방 이삭이에요. 브뤼헤전에서 아라우호가 센터백을 봤지만, 더비처럼 공중볼이 많은 경기는 반 다이크가 돌아올 거라고 봐요.
+승부처는 가운데예요. 에버턴은 새 센터백 조합(킨·브랜스웨이트)으로 비르츠→이삭 연결을 끊어야 하고, 리버풀은 듀스버리-홀의 압박을 첫 패스로 벗겨야 해요.
+
+## 상대 전적: 리버풀 더비 3연승
+
+[IMAGE]
+
+최근 리그 10경기는 리버풀 7승 2무 1패예요. 리버풀이 최근 3경기를 모두 한 골 차로 이겼고, 지난 4월 힐 디킨슨 스타디움 첫 더비도 리버풀의 2-1 승리였어요.
+에버턴의 마지막 더비 승리는 2024년 4월 구디슨 파크 2-0이에요. 2025년 2월 구디슨 마지막 더비는 2-2였어요. 더비 3연패를 끊어야 하는 에버턴이에요.
+
+## 관전 포인트: 에버턴 리버풀 더비
+
+에버턴 쪽에서 보면
+· 타코우스키 없이 이삭을 막을 수 있을까요? 킨과 브랜스웨이트가 침투 1위 이삭의 뒷공간 움직임을 따라가야 해요.
+· 0-4 완패 뒤 홈 팬 앞에서 반등할 수 있을까요? 홈 3승 1무 1패의 기세를 다시 꺼내야 해요.
+리버풀 쪽에서 보면
+· 흐라벤베르흐·학포 없이도 중원과 2선이 버틸까요? 소보슬러이와 맥 알리스터가 듀스버리-홀의 압박을 견뎌야 해요.
+· 이삭이 원정 7경기 연속골로 기록을 늘릴까요? 비르츠의 4경기 연속 공격 포인트도 함께 걸려 있어요.
+
+## 제임스의 예상
+
+· 브뤼헤전 리뷰에서 저는 리버풀 2-1 승리를 예상했어요. 이 예상은 그대로 유지할게요.
+· 리버풀 골은 이삭과 비르츠가 넣는다고 봐요. 타코우스키가 빠진 에버턴 수비가 이삭의 침투를 90분 내내 따라가긴 어렵고, 비르츠는 4경기 연속 공격 포인트를 이어 갈 거예요.
+· 에버턴도 한 골은 넣을 거예요. 바리가 세트피스나 역습에서 한 번은 기회를 잡을 거고, 더비 특유의 거친 흐름 속에서 리버풀의 2경기 연속 무실점은 끝난다고 봐요.
+· 다만 리버풀이 60분까지 골을 못 넣으면 이 예상은 1-1 쪽으로 내려가요. 2선 교체 자원이 은구모하·쿠마스 같은 어린 선수뿐이라, 끌려가는 흐름에서 꺼낼 카드가 적어요.
+
+여러분은 이번 머지사이드 더비, 이삭이 원정 7경기 연속골을 넣을 거라고 보시나요? 타코우스키가 없는 에버턴 수비, 누가 이삭을 막아야 할까요? 댓글로 남겨 주세요!
+
+※ 순위, 홈·원정 기록, 경기 결과, 선발 명단, 선수 기록, 부상·징계 명단, 상대 전적은 API-Football(11월 28일 기준)이에요. 결장 명단은 경기 전에 바뀔 수 있어요. 이라올라 감독 발언과 타코우스키 퇴장 장면은 인디펜던트(11월 24·27일), 이삭 원정 연속골과 비르츠-이삭 패스 기록은 스카이스포츠(11월 27일, 옵타), 에버턴 스쿼드와 바리 빅찬스 기록은 스카이스포츠(11월 21일)를 참고했어요. 예상 선발은 제 예상이고, 썸네일은 AI 생성 이미지예요.
+
+#에버턴리버풀 #머지사이드더비 #리버풀 #에버턴 #프리미어리그 #EPL #이삭 #비르츠 #이라올라 #모예스 #티에르노바리 #듀스버리홀 #타코우스키 #소보슬러이 #학포 #힐디킨슨스타디움 #해외축구 #해축

@@ -1,0 +1,111 @@
+---
+style: classic
+title: 콘세이상의 유벤투스 코모 원정, 일디즈 없이 파브레가스에 당한 2연패 설욕할까
+category: 일정·프리뷰
+post_type: preview
+summary: 30일(월) 새벽 4시 45분 유벤투스가 코모 원정에서 세리에A 13라운드를 치러요. 5위 코모는 홈 5경기 1실점에 지난 시즌 유벤투스를 두 번 모두 2-0으로 이겼고, 6위 유벤투스는 일디즈·로카텔리·튀랑 없이 4위권 추격에 나서요. 순위와 흐름, 결장자, 예상 선발, 상대 전적과 스코어 예상까지 정리했어요.
+keywords: [유벤투스 코모, 코모 유벤투스, 콘세이상, 파브레가스, 스팔레티]
+tags: [유벤투스코모, 코모유벤투스, 유벤투스, 코모, 세리에A, 스팔레티, 파브레가스, 콘세이상, 일디즈, 브레메르, 콜로무아니, 볼테마데, 즈헤그로바, 니코파스, 얀코투, 모이스킨, 해외축구, 해축]
+sources: ["https://www.goal.com/en/news/kenan-yildiz-injury-update-juventus-chiellini/blt40057382cd4325e3", "https://www.corrieredellosport.it/news/calcio/europa-league/2026/11/25-152829811/spalletti_puntualizza_non_ho_parlato_male_di_kolo_muani_e_woltemade_una_questione_di_", "https://goal.com/it/notizie/perche-woltemade-kolo-muani-bremer-e-mckennie-non-giocano-juventus-omonia-infortunio-o-panchina-i-motivi-delle-scelte-di-spalletti/blte5f166289a94d7c0"]
+source_note: "API-Football(세리에A 순위·홈/원정 기록, 경기 결과, 선발 명단, 선수 기록, 부상 명단, 상대 전적, 11월 28일 기준), goal.com(일디즈 부상 경과·키엘리니 발언, 오모니아전 로테이션 이유), 코리에레 델로 스포르트 11월 25일(스팔레티 감독 기자회견)"
+data_as_of: "2026-11-28 08:00 KST"
+images:
+  - file: 2026-11-28-유벤투스코모프리뷰-fig-1.png
+    caption: 코모 유벤투스전 한눈에
+  - file: 2026-11-28-유벤투스코모프리뷰-fig-2.png
+    caption: 두 팀 최근 6경기
+  - file: 2026-11-28-유벤투스코모프리뷰-fig-3.png
+    caption: 코모 유벤투스 결장자
+  - file: 2026-11-28-유벤투스코모프리뷰-fig-6.png
+    caption: 두 팀 리그 공격 포인트
+  - file: 2026-11-28-유벤투스코모프리뷰-fig-4.png
+    caption: 예상 선발 포메이션 맞대결
+  - file: 2026-11-28-유벤투스코모프리뷰-fig-5.png
+    caption: 코모 유벤투스 최근 상대 전적
+thumbnail_prompt: "Photorealistic football photo, Serie A Sunday night match at the Stadio Giuseppe Sinigaglia in Como, Italy, late November, cold clear night, bright floodlights, the small packed lakeside stands blurred behind, with the dark outline of the hills above Lake Como in the distance. Francisco Conceição (프란시스쿠 콘세이상), the 23-year-old Portuguese right winger of Juventus, about 1.70 m, small, compact and quick, light olive Mediterranean skin, slim youthful face with a narrow chin, dark brown eyes, thick dark straight eyebrows, a straight nose, thin lips, very light stubble, short dark-brown hair: short and faded on the sides, a little longer and textured on top, pushed slightly up at the front. Shown from the front, three-quarter view, on the right wing cutting inside onto his LEFT foot, low centre of gravity, ball close to his feet, eyes up at the goal, sharp and determined expression. He wears Juventus's authentic 2026-27 adidas home matchday kit exactly as in real broadcast photos, not a plain or generic shirt: BLACK-AND-WHITE vertical striped shirt, the adidas logo on the right chest, the real Juventus 'J' crest on the left chest, the 'Jeep' sponsor logo across the middle of the chest with the smaller 'Visit Detroit' text below it, the Serie A sleeve badge on the right sleeve; white shorts with the number 7 and white socks. The name 'CONCEIÇÃO' and number 7 are printed on the back of his shirt (not visible from this angle). Fabric with realistic folds. Behind him, blurred, a Como defender in the blue home shirt with white shorts chases him. Realistic match moment only. Camera at waist height, framed from head to knees, he fills about 70% of the image height. Top fifth of the image dark night sky and floodlight glow for text. No other text in the image apart from the real kit sponsors, logos and shirt number. The face must closely resemble the real Francisco Conceição. Vertical 4:5."
+thumbnail_text: ["일디즈 없는 유벤투스", "코모에 3연패?"]
+thumbnail_file: "2026-11-28-유벤투스코모프리뷰-썸네일-AI.png"
+threads_text: ""
+publish_at: ""
+---
+
+안녕하세요! 제임스입니다~
+
+30일(월) 새벽 4시 45분, 유벤투스가 코모의 시니갈리아에서 세리에A 13라운드를 치러요. 현지 시간으로는 29일(일) 저녁 8시 45분 경기예요.
+상대 코모는 승점 26으로 5위이고, 이번 시즌 챔피언스리그까지 나가는 팀이에요. 지난 시즌엔 유벤투스를 홈과 원정에서 모두 2-0으로 이겼어요.
+유벤투스는 승점 21로 6위예요. 목요일 유로파리그에서 주전을 쉬게 하며 오모니아를 4-1로 이겼지만, 일디즈·로카텔리·튀랑 없이 코모 원정을 떠나요. 유벤투스 코모전을 순위와 흐름, 결장자, 예상 선발과 제 스코어 예상까지 한 번에 볼게요.
+
+[IMAGE]
+
+## 경기 정보: 5위 코모, 6위 유벤투스
+
+코모는 8승 2무 2패, 20골 10실점이에요. 홈 5경기에서 4승 1무, 실점은 단 1골이에요. 세리에A 20팀 중 홈 최소 실점이에요.
+유벤투스는 6승 3무 3패, 19골 12실점이에요. 원정 성적은 2승 2무 2패로 반반이에요.
+4위 밀란(승점 27)과는 6점, 코모와는 5점 차예요. 챔피언스리그 진출권인 4위 안을 노린다면 유벤투스에겐 놓칠 수 없는 맞대결이에요.
+
+## 최근 흐름: 코모 6경기 5승, 유벤투스 2연승
+
+[IMAGE]
+
+코모는 최근 6경기에서 5승 1패예요. 리그에선 토리노 3-1, 베네치아 1-0, 칼리아리 2-0을 이겼고, 인테르 원정에서만 0-2로 졌어요. 챔피언스리그에선 랑스 원정 9-1, AEK 아테네 1-0이에요.
+유벤투스는 피오렌티나 원정 2-2 뒤 베네치아 4-0, 오모니아 4-1로 2연승이에요. 베네치아전은 후반에만 네 골을 넣었고, 교체로 들어간 볼테마데가 1골 1도움을 했어요.
+오모니아전에선 스팔레티 감독이 볼테마데·콜로 무아니·브레메르·맥케니를 벤치에 앉혔어요. goal.com 이탈리아판은 이 선택을 부상이 아닌 코모전을 위한 휴식으로 봤어요. 그 경기에선 콘세이상이 1골 2도움으로 가장 빛났어요.
+
+## 결장자: 일디즈 없는 유벤투스, 킨 없는 코모
+
+[IMAGE]
+
+유벤투스의 가장 큰 공백은 일디즈예요. goal.com에 따르면 일디즈는 8월 왼발 다섯째 발허리뼈가 부러져 수술을 받았고, 키엘리니는 "공을 갖고 훈련을 시작했지만 아직 시간이 걸린다"고 했어요. 이번 시즌 리그 출전은 69분뿐이에요.
+여기에 중원의 로카텔리·튀랑(무릎), 오른쪽 수비 칼룰루(햄스트링), 니코 곤살레스(종아리)도 빠져요(API-Football). 스팔레티 감독도 기자회견에서 니코와 칼룰루, 장기 부상자를 빼고는 모두 뛸 수 있다고 했어요(코리에레 델로 스포르트, 11월 25일).
+코모는 유벤투스 출신 공격수 모이스 킨이 다리 부상으로 친정팀을 상대하지 못해요. 카케레·헤수스 로드리게스·디아오·아다이도 빠져요.
+
+## 원인 분석: 유벤투스는 왜 코모에 약했나
+
+[IMAGE]
+
+① 코모는 공을 뺏기지 않는 팀이에요
+세스크 파브레가스 감독의 코모는 뒤에서부터 짧은 패스로 풀어 나와요. 지난 시즌 두 번의 2-0도 유벤투스가 한 골도 넣지 못한 경기였어요. 압박으로 공을 뺏지 못하면 코모의 패스 흐름에 끌려다니기 쉬워요.
+그 중심이 니코 파스예요. 리그 3골 3도움으로 코모 최다 공격 포인트이고, 2선 가운데에서 공을 받아 앞으로 돌려 놓는 역할을 해요.
+② 유벤투스 중원이 비어 있어요
+로카텔리와 튀랑이 빠지면서 쿠프메이너르스와 두글라스 루이스가 수비형 미드필더를 맡아요. 두 선수 모두 공격 성향이 강해서, 니코 파스를 1대1로 막는 일에는 익숙하지 않아요.
+③ 골이 수비수에게서 나와요
+유벤투스 리그 최다 득점자는 수비수 브레메르(3골)예요. 공격 포인트는 즈헤그로바(2골 3도움)가 가장 많고, 콜로 무아니는 12경기 2골이에요. 일디즈가 빠진 뒤 공격의 마무리가 계속 숙제로 남아 있어요.
+그래서 콘세이상이 중요해요. 오른쪽에서 왼발로 안으로 파고드는 콘세이상이 코모의 왼쪽을 흔들어야 유벤투스가 홈 최소 실점 수비를 열 수 있어요.
+
+## 예상 선발: 콘세이상 선발, 코모는 니코 파스 중심
+
+[IMAGE]
+
+유벤투스는 베네치아전처럼 4-2-3-1로 비카리오, 첼리크·브레메르·켈리·카발, 두글라스 루이스·쿠프메이너르스, 콘세이상·맥케니·알라베고비치, 원톱 콜로 무아니를 예상해요. 볼테마데는 베네치아전처럼 후반 조커로 나올 것 같아요.
+코모는 4-2-3-1로 부테즈, 얀 코투·하코보 라몬·켐프·카이키, 페로네·밀라, 다쿠냐·니코 파스·바투리나, 원톱 두비카스를 예상해요.
+승부처는 유벤투스 왼쪽이에요. 코모 오른쪽 수비 얀 코투는 리그 4도움으로 팀 최다 도움이에요. 카발과 알라베고비치가 그의 오버래핑을 막지 못하면 두비카스의 머리로 바로 연결돼요.
+
+## 상대 전적: 지난 시즌 코모 2전 2승
+
+[IMAGE]
+
+코모가 1부로 올라온 뒤 네 번 만나 2승 2패예요. 2024-25시즌엔 유벤투스가 3-0, 2-1로 두 번 이겼지만, 2025-26시즌엔 코모가 2-0, 2-0으로 두 번 모두 이겼어요.
+파브레가스 감독은 코모를 맡은 뒤 유벤투스를 상대로 2승 2패, 최근 두 경기는 무실점 승리예요. 유벤투스가 이번에도 지면 코모전 3연패가 돼요.
+
+## 관전 포인트: 유벤투스 코모전
+
+유벤투스 쪽에서 보면
+· 오모니아전에서 쉰 주전들이 돌아와 코모의 홈 수비를 뚫을까요? 홈 5경기 1실점의 코모를 상대로 선제골이 곧 승부예요.
+· 콘세이상이 일디즈의 빈자리를 메울 수 있을까요? 1골 2도움의 흐름이 리그로 이어지면 유벤투스 공격의 답이 될 수 있어요.
+코모 쪽에서 보면
+· 킨 없이 두비카스가 골을 넣을까요? 리그 5골의 두비카스가 브레메르와의 맞대결에서 이겨야 해요.
+· 챔피언스리그 화요일 경기 뒤 체력이 버틸까요? 코모는 화요일(현지 24일) AEK전을 치렀고, 유벤투스는 이틀 뒤 유로파리그를 치렀지만 주전을 쉬게 했어요.
+
+## 제임스의 예상
+
+· 밀란·유벤투스 유로파 리뷰에서 저는 이 경기를 1-1 무승부로 예상했어요. 예상은 그대로 유지할게요.
+· 유벤투스 골은 콘세이상이 넣을 거라고 봐요. 오모니아전에서 몸이 가장 가벼웠고, 코모 왼쪽 수비 카이키를 상대로 1대1 돌파가 통할 수 있어요.
+· 코모 골은 니코 파스가 넣을 것 같아요. 로카텔리와 튀랑이 빠진 유벤투스 중원 앞 공간이 니코 파스가 가장 좋아하는 자리예요.
+· 이렇게 보는 이유는 두 팀의 강점이 비슷하게 맞서기 때문이에요. 코모는 홈 최소 실점, 유벤투스는 리그 4위 수준의 실점(12골)으로 둘 다 쉽게 무너지지 않아요.
+· 다만 유벤투스가 먼저 실점하면, 공격 숫자를 늘려도 일디즈 없는 마무리로는 뒤집기가 어려워요. 그땐 코모의 2-1 승리로 기울 거라고 봐요.
+
+여러분은 유벤투스가 코모전 2연패를 끊을 거라고 보시나요? 일디즈 없는 공격의 해답은 콘세이상일까요, 볼테마데일까요? 댓글로 남겨 주세요!
+
+※ 순위, 홈·원정 기록, 경기 결과, 선발 명단, 선수 기록, 부상 명단, 상대 전적은 API-Football(11월 28일 기준)이에요. 결장 명단은 경기 전에 바뀔 수 있어요. 일디즈 부상 경과와 키엘리니 발언, 오모니아전 로테이션 이유는 goal.com, 스팔레티 감독 기자회견은 코리에레 델로 스포르트(11월 25일)를 참고했어요. 예상 선발은 제 예상이고, 썸네일은 AI 생성 이미지예요.
+
+#유벤투스코모 #코모유벤투스 #유벤투스 #코모 #세리에A #스팔레티 #파브레가스 #콘세이상 #일디즈 #브레메르 #콜로무아니 #볼테마데 #즈헤그로바 #니코파스 #얀코투 #모이스킨 #해외축구 #해축
